@@ -71,9 +71,10 @@ def main():
         domains[w] = sorted(set(domains[w]) | ds)
 
     # lớp học thuật Claude/Haiku cho thuật ngữ ngành: data-econ/ai/ok-*.json (do validate.py lọc)
-    econ = []
+    econ = []  # (entry, model): ok-0xx = Claude Haiku (subagent), ok-2xx = Muse
     for f in sorted(glob.glob(str(ROOT / "data-econ" / "ai" / "ok-*.json"))):
-        econ += json.loads(Path(f).read_text(encoding="utf-8"))["entries"]
+        mdl = "muse-ai" if Path(f).stem.startswith("ok-2") else "claude-haiku-5-5"
+        econ += [(e, mdl) for e in json.loads(Path(f).read_text(encoding="utf-8"))["entries"]]
     n_dom = n_pilot = 0
     for w, ds in domains.items():
         p, e = entry(w)
@@ -92,7 +93,7 @@ def main():
         blk["model"] = MODEL
         touched.add(p); n_pilot += 1
     n_econ = 0
-    for pe in econ:
+    for pe, mdl in econ:
         if not pe["senses"]:
             continue
         p, e = entry(pe["word"])
@@ -102,7 +103,7 @@ def main():
         if blk is None or blk["senses"]:  # không đè nghĩa Gemini/Claude đã có
             continue
         blk["senses"] = [to_sense(s) for s in pe["senses"]]
-        blk["model"] = "claude-haiku-5-5"
+        blk["model"] = mdl
         touched.add(p); n_econ += 1
     for p in touched:
         p.write_text(json.dumps(shards[p], ensure_ascii=False, sort_keys=True, separators=(",", ":")), encoding="utf-8")

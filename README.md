@@ -29,3 +29,10 @@ Dữ liệu dựng sẵn từ bản web của dictionary.edtechcorner.com (CC BY
 Open English WordNet (CC BY 4.0), CEFR-J và Octanove Vocabulary Profile, Tatoeba (CC BY 2.0 FR), ECDICT (MIT).
 Chi tiết nguồn và giấy phép: `data/v/*/LICENSES.md` và trang *About* trong ứng dụng. Phần dữ liệu bổ sung (nhãn ngành từ
 Wiktionary categories; nghĩa do Claude soạn) cùng giấy phép CC BY-SA 4.0.
+
+## Dùng cho Writing / Speaking
+
+`export/writing-speaking/` có bộ CEFR lớn hơn (20.952 từ thay cho 9.394) đúng định dạng của hai repo:
+`aw-cefr.js` (thay file cùng tên ở artwrite), `cefr-dict.js` (thay file cùng tên ở fluentalk), `cefr-map.json`,
+`cefr-source.json` (từ nào cấp do AI ước lượng) và `glossary-vi.json` (nghĩa Việt + định nghĩa ngắn cho ~19.800 từ).
+Tạo lại: `python3.12 tools/make_cefr_map.py <aw-cefr.js gốc> <cefr-dict.js gốc>`.

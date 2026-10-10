@@ -8,8 +8,10 @@ def parse(txt):
     a, b = txt.find("{"), txt.rfind("}")
     return json.loads(txt[a:b + 1])
 done = bad = 0
-for f in sorted((H / "muse" / "out").glob("*.txt")):
-    n = f.stem.replace("prompt-", "").replace("out-", "")
+DESK = Path.home() / "Desktop" / "Ứng dụng"   # nơi bạn lưu kết quả Muse: batch-100.json, batch-101.json, ...
+files = sorted((H / "muse" / "out").glob("*.txt")) + sorted(DESK.glob("batch-*.json"))
+for f in files:
+    n = re.search(r"(\d+)", f.stem).group(1)
     try:
         d = parse(f.read_text(encoding="utf-8"))
         assert isinstance(d.get("entries"), list)

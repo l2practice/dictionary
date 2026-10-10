@@ -1,4 +1,31 @@
 <script lang="ts">
+  // Tab "Chuyên ngành": duyệt thuật ngữ kinh tế – kế toán theo ngành (data/domains.json: {ngành: [[từ, nghĩa Việt, CEFR, AI]]})
+  const DOM_LABEL: Record<string, [string, string]> = {
+    accounting: ["Accounting", "Kế toán"], economics: ["Economics", "Kinh tế"], finance: ["Finance", "Tài chính"], banking: ["Banking", "Ngân hàng"],
+    taxation: ["Tax", "Thuế"], insurance: ["Insurance", "Bảo hiểm"], "stock-market": ["Stock market", "Chứng khoán"], commerce: ["Commerce", "Thương mại"],
+    money: ["Money", "Tiền tệ"], business: ["Business", "Kinh doanh"], marketing: ["Marketing", "Marketing"], management: ["Management", "Quản trị"],
+  };
+  let domData = $state<Record<string, [string, string, string, number][]>>({});
+  let domSel = $state("accounting");
+  let domQ = $state("");
+  let domAiOnly = $state(false);
+  let domLoading = false;
+  async function loadDomains() {
+    if (domLoading || Object.keys(domData).length) return;
+    domLoading = true;
+    try {
+      const r = await fetch(new URL(((import.meta.env.VITE_DATA_BASE as string) || "/data/") + "domains.json", location.href));
+      domData = await r.json();
+    } catch {
+      say(ui.lang === "vi" ? "Không tải được danh sách chuyên ngành." : "Could not load the domain lists.");
+    } finally {
+      domLoading = false;
+    }
+  }
+  const domRows = $derived.by(() => {
+    const q = domQ.trim().toLowerCase();
+    return (domData[domSel] ?? []).filter((r) => (!domAiOnly || r[3]) && (!q || r[0].toLowerCase().includes(q) || r[1].toLowerCase().includes(q))).slice(0, 400);
+  });
   type Palette = "orange" | "periwinkle" | "terra" | "rose" | "classic";
   const PALETTES: { id: Palette; en: string; vi: string; sw: string }[] = [
     { id: "orange", en: "Orange", vi: "Cam", sw: "linear-gradient(135deg, #1f1b18 50%, #e8734a 50%)" },
@@ -59,7 +86,7 @@
   let activeList = $state(0);
   let items = $state<ListItem[]>([]);
   let saved = $state(new Set<string>());
-  let tab = $state<"history" | "lists">("history");
+  let tab = $state<"history" | "lists" | "domains">("history");
   let theme = $state<"auto" | "light" | "dark">("auto");
   let palette = $state<Palette>("orange");
   let fontSize = $state(16);
@@ -758,9 +785,26 @@
     <div class="tabs">
       <button class:on={tab === "history"} onclick={() => (tab = "history")}>{t("tabHistory")}</button>
       <button class:on={tab === "lists"} onclick={() => (tab = "lists")}>{t("tabLists")}</button>
+      <button class:on={tab === "domains"} onclick={() => { tab = "domains"; loadDomains(); }}>{ui.lang === "vi" ? "Chuyên ngành" : "Domains"}</button>
     </div>
     <div class="side-list">
-      {#if tab === "history"}
+      {#if tab === "domains"}
+        <div class="list-bar dom-bar">
+          <select bind:value={domSel} aria-label={ui.lang === "vi" ? "Chọn ngành" : "Choose domain"}>
+            {#each Object.keys(DOM_LABEL) as d}<option value={d}>{DOM_LABEL[d][ui.lang === "vi" ? 1 : 0]} ({(domData[d] ?? []).length})</option>{/each}
+          </select>
+          <input class="dom-q" bind:value={domQ} placeholder={ui.lang === "vi" ? "Lọc trong ngành…" : "Filter…"} aria-label={ui.lang === "vi" ? "Lọc" : "Filter"} />
+          <label class="dom-ai"><input type="checkbox" bind:checked={domAiOnly} /> {ui.lang === "vi" ? "Chỉ từ đã có nghĩa AI" : "With AI meanings only"}</label>
+        </div>
+        {#each domRows as r (r[0])}
+          <button class="dom" onclick={() => go(r[0])} title={r[1]}>
+            <span class="dom-w">{r[0]}</span>{#if r[2]}<span class="dom-c">{r[2]}</span>{/if}
+            {#if r[1]}<span class="dom-vi">{r[1]}</span>{/if}
+          </button>
+        {:else}
+          <p class="empty">{Object.keys(domData).length ? (ui.lang === "vi" ? "Không có từ nào." : "No terms.") : (ui.lang === "vi" ? "Đang tải…" : "Loading…")}</p>
+        {/each}
+      {:else if tab === "history"}
         {#if historyRows.length}
           {#each historyRows as h (h.key)}
             <button class:cur={current === h.key} onclick={() => go(h.key)} title={t("lookedUpAt", { t: when(h.ts) })}>
@@ -1464,6 +1508,13 @@
     font-size: 0.7rem;
     color: var(--ink-3);
   }
+  .dom-bar { flex-direction: column; align-items: stretch; gap: 6px; }
+  .dom-q { width: 100%; padding: 6px 10px; border: 1px solid var(--line); border-radius: 10px; background: var(--surface); color: var(--ink); font: inherit; font-size: 0.86rem; }
+  .dom-ai { font-size: 0.78rem; color: var(--ink-2); display: flex; gap: 6px; align-items: center; }
+  .side-list button.dom { display: block; }
+  .side-list button .dom-w { font-weight: 600; }
+  .side-list button .dom-c { margin-left: 6px; font-size: 0.68rem; color: var(--accent); font-weight: 600; }
+  .side-list button .dom-vi { display: block; font-size: 0.78rem; color: var(--vi); font-weight: 500; }
   .list-bar {
     padding: 6px 4px 8px;
     border-bottom: 1px solid var(--line);

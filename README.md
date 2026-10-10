@@ -1,13 +1,12 @@
-# Dictionary — từ điển Anh–Việt (bản web cá nhân)
+# Dictionary — từ điển Anh–Việt (bản web)
 
 Từ điển học tiếng Anh dạng web tĩnh: Anh–Anh, Anh–Việt, Việt–Anh, chạy offline sau lần tải đầu. Bản cá nhân, thêm lớp
 **thuật ngữ Kinh tế – Kế toán** (nhãn ngành) và phần học thuật thử nghiệm do Claude soạn (luôn gắn nhãn **AI**).
 
-> **Repo riêng tư, dùng cá nhân.** Giao diện là bản sửa từ
-> [ec-advanced-learners-dictionary](https://github.com/nguyennhuanhle/ec-advanced-learners-dictionary) của Lê Nguyễn Như Anh
-> (Edtech Corner). Giấy phép của ứng dụng gốc (xem `LICENSE-UPSTREAM-APP.txt`) **không cho phép phát hành bản đã sửa**
-> khi chưa được phép — vì vậy không đặt repo này ở chế độ công khai nếu chưa xin phép tác giả.
-> Đã bỏ Google Analytics của bản gốc, đổi tên và logo.
+> Giao diện là bản sửa từ [ec-advanced-learners-dictionary](https://github.com/nguyennhuanhle/ec-advanced-learners-dictionary)
+> của Lê Nguyễn Như Anh (Edtech Corner), **được tác giả đồng ý bằng email** cho việc phát hành bản sửa này.
+> Giấy phép gốc: `LICENSE-UPSTREAM-APP.txt`. Bản này đã bỏ Google Analytics của bản gốc, đổi tên và logo;
+> tên và logo "EC Advanced Learners' Dictionary" / Edtech Corner vẫn thuộc về tác giả gốc.
 
 ## Chạy thử trên máy
 

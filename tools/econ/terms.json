@@ -1,0 +1,7353 @@
+{
+"abatement": [
+"accounting"
+],
+"above the line": [
+"accounting",
+"marketing"
+],
+"account": [
+"accounting",
+"banking"
+],
+"accountancy": [
+"accounting"
+],
+"accountant": [
+"accounting"
+],
+"account book": [
+"accounting"
+],
+"accounting machine": [
+"accounting"
+],
+"account payable": [
+"accounting"
+],
+"account receivable": [
+"accounting"
+],
+"accounts payable": [
+"accounting",
+"business"
+],
+"accounts receivable": [
+"accounting",
+"business"
+],
+"accrual": [
+"accounting",
+"finance"
+],
+"accrue": [
+"accounting"
+],
+"accumulated depreciation": [
+"accounting"
+],
+"accumulation": [
+"accounting",
+"finance"
+],
+"age": [
+"accounting"
+],
+"amortization": [
+"accounting"
+],
+"annual accounts": [
+"accounting"
+],
+"AP": [
+"accounting",
+"banking"
+],
+"AR": [
+"accounting"
+],
+"articulation": [
+"accounting"
+],
+"asset": [
+"accounting",
+"finance",
+"insurance"
+],
+"assets": [
+"accounting",
+"finance"
+],
+"bad debt": [
+"accounting",
+"business"
+],
+"balance": [
+"accounting",
+"business"
+],
+"balance sheet": [
+"accounting"
+],
+"balance the books": [
+"accounting"
+],
+"bankbook": [
+"accounting"
+],
+"basis": [
+"accounting"
+],
+"bookkeeper": [
+"accounting"
+],
+"bookkeeping": [
+"accounting"
+],
+"books": [
+"accounting"
+],
+"breakage": [
+"accounting"
+],
+"capital account": [
+"accounting",
+"economics"
+],
+"capital adequacy": [
+"accounting"
+],
+"capital asset": [
+"accounting",
+"finance"
+],
+"capital equipment": [
+"accounting"
+],
+"capital expenditure": [
+"accounting",
+"finance"
+],
+"capital investment": [
+"accounting",
+"business"
+],
+"capitalize": [
+"accounting",
+"business",
+"finance",
+"taxation"
+],
+"capital stock": [
+"accounting",
+"finance"
+],
+"carry forward": [
+"accounting"
+],
+"cash flow": [
+"accounting"
+],
+"cast": [
+"accounting"
+],
+"certified public accountant": [
+"accounting"
+],
+"charge off": [
+"accounting"
+],
+"chartered accountant": [
+"accounting"
+],
+"chart of accounts": [
+"accounting"
+],
+"close the books": [
+"accounting",
+"finance"
+],
+"contra": [
+"accounting",
+"business"
+],
+"contractual": [
+"accounting"
+],
+"cooked": [
+"accounting"
+],
+"cook the books": [
+"accounting"
+],
+"cost center": [
+"accounting",
+"management"
+],
+"cost overrun": [
+"accounting"
+],
+"CR": [
+"accounting"
+],
+"creative accounting": [
+"accounting",
+"business"
+],
+"credit": [
+"accounting",
+"business",
+"finance"
+],
+"crediting": [
+"accounting"
+],
+"credit note": [
+"accounting"
+],
+"current asset": [
+"accounting"
+],
+"daybook": [
+"accounting"
+],
+"debit note": [
+"accounting"
+],
+"deferral": [
+"accounting"
+],
+"deferred": [
+"accounting",
+"finance"
+],
+"depletion": [
+"accounting"
+],
+"depreciation": [
+"accounting"
+],
+"direct cost": [
+"accounting",
+"business",
+"finance"
+],
+"double-entry": [
+"accounting"
+],
+"earnings": [
+"accounting",
+"business",
+"finance"
+],
+"eliminate": [
+"accounting"
+],
+"elimination": [
+"accounting"
+],
+"entry date": [
+"accounting"
+],
+"equity": [
+"accounting",
+"business",
+"finance"
+],
+"expense account": [
+"accounting"
+],
+"fair value": [
+"accounting",
+"economics"
+],
+"falsify": [
+"accounting"
+],
+"financial accounting": [
+"accounting"
+],
+"financial asset": [
+"accounting"
+],
+"financials": [
+"accounting",
+"business",
+"finance"
+],
+"financial statement": [
+"accounting",
+"finance"
+],
+"financial year": [
+"accounting"
+],
+"first in first out": [
+"accounting",
+"management"
+],
+"fiscal year": [
+"accounting"
+],
+"fixed asset": [
+"accounting",
+"business"
+],
+"fixed cost": [
+"accounting"
+],
+"flow variable": [
+"accounting",
+"economics"
+],
+"focus": [
+"accounting"
+],
+"folio": [
+"accounting"
+],
+"footing": [
+"accounting"
+],
+"forensic accounting": [
+"accounting"
+],
+"fund": [
+"accounting",
+"finance",
+"insurance"
+],
+"funds": [
+"accounting",
+"finance"
+],
+"general ledger": [
+"accounting",
+"business"
+],
+"going concern": [
+"accounting",
+"business",
+"finance"
+],
+"goodwill": [
+"accounting",
+"business"
+],
+"gross profit": [
+"accounting"
+],
+"gross sales": [
+"accounting",
+"business"
+],
+"historical cost": [
+"accounting"
+],
+"holdback": [
+"accounting"
+],
+"impairment": [
+"accounting"
+],
+"income": [
+"accounting",
+"business",
+"commerce",
+"finance"
+],
+"income statement": [
+"accounting"
+],
+"incur": [
+"accounting"
+],
+"indirect cost": [
+"accounting",
+"business",
+"finance"
+],
+"industrial output": [
+"accounting",
+"economics"
+],
+"intangible asset": [
+"accounting",
+"business"
+],
+"in the black": [
+"accounting"
+],
+"in the red": [
+"accounting"
+],
+"journal": [
+"accounting"
+],
+"lapping": [
+"accounting"
+],
+"last in first out": [
+"accounting",
+"business"
+],
+"ledger": [
+"accounting"
+],
+"liabilities": [
+"accounting",
+"finance"
+],
+"liability": [
+"accounting",
+"insurance"
+],
+"mark to market": [
+"accounting",
+"finance"
+],
+"mark to model": [
+"accounting"
+],
+"net asset value": [
+"accounting",
+"stock-market"
+],
+"net profit": [
+"accounting",
+"finance"
+],
+"net worth": [
+"accounting"
+],
+"nominal value": [
+"accounting",
+"finance"
+],
+"off the nut": [
+"accounting"
+],
+"on the books": [
+"accounting",
+"business"
+],
+"on the nut": [
+"accounting"
+],
+"operating cost": [
+"accounting",
+"business"
+],
+"operating income": [
+"accounting",
+"business"
+],
+"overhead": [
+"accounting",
+"business"
+],
+"payroll": [
+"accounting"
+],
+"per diem": [
+"accounting"
+],
+"post": [
+"accounting"
+],
+"posting": [
+"accounting"
+],
+"prepayment": [
+"accounting"
+],
+"profit": [
+"accounting",
+"economics"
+],
+"proration": [
+"accounting"
+],
+"provision": [
+"accounting",
+"money"
+],
+"purchase price": [
+"accounting",
+"management"
+],
+"recompense": [
+"accounting",
+"insurance"
+],
+"reconcile": [
+"accounting"
+],
+"reconciliation": [
+"accounting"
+],
+"recoverable": [
+"accounting"
+],
+"reimbursement": [
+"accounting",
+"business",
+"management"
+],
+"retail price": [
+"accounting",
+"management"
+],
+"retained earnings": [
+"accounting"
+],
+"revaluation": [
+"accounting"
+],
+"revenue": [
+"accounting",
+"business",
+"finance"
+],
+"settlement date": [
+"accounting"
+],
+"single-entry": [
+"accounting"
+],
+"slush fund": [
+"accounting",
+"finance"
+],
+"source document": [
+"accounting"
+],
+"spot date": [
+"accounting"
+],
+"sundries": [
+"accounting"
+],
+"tangible asset": [
+"accounting"
+],
+"throwback": [
+"accounting"
+],
+"throw-off": [
+"accounting"
+],
+"tick and tie": [
+"accounting"
+],
+"tie out": [
+"accounting",
+"finance"
+],
+"total loss": [
+"accounting",
+"insurance"
+],
+"trade date": [
+"accounting"
+],
+"trial balance": [
+"accounting"
+],
+"unbalanced": [
+"accounting"
+],
+"underfoot": [
+"accounting"
+],
+"underrun": [
+"accounting"
+],
+"value date": [
+"accounting"
+],
+"variable cost": [
+"accounting"
+],
+"walkthrough": [
+"accounting"
+],
+"wear and tear": [
+"accounting"
+],
+"working capital": [
+"accounting",
+"business"
+],
+"work in progress": [
+"accounting"
+],
+"write down": [
+"accounting"
+],
+"write off": [
+"accounting"
+],
+"write-off": [
+"accounting"
+],
+"write up": [
+"accounting"
+],
+"absolute advantage": [
+"economics"
+],
+"accelerationism": [
+"economics"
+],
+"accelerator effect": [
+"economics"
+],
+"additionality": [
+"economics"
+],
+"adverse selection": [
+"business",
+"economics",
+"insurance"
+],
+"agio": [
+"economics",
+"finance"
+],
+"agorism": [
+"economics"
+],
+"agroindustry": [
+"economics"
+],
+"AI winter": [
+"economics"
+],
+"anarcho-capitalism": [
+"economics"
+],
+"anarcho-capitalist": [
+"economics"
+],
+"anarcho-communism": [
+"economics"
+],
+"anarcho-communist": [
+"economics"
+],
+"anchor": [
+"economics"
+],
+"animal spirits": [
+"economics"
+],
+"anticompetitive": [
+"business",
+"economics"
+],
+"antidumping": [
+"economics"
+],
+"anti-inflationary": [
+"economics"
+],
+"antimonopolistic": [
+"economics"
+],
+"applied economics": [
+"economics"
+],
+"atomistic": [
+"economics"
+],
+"austerity": [
+"economics"
+],
+"autarky": [
+"economics"
+],
+"backwash": [
+"economics"
+],
+"bad": [
+"economics"
+],
+"balance of trade": [
+"economics"
+],
+"bank rate": [
+"economics"
+],
+"base year": [
+"economics"
+],
+"basket": [
+"economics"
+],
+"bimetallism": [
+"economics"
+],
+"bliss point": [
+"economics"
+],
+"bloom is off the rose": [
+"business",
+"economics"
+],
+"boom": [
+"business",
+"economics"
+],
+"bubble": [
+"economics"
+],
+"bubbly": [
+"economics"
+],
+"bullionism": [
+"economics"
+],
+"business cycle": [
+"economics"
+],
+"bust": [
+"economics",
+"finance"
+],
+"buy out": [
+"economics"
+],
+"capital": [
+"business",
+"economics",
+"finance",
+"insurance"
+],
+"capital flight": [
+"economics"
+],
+"capital gain": [
+"business",
+"economics",
+"finance"
+],
+"capital good": [
+"economics"
+],
+"capitalism": [
+"economics"
+],
+"capital loss": [
+"business",
+"economics",
+"finance"
+],
+"cartel": [
+"economics"
+],
+"casualisation": [
+"economics"
+],
+"CG": [
+"economics"
+],
+"chain": [
+"economics"
+],
+"circular economy": [
+"economics"
+],
+"clear the market": [
+"economics"
+],
+"cliometrics": [
+"economics"
+],
+"closed loop": [
+"economics"
+],
+"club good": [
+"economics"
+],
+"coemption": [
+"economics"
+],
+"coincident indicator": [
+"economics"
+],
+"collectivism": [
+"economics"
+],
+"collectivist anarchist": [
+"economics"
+],
+"command economy": [
+"economics"
+],
+"commodity": [
+"business",
+"economics",
+"marketing"
+],
+"common good": [
+"economics"
+],
+"comparative advantage": [
+"economics"
+],
+"competition": [
+"business",
+"economics"
+],
+"competitive": [
+"economics"
+],
+"competitive advantage": [
+"business",
+"economics"
+],
+"complement": [
+"economics"
+],
+"conditionality": [
+"economics",
+"finance"
+],
+"conservative": [
+"economics"
+],
+"consume": [
+"economics"
+],
+"consumer": [
+"business",
+"economics"
+],
+"consumer credit": [
+"banking",
+"economics"
+],
+"consumer price index": [
+"economics"
+],
+"consumer society": [
+"economics"
+],
+"consumer surplus": [
+"economics"
+],
+"consumption function": [
+"economics"
+],
+"contingent valuation": [
+"economics"
+],
+"contract curve": [
+"economics"
+],
+"contraction": [
+"economics"
+],
+"contracyclical": [
+"economics"
+],
+"convergence": [
+"economics"
+],
+"core inflation": [
+"economics"
+],
+"corner solution": [
+"economics"
+],
+"corporate tax": [
+"economics",
+"taxation"
+],
+"cost-benefit analysis": [
+"economics",
+"finance"
+],
+"cost of living": [
+"economics",
+"money"
+],
+"cottage industry": [
+"economics"
+],
+"countercyclical": [
+"economics"
+],
+"crawling peg": [
+"economics"
+],
+"credit crunch": [
+"economics",
+"finance"
+],
+"cross elasticity of demand": [
+"economics"
+],
+"currency war": [
+"economics"
+],
+"customs union": [
+"economics"
+],
+"cyclical unemployment": [
+"economics"
+],
+"debt ceiling": [
+"economics"
+],
+"debtor": [
+"economics"
+],
+"decoupling": [
+"economics"
+],
+"dedollarization": [
+"economics"
+],
+"deficit": [
+"economics"
+],
+"deflate": [
+"economics"
+],
+"deflated": [
+"economics"
+],
+"deflation": [
+"economics"
+],
+"deflator": [
+"economics"
+],
+"degression": [
+"economics"
+],
+"degrowth": [
+"economics"
+],
+"deleverage": [
+"economics",
+"finance"
+],
+"demand": [
+"economics"
+],
+"demand curve": [
+"economics"
+],
+"depreciator": [
+"economics"
+],
+"depress": [
+"economics"
+],
+"depression": [
+"economics"
+],
+"derivatives market": [
+"economics"
+],
+"detrending": [
+"economics"
+],
+"devaluation": [
+"economics"
+],
+"developed country": [
+"economics"
+],
+"developing country": [
+"economics"
+],
+"developmentalism": [
+"economics"
+],
+"dirty float": [
+"economics"
+],
+"diseconomies of scale": [
+"economics"
+],
+"diseconomy": [
+"economics"
+],
+"disinflation": [
+"economics"
+],
+"disinflationary": [
+"economics"
+],
+"disintermediation": [
+"banking",
+"business",
+"economics",
+"finance"
+],
+"disposable income": [
+"economics"
+],
+"distribution": [
+"business",
+"economics",
+"finance",
+"marketing"
+],
+"division of labour": [
+"economics"
+],
+"dollarization": [
+"economics"
+],
+"dolour": [
+"economics"
+],
+"domestic debt": [
+"economics"
+],
+"dovish": [
+"economics"
+],
+"downmarket": [
+"economics"
+],
+"drawdown": [
+"banking",
+"economics",
+"finance"
+],
+"dumping": [
+"economics"
+],
+"duopoly": [
+"economics"
+],
+"durable": [
+"economics"
+],
+"durable good": [
+"economics"
+],
+"easy money": [
+"economics"
+],
+"econometrics": [
+"economics"
+],
+"economical": [
+"economics"
+],
+"economic corridor": [
+"economics"
+],
+"economic crisis": [
+"economics"
+],
+"economic growth": [
+"economics"
+],
+"economic liberalism": [
+"economics"
+],
+"economic rent": [
+"economics"
+],
+"economic warfare": [
+"economics"
+],
+"economies of scale": [
+"economics"
+],
+"economism": [
+"economics"
+],
+"efficient market hypothesis": [
+"economics"
+],
+"elastic": [
+"economics"
+],
+"elasticity": [
+"economics"
+],
+"employment": [
+"economics"
+],
+"equilibrium price": [
+"economics"
+],
+"equivalent variation": [
+"economics"
+],
+"ergonomics": [
+"economics"
+],
+"Eurodollar": [
+"economics"
+],
+"exchange rate": [
+"economics",
+"finance"
+],
+"exchange value": [
+"economics"
+],
+"excludability": [
+"economics"
+],
+"excludable": [
+"economics"
+],
+"exclusive economic zone": [
+"economics"
+],
+"existentialist anarchist": [
+"economics"
+],
+"exogenous": [
+"economics"
+],
+"expansion": [
+"economics"
+],
+"exportation": [
+"business",
+"economics"
+],
+"externality": [
+"economics"
+],
+"externalize": [
+"economics"
+],
+"factor": [
+"economics"
+],
+"factor of production": [
+"economics"
+],
+"felicity": [
+"economics"
+],
+"fiat money": [
+"banking",
+"economics"
+],
+"firm": [
+"business",
+"economics"
+],
+"first best": [
+"economics"
+],
+"fiscal drag": [
+"economics"
+],
+"fiscal policy": [
+"economics"
+],
+"Fordism": [
+"economics"
+],
+"foreign aid": [
+"economics"
+],
+"foreign debt": [
+"economics",
+"finance"
+],
+"foreign direct investment": [
+"economics",
+"finance"
+],
+"fragmentation": [
+"economics"
+],
+"free market": [
+"economics"
+],
+"free rider": [
+"economics"
+],
+"free trade": [
+"economics"
+],
+"freshwater": [
+"economics"
+],
+"frictional unemployment": [
+"economics"
+],
+"FTP": [
+"business",
+"economics"
+],
+"full employment": [
+"economics"
+],
+"fundholding": [
+"economics"
+],
+"fundraising": [
+"economics"
+],
+"futures market": [
+"economics",
+"finance"
+],
+"G": [
+"economics"
+],
+"game-theoretical": [
+"economics"
+],
+"game theory": [
+"economics"
+],
+"general equilibrium": [
+"economics"
+],
+"geoeconomics": [
+"economics"
+],
+"gig economy": [
+"economics"
+],
+"glut": [
+"economics"
+],
+"gold standard": [
+"economics"
+],
+"goods": [
+"business",
+"economics"
+],
+"GPT": [
+"economics"
+],
+"gratis": [
+"economics"
+],
+"green anarchist": [
+"economics"
+],
+"green tax": [
+"economics"
+],
+"gross domestic product": [
+"economics"
+],
+"gross national income": [
+"economics"
+],
+"gross national product": [
+"economics"
+],
+"growth": [
+"economics"
+],
+"hard currency": [
+"economics",
+"finance"
+],
+"homothetic": [
+"economics"
+],
+"horizontal integration": [
+"economics"
+],
+"hot money": [
+"economics"
+],
+"human capital": [
+"economics"
+],
+"husbanded": [
+"economics"
+],
+"hyperinflation": [
+"economics"
+],
+"hyperinflationary": [
+"economics"
+],
+"hypo": [
+"economics",
+"finance"
+],
+"illiberal": [
+"economics"
+],
+"illiquidity": [
+"economics"
+],
+"impacted": [
+"economics"
+],
+"incentivize": [
+"business",
+"economics"
+],
+"income elasticity of demand": [
+"economics"
+],
+"index": [
+"economics"
+],
+"indicative planning": [
+"economics"
+],
+"indicator": [
+"economics"
+],
+"indifference curve": [
+"economics"
+],
+"individualist anarchism": [
+"economics"
+],
+"individualist anarchist": [
+"economics"
+],
+"industry": [
+"business",
+"economics"
+],
+"inelastic": [
+"economics"
+],
+"inelasticity": [
+"economics"
+],
+"infant industry": [
+"economics"
+],
+"inferior": [
+"economics"
+],
+"inferior good": [
+"economics"
+],
+"inflated": [
+"economics"
+],
+"inflater": [
+"economics"
+],
+"inflation": [
+"economics"
+],
+"inflationary spiral": [
+"economics"
+],
+"inflationism": [
+"economics"
+],
+"inside lag": [
+"banking",
+"economics"
+],
+"integrability": [
+"economics"
+],
+"intensive": [
+"economics"
+],
+"intrinsic value": [
+"economics",
+"finance"
+],
+"invisible hand": [
+"economics"
+],
+"involution": [
+"economics"
+],
+"isocost": [
+"economics"
+],
+"isoquant": [
+"economics"
+],
+"Japanification": [
+"economics"
+],
+"K": [
+"economics"
+],
+"Kaldor-Hicks efficient": [
+"economics"
+],
+"Keynes effect": [
+"economics"
+],
+"Keynesian": [
+"economics"
+],
+"Keynesian cross": [
+"economics"
+],
+"Keynesianism": [
+"economics"
+],
+"labor market": [
+"economics"
+],
+"labor theory of value": [
+"economics"
+],
+"labour theory of value": [
+"economics"
+],
+"Laffer curve": [
+"economics"
+],
+"laissez faire": [
+"economics"
+],
+"land tax": [
+"economics",
+"taxation"
+],
+"law of diminishing marginal utility": [
+"economics"
+],
+"law of diminishing returns": [
+"economics"
+],
+"leakage": [
+"economics"
+],
+"leapfrogging": [
+"business",
+"economics"
+],
+"left anarchist": [
+"economics"
+],
+"liberalism": [
+"economics"
+],
+"liberalization": [
+"economics"
+],
+"libertarianism": [
+"economics"
+],
+"liquidity": [
+"economics",
+"finance"
+],
+"liquidity trap": [
+"economics"
+],
+"living wage": [
+"economics"
+],
+"loanable funds": [
+"economics"
+],
+"locomotive": [
+"economics"
+],
+"long COVID": [
+"economics"
+],
+"macro": [
+"economics"
+],
+"macroeconomic": [
+"economics"
+],
+"Malthusianism": [
+"economics"
+],
+"marginal": [
+"economics"
+],
+"marginal analysis": [
+"economics"
+],
+"marginal cost": [
+"economics"
+],
+"marginal utility": [
+"economics"
+],
+"market": [
+"economics"
+],
+"market clearing": [
+"economics"
+],
+"market economy": [
+"economics"
+],
+"market equilibrium": [
+"economics"
+],
+"market failure": [
+"economics"
+],
+"market force": [
+"economics"
+],
+"market power": [
+"economics"
+],
+"market price": [
+"economics"
+],
+"market segmentation": [
+"economics",
+"marketing"
+],
+"mathematical economics": [
+"economics"
+],
+"maximax": [
+"economics"
+],
+"means of production": [
+"economics"
+],
+"mercantile": [
+"economics"
+],
+"mercantilism": [
+"economics"
+],
+"merchandise": [
+"economics"
+],
+"merger": [
+"economics"
+],
+"metallist": [
+"economics"
+],
+"micro": [
+"economics"
+],
+"microeconomic": [
+"economics"
+],
+"microeconomics": [
+"economics"
+],
+"microfoundations": [
+"economics"
+],
+"micropayment": [
+"economics"
+],
+"milkshed": [
+"economics"
+],
+"minimum wage": [
+"economics",
+"money"
+],
+"mixed economic": [
+"economics"
+],
+"monetarism": [
+"economics"
+],
+"monetary policy": [
+"economics"
+],
+"money illusion": [
+"economics"
+],
+"money supply": [
+"economics"
+],
+"monopolist": [
+"economics"
+],
+"monopsony": [
+"economics"
+],
+"moral hazard": [
+"economics",
+"insurance"
+],
+"multiplier": [
+"economics"
+],
+"municipalization": [
+"economics"
+],
+"mutualism": [
+"economics"
+],
+"national debt": [
+"economics"
+],
+"natural price": [
+"economics"
+],
+"neoclassical": [
+"economics"
+],
+"neoliberal": [
+"economics"
+],
+"neoliberalism": [
+"economics"
+],
+"network effect": [
+"economics"
+],
+"New Keynesian": [
+"economics"
+],
+"nominal": [
+"economics",
+"finance"
+],
+"non-price competition": [
+"economics"
+],
+"normal good": [
+"economics"
+],
+"normalization": [
+"economics"
+],
+"normative economics": [
+"economics"
+],
+"nosedive": [
+"economics"
+],
+"nudge": [
+"economics"
+],
+"offer curve": [
+"economics"
+],
+"oligopoly": [
+"economics"
+],
+"on strike": [
+"business",
+"economics"
+],
+"opportunity cost": [
+"economics"
+],
+"ordoliberalism": [
+"economics"
+],
+"out of work": [
+"economics"
+],
+"output": [
+"economics"
+],
+"overaccumulation": [
+"economics"
+],
+"overdrawer": [
+"economics"
+],
+"overhang": [
+"economics"
+],
+"overheat": [
+"economics"
+],
+"overheating": [
+"economics"
+],
+"panic": [
+"economics",
+"finance"
+],
+"paradox of thrift": [
+"economics"
+],
+"Pareto efficient": [
+"economics"
+],
+"Pareto optimal": [
+"economics"
+],
+"partial equilibrium": [
+"economics"
+],
+"passthrough": [
+"business",
+"economics",
+"taxation"
+],
+"pay-as-you-go": [
+"economics"
+],
+"perfect competition": [
+"economics"
+],
+"perfect information": [
+"economics"
+],
+"philosophical anarchist": [
+"economics"
+],
+"physiocrat": [
+"economics"
+],
+"planned economy": [
+"economics"
+],
+"point": [
+"economics"
+],
+"policy rate": [
+"economics",
+"finance"
+],
+"political economy": [
+"economics"
+],
+"polycrisis": [
+"economics"
+],
+"positional": [
+"economics"
+],
+"positional good": [
+"economics"
+],
+"positive economics": [
+"economics"
+],
+"poverty line": [
+"economics"
+],
+"predatory pricing": [
+"business",
+"economics"
+],
+"present value": [
+"economics",
+"finance"
+],
+"price control": [
+"economics"
+],
+"price discriminate": [
+"economics"
+],
+"price discrimination": [
+"economics"
+],
+"price elasticity of demand": [
+"economics"
+],
+"price index": [
+"economics"
+],
+"price stability": [
+"economics"
+],
+"price war": [
+"economics"
+],
+"primary industry": [
+"economics"
+],
+"primary sector": [
+"economics"
+],
+"prime the pump": [
+"economics"
+],
+"private good": [
+"economics"
+],
+"privatize": [
+"economics"
+],
+"producer": [
+"economics"
+],
+"producer good": [
+"economics"
+],
+"producer price index": [
+"economics"
+],
+"product differentiation": [
+"economics",
+"marketing"
+],
+"production": [
+"economics"
+],
+"profit motive": [
+"economics"
+],
+"protection": [
+"economics",
+"insurance"
+],
+"protectionism": [
+"economics"
+],
+"public finance": [
+"economics"
+],
+"public good": [
+"economics"
+],
+"public ownership": [
+"economics"
+],
+"public purse": [
+"economics",
+"money"
+],
+"punitive tariff": [
+"economics"
+],
+"purchasing power": [
+"business",
+"economics"
+],
+"purchasing power parity": [
+"economics"
+],
+"quantification": [
+"economics"
+],
+"quantitative easing": [
+"economics"
+],
+"quantum": [
+"economics"
+],
+"quasi-rent": [
+"economics"
+],
+"queer anarchist": [
+"economics"
+],
+"quota": [
+"business",
+"economics"
+],
+"race to the bottom": [
+"economics"
+],
+"ration": [
+"economics"
+],
+"rational": [
+"economics"
+],
+"rationalization": [
+"economics"
+],
+"real": [
+"economics"
+],
+"recession": [
+"economics"
+],
+"recovery": [
+"economics",
+"finance"
+],
+"reductive": [
+"economics"
+],
+"reexport": [
+"economics"
+],
+"reflate": [
+"economics"
+],
+"reflation": [
+"economics"
+],
+"reflationary": [
+"economics"
+],
+"regional economics": [
+"economics"
+],
+"regulatory capture": [
+"economics"
+],
+"relativity": [
+"economics"
+],
+"remonetization": [
+"economics"
+],
+"rent": [
+"economics"
+],
+"rent-seeking": [
+"economics"
+],
+"reprivatization": [
+"economics"
+],
+"reserve currency": [
+"economics"
+],
+"restrictionism": [
+"economics"
+],
+"retaliatory tariff": [
+"economics"
+],
+"returns to scale": [
+"economics"
+],
+"revalorization": [
+"economics"
+],
+"revealed preference": [
+"economics"
+],
+"rigidity": [
+"economics"
+],
+"risk": [
+"banking",
+"business",
+"economics",
+"finance",
+"insurance"
+],
+"risk-averse": [
+"economics"
+],
+"rivalrous": [
+"economics"
+],
+"rivalry": [
+"economics"
+],
+"salariat": [
+"economics"
+],
+"salary": [
+"economics",
+"money"
+],
+"sales": [
+"economics"
+],
+"seasonal unemployment": [
+"economics"
+],
+"secondary sector": [
+"economics"
+],
+"second best": [
+"economics"
+],
+"service": [
+"business",
+"economics"
+],
+"service economy": [
+"economics"
+],
+"services": [
+"business",
+"economics"
+],
+"severable": [
+"economics"
+],
+"shadow price": [
+"economics"
+],
+"sharing economy": [
+"economics"
+],
+"shock therapy": [
+"economics"
+],
+"shortage": [
+"economics"
+],
+"shrinkflation": [
+"economics"
+],
+"single-taxism": [
+"economics"
+],
+"skimming": [
+"economics",
+"finance"
+],
+"small business": [
+"business",
+"economics"
+],
+"snob effect": [
+"economics"
+],
+"social insurance": [
+"economics"
+],
+"social welfare": [
+"economics"
+],
+"soft landing": [
+"economics"
+],
+"spread": [
+"business",
+"economics",
+"finance"
+],
+"stagflation": [
+"economics"
+],
+"stagnation": [
+"economics"
+],
+"stamp duty": [
+"economics",
+"taxation"
+],
+"standard of living": [
+"economics"
+],
+"starve the beast": [
+"economics",
+"taxation"
+],
+"state ownership": [
+"economics"
+],
+"steroidal": [
+"economics"
+],
+"stickiness": [
+"economics",
+"marketing"
+],
+"straddle": [
+"economics",
+"finance"
+],
+"structural unemployment": [
+"economics"
+],
+"subject of labor": [
+"economics"
+],
+"substitute": [
+"economics"
+],
+"sunk cost": [
+"economics"
+],
+"supply": [
+"economics"
+],
+"supply and demand": [
+"economics"
+],
+"supply curve": [
+"economics"
+],
+"supply side": [
+"economics"
+],
+"supply-side": [
+"economics"
+],
+"supply-side economics": [
+"economics"
+],
+"surplus": [
+"economics"
+],
+"surrogate": [
+"economics"
+],
+"swadeshi": [
+"economics"
+],
+"take-home pay": [
+"economics"
+],
+"takeover": [
+"economics"
+],
+"tatonnement": [
+"economics"
+],
+"tertiary sector": [
+"economics"
+],
+"third best": [
+"economics"
+],
+"tighten": [
+"economics"
+],
+"too big to fail": [
+"economics",
+"finance"
+],
+"trade": [
+"economics",
+"finance"
+],
+"trade barrier": [
+"business",
+"economics"
+],
+"trade deficit": [
+"economics"
+],
+"trade surplus": [
+"economics"
+],
+"trading": [
+"economics"
+],
+"tragedy of the commons": [
+"economics"
+],
+"trickle down": [
+"economics"
+],
+"trickle-down hypothesis": [
+"economics"
+],
+"trough": [
+"economics"
+],
+"turnpike": [
+"economics"
+],
+"Uberize": [
+"economics"
+],
+"undercapitalize": [
+"economics"
+],
+"underconsumption": [
+"economics"
+],
+"unemployed": [
+"economics"
+],
+"unemployment": [
+"economics"
+],
+"unemployment rate": [
+"economics"
+],
+"universe": [
+"economics",
+"marketing"
+],
+"upmarket": [
+"economics"
+],
+"utility": [
+"business",
+"economics",
+"finance"
+],
+"value added": [
+"business",
+"economics"
+],
+"veganarchism": [
+"economics"
+],
+"velocity": [
+"economics"
+],
+"vertical integration": [
+"economics"
+],
+"volatile": [
+"economics",
+"finance"
+],
+"volume": [
+"economics"
+],
+"war communism": [
+"economics"
+],
+"wealth": [
+"economics"
+],
+"wildcat strike": [
+"economics"
+],
+"winner-take-all": [
+"economics"
+],
+"working poor": [
+"economics"
+],
+"AA": [
+"finance",
+"insurance"
+],
+"ABC": [
+"business",
+"finance",
+"management"
+],
+"AC": [
+"finance"
+],
+"acceptance": [
+"business",
+"finance"
+],
+"accepting house": [
+"finance"
+],
+"accumulator": [
+"finance"
+],
+"actual": [
+"finance"
+],
+"actuarial science": [
+"finance",
+"insurance"
+],
+"aftermarket": [
+"business",
+"finance"
+],
+"aggressive": [
+"finance"
+],
+"alleviate": [
+"finance"
+],
+"alpha": [
+"finance"
+],
+"alt": [
+"finance"
+],
+"alternative investment fund": [
+"finance"
+],
+"amends": [
+"finance",
+"insurance"
+],
+"American": [
+"finance"
+],
+"amortize": [
+"business",
+"finance"
+],
+"amortized": [
+"business",
+"finance"
+],
+"angel": [
+"finance"
+],
+"anticipation": [
+"finance"
+],
+"arb": [
+"finance"
+],
+"arbitrage": [
+"finance"
+],
+"arbitrager": [
+"finance"
+],
+"arbitrageur": [
+"finance"
+],
+"arrear": [
+"finance"
+],
+"asking price": [
+"business",
+"finance"
+],
+"assented": [
+"finance"
+],
+"assertion": [
+"finance"
+],
+"asset-backed": [
+"finance"
+],
+"at": [
+"finance"
+],
+"at a premium": [
+"finance"
+],
+"attestation": [
+"business",
+"finance"
+],
+"at the expense of": [
+"finance"
+],
+"at the money": [
+"finance"
+],
+"audit": [
+"business",
+"finance"
+],
+"Aussie": [
+"finance"
+],
+"aval": [
+"finance"
+],
+"average down": [
+"finance"
+],
+"average up": [
+"finance"
+],
+"axe": [
+"finance"
+],
+"back up the truck": [
+"finance"
+],
+"backwardation": [
+"finance",
+"stock-market"
+],
+"bailout": [
+"finance"
+],
+"balloon": [
+"finance"
+],
+"bang": [
+"finance"
+],
+"bank": [
+"banking",
+"finance"
+],
+"bankability": [
+"finance"
+],
+"bankable": [
+"finance"
+],
+"banking": [
+"finance"
+],
+"bankrupt": [
+"finance"
+],
+"bankruptcy": [
+"finance"
+],
+"barrier to entry": [
+"finance"
+],
+"base rate": [
+"finance"
+],
+"basis point": [
+"finance"
+],
+"bazooka": [
+"finance"
+],
+"BD": [
+"finance"
+],
+"bear": [
+"finance"
+],
+"bearer bond": [
+"finance"
+],
+"bear market": [
+"finance"
+],
+"bellwether": [
+"finance"
+],
+"beta": [
+"finance"
+],
+"bid-ask spread": [
+"finance"
+],
+"bidding price": [
+"business",
+"finance"
+],
+"bid down": [
+"finance"
+],
+"bill of sale": [
+"finance"
+],
+"binary": [
+"finance"
+],
+"bitcoin": [
+"finance"
+],
+"bleed": [
+"finance"
+],
+"bluebird": [
+"business",
+"finance"
+],
+"blue chip": [
+"finance"
+],
+"bond": [
+"finance"
+],
+"bondholder": [
+"finance"
+],
+"book value": [
+"finance"
+],
+"boomlet": [
+"finance"
+],
+"bounced cheque": [
+"finance"
+],
+"bp": [
+"finance"
+],
+"break": [
+"finance"
+],
+"break the buck": [
+"finance"
+],
+"bridge loan": [
+"business",
+"finance"
+],
+"buck": [
+"finance",
+"money"
+],
+"bucket": [
+"finance"
+],
+"budget deficit": [
+"finance"
+],
+"buffer": [
+"business",
+"finance"
+],
+"bull": [
+"finance"
+],
+"bullet": [
+"banking",
+"finance"
+],
+"bull market": [
+"finance"
+],
+"bull run": [
+"finance"
+],
+"butterfly": [
+"finance"
+],
+"buy in": [
+"finance"
+],
+"buy into": [
+"finance"
+],
+"buyout": [
+"finance",
+"stock-market"
+],
+"buy the dip": [
+"finance"
+],
+"cable": [
+"finance"
+],
+"CAG": [
+"finance"
+],
+"call": [
+"banking",
+"finance"
+],
+"callable": [
+"finance"
+],
+"call money": [
+"banking",
+"finance"
+],
+"call option": [
+"finance"
+],
+"candlestick": [
+"finance",
+"stock-market"
+],
+"candlestick chart": [
+"finance"
+],
+"cap": [
+"finance"
+],
+"capitalizable": [
+"finance"
+],
+"capital market": [
+"finance"
+],
+"capital structure": [
+"finance"
+],
+"cardholder": [
+"banking",
+"finance"
+],
+"carry": [
+"finance"
+],
+"cash": [
+"finance",
+"money"
+],
+"cash is king": [
+"business",
+"finance"
+],
+"cash poor": [
+"business",
+"finance"
+],
+"cash rich": [
+"business",
+"finance"
+],
+"cats and dogs": [
+"finance"
+],
+"CD": [
+"business",
+"finance"
+],
+"ceiling": [
+"finance"
+],
+"certificate of deposit": [
+"banking",
+"finance"
+],
+"CF": [
+"finance"
+],
+"charge account": [
+"finance"
+],
+"charm": [
+"finance"
+],
+"chartism": [
+"finance"
+],
+"chartist": [
+"finance"
+],
+"cheap": [
+"finance"
+],
+"checkable": [
+"finance"
+],
+"checking": [
+"finance"
+],
+"chewable": [
+"finance"
+],
+"chunky": [
+"finance"
+],
+"churn": [
+"business",
+"finance"
+],
+"circuit breaker": [
+"finance"
+],
+"clean down": [
+"finance"
+],
+"clearance": [
+"banking",
+"finance"
+],
+"clearing": [
+"banking",
+"finance"
+],
+"close": [
+"finance",
+"marketing"
+],
+"close out": [
+"finance",
+"marketing"
+],
+"club together": [
+"finance"
+],
+"collar": [
+"finance"
+],
+"collateral": [
+"finance",
+"marketing"
+],
+"collateral security": [
+"finance"
+],
+"color": [
+"finance"
+],
+"commercial": [
+"finance"
+],
+"commercial paper": [
+"finance"
+],
+"committee": [
+"finance"
+],
+"commodity market": [
+"business",
+"finance"
+],
+"commodity money": [
+"banking",
+"finance"
+],
+"common stock": [
+"finance"
+],
+"commutate": [
+"finance"
+],
+"commute": [
+"finance",
+"insurance"
+],
+"compensation": [
+"finance"
+],
+"compound": [
+"finance"
+],
+"compound interest": [
+"banking",
+"finance"
+],
+"condor": [
+"finance"
+],
+"conduit": [
+"finance"
+],
+"consolidate": [
+"finance"
+],
+"consolidated": [
+"finance"
+],
+"contagion": [
+"finance"
+],
+"contango": [
+"finance"
+],
+"contingency": [
+"finance"
+],
+"contrarian": [
+"finance"
+],
+"conventional": [
+"finance"
+],
+"convertible": [
+"finance",
+"money"
+],
+"convertible security": [
+"finance"
+],
+"convexity": [
+"finance"
+],
+"corner": [
+"business",
+"finance"
+],
+"corner the market": [
+"business",
+"finance"
+],
+"corporate": [
+"business",
+"finance"
+],
+"corporation": [
+"business",
+"finance"
+],
+"corset": [
+"finance"
+],
+"cost price": [
+"finance"
+],
+"counterparty": [
+"finance",
+"insurance"
+],
+"coupon": [
+"finance"
+],
+"cover shorts": [
+"finance"
+],
+"crash": [
+"finance",
+"management"
+],
+"credit card": [
+"banking",
+"finance"
+],
+"credit default swap": [
+"finance"
+],
+"creditor": [
+"finance"
+],
+"credit rating": [
+"finance"
+],
+"credit risk": [
+"finance"
+],
+"credit score": [
+"finance"
+],
+"credit union": [
+"banking",
+"finance"
+],
+"creditworthiness": [
+"finance"
+],
+"creditworthy": [
+"finance"
+],
+"crossed cheque": [
+"finance"
+],
+"crowdfunding": [
+"finance"
+],
+"crowd in": [
+"finance"
+],
+"cryptocurrency wallet": [
+"finance"
+],
+"CTO": [
+"finance"
+],
+"cum dividend": [
+"finance"
+],
+"cumulative": [
+"finance"
+],
+"currency risk": [
+"finance"
+],
+"cushion": [
+"finance"
+],
+"cyclical": [
+"finance"
+],
+"day trade": [
+"business",
+"finance"
+],
+"debenture": [
+"finance"
+],
+"debit": [
+"finance"
+],
+"debit card": [
+"banking",
+"finance"
+],
+"debt": [
+"finance"
+],
+"decliner": [
+"finance"
+],
+"deduction": [
+"finance"
+],
+"defalcate": [
+"finance"
+],
+"default": [
+"finance"
+],
+"defaulter": [
+"finance"
+],
+"delta": [
+"finance"
+],
+"dematerialization": [
+"finance"
+],
+"deposit": [
+"banking",
+"finance"
+],
+"depositary receipt": [
+"banking",
+"finance"
+],
+"deposit money": [
+"banking",
+"finance"
+],
+"derivative": [
+"finance"
+],
+"derogatory": [
+"business",
+"finance"
+],
+"digital": [
+"finance"
+],
+"dilution": [
+"finance"
+],
+"dip": [
+"finance"
+],
+"disburse": [
+"finance"
+],
+"disbursement": [
+"finance"
+],
+"discount": [
+"finance"
+],
+"discount house": [
+"finance"
+],
+"discount market": [
+"finance"
+],
+"discount rate": [
+"finance"
+],
+"distressed": [
+"finance"
+],
+"diverse": [
+"business",
+"finance"
+],
+"diversification": [
+"finance"
+],
+"divest": [
+"finance"
+],
+"divestment": [
+"finance"
+],
+"dividend": [
+"finance"
+],
+"do": [
+"finance"
+],
+"do a bit of stiff": [
+"finance"
+],
+"don't fight the tape": [
+"finance"
+],
+"down payment": [
+"finance"
+],
+"drip": [
+"finance"
+],
+"duck": [
+"finance"
+],
+"due date": [
+"banking",
+"finance"
+],
+"duration": [
+"finance",
+"insurance"
+],
+"earmark": [
+"finance"
+],
+"easy": [
+"finance"
+],
+"Elliott wave": [
+"finance"
+],
+"encashment": [
+"finance"
+],
+"endowment effect": [
+"finance"
+],
+"epsilon": [
+"finance"
+],
+"equalization": [
+"finance"
+],
+"essay": [
+"finance"
+],
+"Euro-": [
+"finance"
+],
+"European": [
+"finance"
+],
+"even up": [
+"finance"
+],
+"e-wallet": [
+"finance"
+],
+"ex ante": [
+"finance"
+],
+"exchange": [
+"finance"
+],
+"exchangeable": [
+"finance"
+],
+"ex dividend": [
+"finance"
+],
+"exotic": [
+"finance"
+],
+"extension": [
+"banking",
+"finance"
+],
+"facility": [
+"banking",
+"finance"
+],
+"fallen angel": [
+"finance"
+],
+"farm down": [
+"finance"
+],
+"financial crisis": [
+"finance"
+],
+"financial independence": [
+"finance"
+],
+"financial institution": [
+"banking",
+"business",
+"finance"
+],
+"financial instrument": [
+"finance"
+],
+"financial management": [
+"finance"
+],
+"financial market": [
+"finance"
+],
+"financier": [
+"finance"
+],
+"financing": [
+"business",
+"finance"
+],
+"fintech": [
+"business",
+"finance"
+],
+"fives": [
+"finance"
+],
+"flat": [
+"commerce",
+"finance"
+],
+"flattener": [
+"finance"
+],
+"flip": [
+"finance"
+],
+"flipper": [
+"finance"
+],
+"float": [
+"banking",
+"finance",
+"insurance"
+],
+"floater": [
+"finance",
+"insurance"
+],
+"floor": [
+"finance"
+],
+"flotation": [
+"finance"
+],
+"fly": [
+"finance"
+],
+"foreign currency": [
+"banking",
+"finance"
+],
+"foreign exchange": [
+"finance"
+],
+"foreign exchange certificate": [
+"finance"
+],
+"foreign exchange market": [
+"finance"
+],
+"forex": [
+"finance"
+],
+"forgivable": [
+"finance"
+],
+"forward": [
+"commerce",
+"finance"
+],
+"forward contract": [
+"commerce",
+"finance"
+],
+"forward market": [
+"finance"
+],
+"fours": [
+"finance"
+],
+"fractional reserve banking": [
+"banking",
+"finance"
+],
+"franking": [
+"finance"
+],
+"free ride": [
+"finance"
+],
+"freeze": [
+"business",
+"finance"
+],
+"frictionless": [
+"finance"
+],
+"front-end": [
+"finance"
+],
+"front run": [
+"business",
+"finance"
+],
+"front runner": [
+"business",
+"finance"
+],
+"fundamentalism": [
+"finance"
+],
+"fundamentalist": [
+"finance"
+],
+"fundamentals": [
+"finance"
+],
+"funded": [
+"finance"
+],
+"fungible": [
+"commerce",
+"finance"
+],
+"future": [
+"finance"
+],
+"futures contract": [
+"finance"
+],
+"gamma": [
+"finance"
+],
+"gaucho": [
+"finance"
+],
+"gear": [
+"finance"
+],
+"gearing": [
+"finance"
+],
+"gilt": [
+"finance"
+],
+"gilt-edged": [
+"finance"
+],
+"give credit": [
+"finance"
+],
+"give up": [
+"finance"
+],
+"gold certificate": [
+"finance"
+],
+"gold reserve": [
+"banking",
+"finance"
+],
+"go long": [
+"finance"
+],
+"go public": [
+"business",
+"finance"
+],
+"go short": [
+"finance"
+],
+"government bond": [
+"finance"
+],
+"grace": [
+"finance"
+],
+"Greek": [
+"finance"
+],
+"grey market": [
+"business",
+"finance"
+],
+"haircut": [
+"business",
+"finance"
+],
+"hammer": [
+"finance"
+],
+"hard": [
+"finance"
+],
+"head and shoulders": [
+"finance"
+],
+"heavy": [
+"finance"
+],
+"hedge": [
+"finance"
+],
+"hedged": [
+"finance"
+],
+"hedge fund": [
+"finance",
+"stock-market"
+],
+"hedging": [
+"finance"
+],
+"hickey": [
+"business",
+"finance"
+],
+"highflier": [
+"finance"
+],
+"holiday": [
+"finance"
+],
+"home equity": [
+"finance"
+],
+"home loan": [
+"finance"
+],
+"IB": [
+"finance"
+],
+"illiquid": [
+"finance"
+],
+"immobilize": [
+"finance"
+],
+"imprest": [
+"finance"
+],
+"incentive": [
+"finance"
+],
+"index-linked": [
+"finance"
+],
+"indication": [
+"finance"
+],
+"indirect": [
+"finance"
+],
+"industrial": [
+"business",
+"finance"
+],
+"initial public offering": [
+"business",
+"finance"
+],
+"in mora": [
+"finance"
+],
+"insider trading": [
+"business",
+"finance"
+],
+"insolvency": [
+"finance"
+],
+"in specie": [
+"finance"
+],
+"installment": [
+"banking",
+"finance"
+],
+"installment loan": [
+"banking",
+"finance"
+],
+"interest": [
+"finance"
+],
+"interest-free": [
+"finance"
+],
+"interest rate": [
+"finance"
+],
+"internalize": [
+"finance"
+],
+"in the money": [
+"finance"
+],
+"investable": [
+"finance"
+],
+"investment": [
+"finance"
+],
+"investment bank": [
+"banking",
+"finance"
+],
+"investment banker": [
+"finance"
+],
+"investment banking": [
+"banking",
+"finance"
+],
+"investment fund": [
+"finance"
+],
+"investment strategy": [
+"finance"
+],
+"investor": [
+"business",
+"finance"
+],
+"irredeemable": [
+"finance"
+],
+"ISO": [
+"finance"
+],
+"issue": [
+"finance"
+],
+"itemizer": [
+"finance"
+],
+"jeonse": [
+"finance"
+],
+"job backwards": [
+"finance"
+],
+"jobber": [
+"business",
+"finance"
+],
+"joint-stock company": [
+"business",
+"finance"
+],
+"jump the gun": [
+"finance"
+],
+"junk bond": [
+"finance"
+],
+"kaffir": [
+"finance"
+],
+"kangaroo": [
+"finance"
+],
+"kappa": [
+"finance"
+],
+"kicker": [
+"finance"
+],
+"kite": [
+"banking",
+"finance"
+],
+"lamb": [
+"finance"
+],
+"lambda": [
+"finance"
+],
+"lame duck": [
+"finance"
+],
+"layaway": [
+"business",
+"finance"
+],
+"lazy Susan": [
+"finance"
+],
+"leg": [
+"finance"
+],
+"leg out": [
+"finance"
+],
+"lender of last resort": [
+"finance"
+],
+"let something ride": [
+"finance"
+],
+"letter of credit": [
+"banking",
+"finance"
+],
+"lever": [
+"finance"
+],
+"leverage": [
+"business",
+"finance"
+],
+"leveraged": [
+"finance"
+],
+"life annuity": [
+"finance"
+],
+"lift": [
+"finance"
+],
+"limited company": [
+"business",
+"finance"
+],
+"limited liability": [
+"finance"
+],
+"limited liability company": [
+"business",
+"finance"
+],
+"line of credit": [
+"banking",
+"finance"
+],
+"linker": [
+"finance"
+],
+"liquid": [
+"finance"
+],
+"liquidate": [
+"business",
+"finance"
+],
+"liquidation": [
+"finance"
+],
+"liquidator": [
+"finance"
+],
+"liquidize": [
+"business",
+"finance"
+],
+"liquidized": [
+"business",
+"finance"
+],
+"live up": [
+"finance"
+],
+"loan": [
+"banking",
+"finance"
+],
+"local": [
+"finance"
+],
+"lockup": [
+"finance",
+"marketing"
+],
+"Lombard rate": [
+"finance"
+],
+"long": [
+"finance"
+],
+"look down": [
+"finance"
+],
+"makeup": [
+"finance"
+],
+"make whole": [
+"finance"
+],
+"margin": [
+"finance"
+],
+"margin debt": [
+"finance"
+],
+"marketable": [
+"finance"
+],
+"market capitalization": [
+"finance"
+],
+"market maker": [
+"finance"
+],
+"market risk": [
+"finance"
+],
+"market share": [
+"business",
+"finance"
+],
+"market value": [
+"finance"
+],
+"mature": [
+"finance"
+],
+"maturity": [
+"finance",
+"insurance"
+],
+"maturity date": [
+"finance"
+],
+"meltdown": [
+"finance"
+],
+"melt up": [
+"finance"
+],
+"mergers and acquisitions": [
+"business",
+"finance"
+],
+"mischarge": [
+"finance"
+],
+"momentum": [
+"finance"
+],
+"money market": [
+"finance"
+],
+"money order": [
+"banking",
+"finance"
+],
+"moratory": [
+"finance"
+],
+"mortgage-backed": [
+"finance"
+],
+"multiple": [
+"finance"
+],
+"municipal": [
+"finance"
+],
+"munificent": [
+"finance"
+],
+"mutual": [
+"business",
+"finance",
+"insurance"
+],
+"mutual fund": [
+"finance"
+],
+"mutualize": [
+"finance"
+],
+"mutual organization": [
+"finance"
+],
+"naked": [
+"finance"
+],
+"name": [
+"finance"
+],
+"name day": [
+"finance"
+],
+"national income": [
+"finance"
+],
+"nearby": [
+"finance"
+],
+"near money": [
+"finance"
+],
+"negotiable": [
+"finance"
+],
+"net present value": [
+"finance"
+],
+"nexus": [
+"finance"
+],
+"niche market": [
+"business",
+"finance"
+],
+"no-load": [
+"finance"
+],
+"noncommercial": [
+"finance"
+],
+"no-par": [
+"finance"
+],
+"notch": [
+"finance"
+],
+"note": [
+"finance"
+],
+"notional": [
+"finance"
+],
+"obligee": [
+"finance"
+],
+"obligor": [
+"finance"
+],
+"offtake": [
+"finance"
+],
+"omega": [
+"finance"
+],
+"opening": [
+"finance",
+"stock-market"
+],
+"option": [
+"finance"
+],
+"order": [
+"finance"
+],
+"ordinary share": [
+"finance"
+],
+"outclearing": [
+"finance"
+],
+"out of the money": [
+"finance"
+],
+"overbought": [
+"finance"
+],
+"oversold": [
+"finance"
+],
+"oversubscribe": [
+"finance"
+],
+"over the counter": [
+"finance"
+],
+"over-the-counter": [
+"finance"
+],
+"overweight": [
+"finance"
+],
+"pain point": [
+"business",
+"finance"
+],
+"paint the tape": [
+"finance"
+],
+"panic buying": [
+"business",
+"finance"
+],
+"panic sell": [
+"finance"
+],
+"paper": [
+"finance"
+],
+"paper trade": [
+"finance",
+"stock-market"
+],
+"parent company": [
+"business",
+"finance"
+],
+"park": [
+"finance"
+],
+"passive": [
+"finance",
+"marketing"
+],
+"passive income": [
+"finance"
+],
+"pathfinder": [
+"finance"
+],
+"payer": [
+"finance"
+],
+"payment order": [
+"banking",
+"finance"
+],
+"payout": [
+"finance"
+],
+"peg": [
+"finance"
+],
+"penalty": [
+"finance"
+],
+"pension": [
+"finance",
+"insurance"
+],
+"perp": [
+"finance"
+],
+"perpetuity": [
+"finance"
+],
+"petty cash": [
+"business",
+"finance",
+"money"
+],
+"pip": [
+"finance"
+],
+"political risk": [
+"finance"
+],
+"portfolio": [
+"business",
+"finance"
+],
+"position": [
+"finance"
+],
+"pound the table": [
+"finance"
+],
+"poverty is a state of mind": [
+"finance",
+"money"
+],
+"preferred": [
+"finance"
+],
+"preferred stock": [
+"finance",
+"stock-market"
+],
+"premium": [
+"finance",
+"insurance"
+],
+"price-earnings ratio": [
+"finance"
+],
+"primary market": [
+"finance"
+],
+"principal": [
+"finance"
+],
+"print": [
+"finance"
+],
+"private": [
+"finance"
+],
+"privilege": [
+"finance"
+],
+"procure to pay": [
+"business",
+"finance"
+],
+"program trading": [
+"business",
+"finance"
+],
+"promisor": [
+"finance"
+],
+"promissory note": [
+"finance"
+],
+"prompt": [
+"business",
+"finance"
+],
+"prospectus": [
+"finance"
+],
+"puke": [
+"finance"
+],
+"pullback": [
+"finance"
+],
+"pump and dump": [
+"finance"
+],
+"put": [
+"business",
+"finance"
+],
+"put option": [
+"business",
+"finance"
+],
+"put through": [
+"finance"
+],
+"pyramid": [
+"finance"
+],
+"pyramiding": [
+"finance"
+],
+"quant": [
+"finance"
+],
+"quantitative analysis": [
+"finance"
+],
+"quarter": [
+"finance"
+],
+"ratchet": [
+"finance"
+],
+"rate of return": [
+"business",
+"finance"
+],
+"rat race": [
+"business",
+"finance"
+],
+"realize": [
+"business",
+"finance"
+],
+"recapitalization": [
+"finance"
+],
+"recapture": [
+"finance"
+],
+"recasting": [
+"finance"
+],
+"receiver": [
+"finance"
+],
+"redeem": [
+"finance"
+],
+"redeemable": [
+"finance"
+],
+"redemption": [
+"finance"
+],
+"red herring": [
+"finance"
+],
+"redraft": [
+"finance"
+],
+"refinance": [
+"finance"
+],
+"refinancing": [
+"finance"
+],
+"refined": [
+"finance"
+],
+"refresher": [
+"finance"
+],
+"regularization": [
+"finance"
+],
+"reintermediation": [
+"finance"
+],
+"reminder": [
+"finance"
+],
+"repack": [
+"finance"
+],
+"repackaging": [
+"finance"
+],
+"repo": [
+"finance"
+],
+"repossess": [
+"finance"
+],
+"reserve": [
+"finance",
+"insurance"
+],
+"rest": [
+"finance"
+],
+"restructure": [
+"finance"
+],
+"retail": [
+"business",
+"finance"
+],
+"retiral": [
+"finance"
+],
+"retrace": [
+"finance"
+],
+"return": [
+"business",
+"finance",
+"taxation"
+],
+"returned": [
+"finance"
+],
+"return on investment": [
+"finance"
+],
+"revolver": [
+"finance"
+],
+"revolving": [
+"finance"
+],
+"rho": [
+"finance"
+],
+"rich": [
+"finance"
+],
+"rights issue": [
+"finance"
+],
+"ring out": [
+"finance"
+],
+"risk premium": [
+"finance"
+],
+"roll": [
+"finance"
+],
+"roll down": [
+"finance"
+],
+"roll out": [
+"finance"
+],
+"rollover": [
+"finance",
+"marketing"
+],
+"roll up": [
+"finance"
+],
+"ROM": [
+"finance"
+],
+"rotation": [
+"finance"
+],
+"round trip": [
+"finance"
+],
+"runway": [
+"finance"
+],
+"satisfy": [
+"finance"
+],
+"savings account": [
+"banking",
+"finance"
+],
+"scalp": [
+"finance"
+],
+"scalper": [
+"finance"
+],
+"scalping": [
+"finance"
+],
+"scrub": [
+"finance"
+],
+"secondary": [
+"finance"
+],
+"secondary market": [
+"finance"
+],
+"securitization": [
+"commerce",
+"finance"
+],
+"security": [
+"finance"
+],
+"seed money": [
+"finance",
+"money"
+],
+"seigniorage": [
+"finance",
+"money"
+],
+"self-financing": [
+"finance"
+],
+"sell against the box": [
+"finance"
+],
+"sell away": [
+"finance"
+],
+"sell out": [
+"finance"
+],
+"sell short": [
+"finance"
+],
+"sell the family silver": [
+"finance"
+],
+"semi": [
+"finance"
+],
+"serviceability": [
+"finance"
+],
+"servicer": [
+"finance"
+],
+"set-off": [
+"finance"
+],
+"settlement": [
+"finance"
+],
+"share": [
+"finance"
+],
+"share capital": [
+"finance"
+],
+"share dilution": [
+"finance"
+],
+"shareholder": [
+"finance"
+],
+"Sharpe ratio": [
+"finance"
+],
+"short": [
+"business",
+"finance"
+],
+"shortfall": [
+"business",
+"finance"
+],
+"short seller": [
+"commerce",
+"finance"
+],
+"short selling": [
+"commerce",
+"finance"
+],
+"shunt": [
+"finance"
+],
+"shunter": [
+"finance"
+],
+"shunting": [
+"finance"
+],
+"simple interest": [
+"banking",
+"finance"
+],
+"sinking fund": [
+"finance"
+],
+"slide": [
+"finance"
+],
+"small caps": [
+"finance"
+],
+"snake": [
+"finance"
+],
+"soft": [
+"finance"
+],
+"soft loan": [
+"finance"
+],
+"solvency": [
+"finance"
+],
+"solvent": [
+"finance"
+],
+"sovereign wealth fund": [
+"finance"
+],
+"special drawing right": [
+"finance"
+],
+"speculate": [
+"business",
+"finance"
+],
+"speculation": [
+"business",
+"finance"
+],
+"speculator": [
+"business",
+"finance"
+],
+"speculatory": [
+"finance"
+],
+"speed": [
+"finance"
+],
+"speed bump": [
+"finance"
+],
+"sponsor": [
+"finance",
+"money"
+],
+"spot": [
+"commerce",
+"finance",
+"money"
+],
+"stag": [
+"finance"
+],
+"stale": [
+"finance"
+],
+"statement": [
+"finance"
+],
+"sticky": [
+"finance"
+],
+"stiff": [
+"finance"
+],
+"stock": [
+"finance"
+],
+"stockbroker": [
+"finance",
+"stock-market"
+],
+"stock exchange": [
+"finance"
+],
+"stockholder": [
+"finance"
+],
+"stockholding": [
+"finance"
+],
+"stock market crash": [
+"finance"
+],
+"stop": [
+"finance"
+],
+"stopper": [
+"finance"
+],
+"strangle": [
+"finance"
+],
+"strap": [
+"finance"
+],
+"street": [
+"finance"
+],
+"strike": [
+"finance"
+],
+"strike a balance": [
+"finance"
+],
+"strip": [
+"finance"
+],
+"structuring": [
+"finance"
+],
+"student loan": [
+"finance"
+],
+"stuffing": [
+"finance",
+"taxation"
+],
+"subordinate": [
+"finance"
+],
+"subpar": [
+"finance"
+],
+"subscribe": [
+"business",
+"finance"
+],
+"subsidize": [
+"finance",
+"money"
+],
+"sunspot": [
+"finance"
+],
+"super": [
+"finance"
+],
+"superannuation": [
+"finance"
+],
+"surgery": [
+"finance"
+],
+"surplusage": [
+"finance"
+],
+"susu": [
+"finance"
+],
+"swap": [
+"finance"
+],
+"swing trade": [
+"finance"
+],
+"T": [
+"finance"
+],
+"tailgate": [
+"finance"
+],
+"tailgating": [
+"finance"
+],
+"taint": [
+"finance"
+],
+"take out the stops": [
+"finance"
+],
+"talon": [
+"finance"
+],
+"tap": [
+"finance"
+],
+"taper": [
+"finance"
+],
+"tau": [
+"finance"
+],
+"tax evasion": [
+"finance",
+"taxation"
+],
+"tax return": [
+"finance",
+"taxation"
+],
+"technical analysis": [
+"finance"
+],
+"tenor": [
+"finance"
+],
+"theta": [
+"finance"
+],
+"tie up": [
+"finance"
+],
+"tie-up": [
+"finance"
+],
+"tontine": [
+"finance",
+"insurance"
+],
+"top": [
+"finance"
+],
+"tracker": [
+"finance"
+],
+"trade down": [
+"finance"
+],
+"trade up": [
+"finance"
+],
+"trading curb": [
+"finance"
+],
+"tranche": [
+"finance",
+"insurance"
+],
+"transaction": [
+"finance"
+],
+"treasury": [
+"finance",
+"money"
+],
+"Treasury bill": [
+"finance"
+],
+"tuck in": [
+"finance"
+],
+"tunneling": [
+"finance"
+],
+"turn": [
+"finance"
+],
+"ultima": [
+"finance"
+],
+"ultrashort": [
+"finance"
+],
+"unassented": [
+"finance"
+],
+"underlying": [
+"finance"
+],
+"underperform": [
+"finance"
+],
+"under the rule": [
+"finance"
+],
+"underwater": [
+"finance"
+],
+"underweight": [
+"finance"
+],
+"underwriter": [
+"finance",
+"insurance"
+],
+"unexercised": [
+"finance"
+],
+"unfreeze": [
+"finance"
+],
+"unhedged": [
+"finance"
+],
+"unicorn": [
+"business",
+"finance"
+],
+"unilateral": [
+"business",
+"finance"
+],
+"universal bank": [
+"banking",
+"finance"
+],
+"universal banking": [
+"banking",
+"finance"
+],
+"unliquid": [
+"finance"
+],
+"unpeg": [
+"finance"
+],
+"unpledged": [
+"finance"
+],
+"unrealized": [
+"finance"
+],
+"unwind": [
+"finance"
+],
+"upside": [
+"finance"
+],
+"upside down": [
+"finance"
+],
+"uptick": [
+"finance"
+],
+"valuation": [
+"finance",
+"insurance"
+],
+"vega": [
+"finance"
+],
+"vera": [
+"finance"
+],
+"vest": [
+"finance"
+],
+"volatility": [
+"finance"
+],
+"voting": [
+"finance"
+],
+"vulture capitalist": [
+"finance"
+],
+"vulture fund": [
+"finance"
+],
+"walk": [
+"finance"
+],
+"wallet": [
+"finance"
+],
+"war chest": [
+"finance"
+],
+"warrant": [
+"finance"
+],
+"wash": [
+"finance"
+],
+"washing": [
+"finance",
+"stock-market"
+],
+"water": [
+"business",
+"finance"
+],
+"wedge": [
+"finance"
+],
+"whale": [
+"finance",
+"marketing"
+],
+"whipsaw": [
+"finance"
+],
+"wide open": [
+"finance"
+],
+"withdraw": [
+"banking",
+"finance"
+],
+"without recourse": [
+"finance"
+],
+"write": [
+"finance"
+],
+"writer": [
+"finance"
+],
+"yard": [
+"finance"
+],
+"yield": [
+"finance"
+],
+"your network is your net worth": [
+"finance"
+],
+"yo-yo": [
+"finance"
+],
+"zero": [
+"finance"
+],
+"zero coupon bond": [
+"finance"
+],
+"account number": [
+"banking"
+],
+"allonge": [
+"banking"
+],
+"ATM": [
+"banking",
+"business"
+],
+"automated teller machine": [
+"banking"
+],
+"automatic teller machine": [
+"banking"
+],
+"back-to-back loan": [
+"banking"
+],
+"bad bank": [
+"banking"
+],
+"bank card": [
+"banking"
+],
+"bank cheque": [
+"banking"
+],
+"banker": [
+"banking"
+],
+"bank robber": [
+"banking"
+],
+"bank run": [
+"banking"
+],
+"bank statement": [
+"banking"
+],
+"bill of exchange": [
+"banking"
+],
+"blank check": [
+"banking"
+],
+"building society": [
+"banking"
+],
+"cambist": [
+"banking"
+],
+"carte blanche": [
+"banking"
+],
+"cash-back": [
+"banking"
+],
+"cashpoint": [
+"banking"
+],
+"central bank": [
+"banking"
+],
+"chargeback": [
+"banking",
+"business"
+],
+"cheque": [
+"banking"
+],
+"chequebook": [
+"banking"
+],
+"cheque card": [
+"banking"
+],
+"clearing bank": [
+"banking"
+],
+"commercial bank": [
+"banking"
+],
+"commercial banking": [
+"banking"
+],
+"credit transfer": [
+"banking"
+],
+"current account": [
+"banking"
+],
+"DC": [
+"banking",
+"business"
+],
+"deadbeat": [
+"banking"
+],
+"demand deposit": [
+"banking"
+],
+"deposit account": [
+"banking"
+],
+"depositor": [
+"banking"
+],
+"drawer": [
+"banking"
+],
+"drop": [
+"banking"
+],
+"e-banking": [
+"banking"
+],
+"evergreen": [
+"banking"
+],
+"frozen": [
+"banking"
+],
+"green card": [
+"banking"
+],
+"green pound": [
+"banking"
+],
+"impound": [
+"banking"
+],
+"joint account": [
+"banking"
+],
+"kited": [
+"banking"
+],
+"kiting": [
+"banking"
+],
+"Mastercard": [
+"banking"
+],
+"mezzanine": [
+"banking",
+"business"
+],
+"microcredit": [
+"banking"
+],
+"microloan": [
+"banking"
+],
+"negotiable instrument": [
+"banking",
+"business"
+],
+"overdraft": [
+"banking"
+],
+"overdraw": [
+"banking"
+],
+"passbook": [
+"banking"
+],
+"payment card": [
+"banking"
+],
+"penniless": [
+"banking"
+],
+"put down": [
+"banking",
+"commerce"
+],
+"retail bank": [
+"banking"
+],
+"retail banking": [
+"banking"
+],
+"run": [
+"banking"
+],
+"savings bank": [
+"banking"
+],
+"smurf": [
+"banking"
+],
+"standing order": [
+"banking"
+],
+"subprime": [
+"banking"
+],
+"teller": [
+"banking"
+],
+"time deposit": [
+"banking"
+],
+"trapezite": [
+"banking"
+],
+"unbanked": [
+"banking"
+],
+"wire transfer": [
+"banking"
+],
+"withdrawal": [
+"banking"
+],
+"ability to pay": [
+"taxation"
+],
+"ad valorem": [
+"taxation"
+],
+"assess": [
+"taxation"
+],
+"avania": [
+"taxation"
+],
+"boscage": [
+"taxation"
+],
+"capital gains tax": [
+"taxation"
+],
+"carbon tax": [
+"taxation"
+],
+"carucage": [
+"taxation"
+],
+"checkoff": [
+"taxation"
+],
+"clawback": [
+"business",
+"taxation"
+],
+"corporation tax": [
+"taxation"
+],
+"custom house": [
+"taxation"
+],
+"Danegeld": [
+"taxation"
+],
+"double tax agreement": [
+"taxation"
+],
+"double taxation": [
+"taxation"
+],
+"duty": [
+"taxation"
+],
+"excisable": [
+"taxation"
+],
+"excise tax": [
+"taxation"
+],
+"flat tax": [
+"taxation"
+],
+"goods and services tax": [
+"taxation"
+],
+"graduated": [
+"taxation"
+],
+"gross income": [
+"business",
+"taxation"
+],
+"GST": [
+"taxation"
+],
+"income tax": [
+"taxation"
+],
+"inheritance tax": [
+"taxation"
+],
+"jizya": [
+"taxation"
+],
+"net income": [
+"business",
+"taxation"
+],
+"nonrecognition": [
+"taxation"
+],
+"overtax": [
+"taxation"
+],
+"pannage": [
+"taxation"
+],
+"poll tax": [
+"taxation"
+],
+"procurator": [
+"taxation"
+],
+"progressive tax": [
+"taxation"
+],
+"property tax": [
+"taxation"
+],
+"quitrent": [
+"taxation"
+],
+"rayah": [
+"taxation"
+],
+"relief": [
+"taxation"
+],
+"render unto Caesar": [
+"taxation"
+],
+"revenue stamp": [
+"taxation"
+],
+"reverse charge": [
+"taxation"
+],
+"sales tax": [
+"taxation"
+],
+"scat": [
+"taxation"
+],
+"scot": [
+"taxation"
+],
+"scutage": [
+"taxation"
+],
+"slab": [
+"taxation"
+],
+"snapback": [
+"taxation"
+],
+"step-up": [
+"taxation"
+],
+"supertax": [
+"taxation"
+],
+"surtax": [
+"taxation"
+],
+"tariff": [
+"taxation"
+],
+"tariff barrier": [
+"taxation"
+],
+"tax": [
+"taxation"
+],
+"taxable": [
+"taxation"
+],
+"taxable income": [
+"taxation"
+],
+"taxation": [
+"taxation"
+],
+"tax authority": [
+"taxation"
+],
+"tax avoidance": [
+"taxation"
+],
+"tax bracket": [
+"taxation"
+],
+"tax break": [
+"taxation"
+],
+"tax collector": [
+"taxation"
+],
+"tax cut": [
+"taxation"
+],
+"tax-deductible": [
+"taxation"
+],
+"tax evader": [
+"taxation"
+],
+"tax-exempt": [
+"taxation"
+],
+"tax free": [
+"taxation"
+],
+"tax-free": [
+"taxation"
+],
+"tax haven": [
+"business",
+"taxation"
+],
+"tax horsepower": [
+"taxation"
+],
+"taxman": [
+"taxation"
+],
+"taxpayer": [
+"taxation"
+],
+"tax rate": [
+"taxation"
+],
+"tax reduction": [
+"taxation"
+],
+"tax relief": [
+"taxation"
+],
+"unearned income": [
+"taxation"
+],
+"value added tax": [
+"taxation"
+],
+"withholding": [
+"taxation"
+],
+"withholding tax": [
+"taxation"
+],
+"yasak": [
+"taxation"
+],
+"zakat": [
+"taxation"
+],
+"zero-rated": [
+"taxation"
+],
+"accident insurance": [
+"insurance"
+],
+"actuary": [
+"insurance"
+],
+"annuity": [
+"insurance"
+],
+"assurance": [
+"insurance"
+],
+"beneficiary": [
+"insurance"
+],
+"benefit": [
+"insurance"
+],
+"bondable": [
+"insurance"
+],
+"catastrophe": [
+"insurance"
+],
+"commission": [
+"commerce",
+"insurance"
+],
+"contents insurance": [
+"insurance"
+],
+"cover": [
+"insurance"
+],
+"deductible": [
+"insurance"
+],
+"demographic": [
+"insurance"
+],
+"dependant": [
+"insurance"
+],
+"economic": [
+"insurance"
+],
+"endowment": [
+"insurance"
+],
+"entry": [
+"insurance"
+],
+"excess": [
+"insurance"
+],
+"first death": [
+"insurance"
+],
+"frequency": [
+"insurance"
+],
+"general": [
+"insurance"
+],
+"guarantee": [
+"insurance"
+],
+"health insurance": [
+"insurance"
+],
+"home insurance": [
+"insurance"
+],
+"indemnity": [
+"insurance"
+],
+"in force": [
+"insurance"
+],
+"insurance": [
+"insurance"
+],
+"insurance agent": [
+"insurance"
+],
+"insurance policy": [
+"insurance"
+],
+"insure": [
+"insurance"
+],
+"insured": [
+"insurance"
+],
+"insurer": [
+"insurance"
+],
+"intermediary": [
+"insurance"
+],
+"joint life": [
+"insurance"
+],
+"last survivor": [
+"insurance"
+],
+"life": [
+"insurance"
+],
+"life insurance": [
+"insurance"
+],
+"morbidity": [
+"insurance"
+],
+"mortality": [
+"insurance"
+],
+"ombudsman": [
+"insurance"
+],
+"on risk": [
+"insurance"
+],
+"overlap": [
+"insurance"
+],
+"paid-up": [
+"insurance"
+],
+"peril": [
+"insurance"
+],
+"policyholder": [
+"insurance"
+],
+"reassurance": [
+"insurance"
+],
+"regulator": [
+"insurance"
+],
+"reinsurance": [
+"business",
+"insurance"
+],
+"reinsure": [
+"insurance"
+],
+"retention": [
+"insurance"
+],
+"rider": [
+"insurance"
+],
+"scheduled": [
+"insurance"
+],
+"second death": [
+"insurance"
+],
+"self-insurance": [
+"insurance"
+],
+"single life": [
+"insurance"
+],
+"surrender": [
+"insurance"
+],
+"term": [
+"insurance"
+],
+"terminate": [
+"insurance"
+],
+"top-up": [
+"insurance"
+],
+"travel insurance": [
+"insurance"
+],
+"underwrite": [
+"insurance"
+],
+"visit": [
+"insurance"
+],
+"acceptor": [
+"commerce"
+],
+"accommodation": [
+"commerce"
+],
+"allowance": [
+"commerce",
+"money"
+],
+"cold chain": [
+"commerce"
+],
+"for": [
+"commerce"
+],
+"form factor": [
+"commerce"
+],
+"military-industrial complex": [
+"commerce"
+],
+"oddment": [
+"commerce"
+],
+"out of the box": [
+"business",
+"commerce"
+],
+"quote": [
+"commerce"
+],
+"remainder": [
+"commerce"
+],
+"series": [
+"commerce"
+],
+"shock": [
+"commerce"
+],
+"spiff": [
+"commerce"
+],
+"third party": [
+"business",
+"commerce"
+],
+"unit": [
+"commerce"
+],
+"advance payment": [
+"money"
+],
+"bail": [
+"money"
+],
+"banknote": [
+"money"
+],
+"black money": [
+"money"
+],
+"blow one's wad": [
+"money"
+],
+"boodle": [
+"money"
+],
+"bring home": [
+"money"
+],
+"bullion": [
+"money"
+],
+"buy": [
+"business",
+"money"
+],
+"cent": [
+"money"
+],
+"change": [
+"money"
+],
+"chicken feed": [
+"money"
+],
+"ching": [
+"money"
+],
+"chintzy": [
+"money"
+],
+"chuck": [
+"money"
+],
+"clam": [
+"money"
+],
+"coin": [
+"money"
+],
+"cost the earth": [
+"money"
+],
+"damages": [
+"money"
+],
+"digital currency": [
+"money"
+],
+"dirt-poor": [
+"money"
+],
+"DM": [
+"money"
+],
+"ducat": [
+"money"
+],
+"earnest money": [
+"money"
+],
+"emolument": [
+"money"
+],
+"endow": [
+"money"
+],
+"expense": [
+"money"
+],
+"farthing": [
+"money"
+],
+"filthy rich": [
+"money"
+],
+"fiver": [
+"money"
+],
+"fortune hunter": [
+"money"
+],
+"free": [
+"money"
+],
+"freeloader": [
+"money"
+],
+"go bankrupt": [
+"business",
+"money"
+],
+"grant-in-aid": [
+"money"
+],
+"greenback": [
+"money"
+],
+"hongbao": [
+"money"
+],
+"I don't want to buy anything": [
+"money"
+],
+"impecunious": [
+"money"
+],
+"king's ransom": [
+"money"
+],
+"launder": [
+"money"
+],
+"live paycheck to paycheck": [
+"money"
+],
+"lobster": [
+"money"
+],
+"loose change": [
+"money"
+],
+"lucre": [
+"money"
+],
+"made of money": [
+"money"
+],
+"make a killing": [
+"money"
+],
+"mali": [
+"money"
+],
+"manilla": [
+"money"
+],
+"millionairess": [
+"money"
+],
+"mint sauce": [
+"money"
+],
+"monetary": [
+"money"
+],
+"money": [
+"money"
+],
+"money bag": [
+"money"
+],
+"money can't buy happiness": [
+"money"
+],
+"money changer": [
+"money"
+],
+"money doesn't grow on trees": [
+"money"
+],
+"money is the root of all evil": [
+"money"
+],
+"money-spinner": [
+"money"
+],
+"Monopoly money": [
+"money"
+],
+"moola": [
+"money"
+],
+"mozzarella": [
+"money"
+],
+"nicker": [
+"money"
+],
+"nonprofit": [
+"money"
+],
+"oncer": [
+"money"
+],
+"on the breadline": [
+"money"
+],
+"paper money": [
+"money"
+],
+"parsimonious": [
+"money"
+],
+"parsimony": [
+"money"
+],
+"paycheck": [
+"money"
+],
+"payday": [
+"money"
+],
+"pay gap": [
+"money"
+],
+"payment": [
+"money"
+],
+"pay through the nose": [
+"money"
+],
+"pelf": [
+"money"
+],
+"perquisite": [
+"money"
+],
+"petrodollar": [
+"money"
+],
+"piggy bank": [
+"money"
+],
+"plank down": [
+"money"
+],
+"play money": [
+"money"
+],
+"plunk": [
+"money"
+],
+"pocketbook": [
+"money"
+],
+"pocket money": [
+"money"
+],
+"pony up": [
+"money"
+],
+"poverty": [
+"money"
+],
+"pretty penny": [
+"money"
+],
+"price": [
+"money"
+],
+"prize money": [
+"money"
+],
+"pro bono": [
+"money"
+],
+"purse": [
+"money"
+],
+"quid": [
+"money"
+],
+"ransom": [
+"money"
+],
+"rich kid": [
+"money"
+],
+"richly": [
+"money"
+],
+"save up": [
+"money"
+],
+"scholarship": [
+"money"
+],
+"scrooge": [
+"money"
+],
+"security deposit": [
+"money"
+],
+"see dollar signs": [
+"money"
+],
+"sell": [
+"business",
+"money"
+],
+"sellout": [
+"money"
+],
+"severance pay": [
+"money"
+],
+"shell out": [
+"money"
+],
+"shiner": [
+"money"
+],
+"shortchange": [
+"money"
+],
+"simoleon": [
+"money"
+],
+"small fortune": [
+"money"
+],
+"sou": [
+"money"
+],
+"sovereign": [
+"money"
+],
+"specimen": [
+"money"
+],
+"spendthrift": [
+"money"
+],
+"splurge": [
+"money"
+],
+"stipend": [
+"money"
+],
+"stiver": [
+"money"
+],
+"stored-value card": [
+"money"
+],
+"stuff": [
+"money"
+],
+"sugar daddy": [
+"money"
+],
+"sumptuary": [
+"money"
+],
+"tenner": [
+"money"
+],
+"ten-spot": [
+"money"
+],
+"the streets are paved with gold": [
+"money"
+],
+"threepence": [
+"money"
+],
+"ton": [
+"money"
+],
+"tuition": [
+"money"
+],
+"twopence": [
+"money"
+],
+"unpaid": [
+"money"
+],
+"value for money": [
+"money"
+],
+"wad": [
+"money"
+],
+"wampum": [
+"money"
+],
+"wouldn't shout if a shark bit him": [
+"money"
+],
+"bearish": [
+"stock-market"
+],
+"be fearful when others are greedy": [
+"business",
+"stock-market"
+],
+"be greedy when others are fearful": [
+"business",
+"stock-market"
+],
+"bullish": [
+"stock-market"
+],
+"buy and hold": [
+"business",
+"stock-market"
+],
+"buy the rumor": [
+"business",
+"stock-market"
+],
+"capping": [
+"stock-market"
+],
+"dead cat bounce": [
+"stock-market"
+],
+"dilute": [
+"stock-market"
+],
+"earnings call": [
+"stock-market"
+],
+"free float": [
+"stock-market"
+],
+"paper trading": [
+"stock-market"
+],
+"sag off": [
+"stock-market"
+],
+"sell in May and go away": [
+"business",
+"stock-market"
+],
+"sell the news": [
+"business",
+"stock-market"
+],
+"stock market": [
+"stock-market"
+],
+"weak": [
+"stock-market"
+],
+"witching hour": [
+"stock-market"
+],
+"absorb": [
+"business"
+],
+"abstinence": [
+"business"
+],
+"accelerator": [
+"business"
+],
+"accept": [
+"business"
+],
+"accounting": [
+"business"
+],
+"account manager": [
+"business"
+],
+"add value": [
+"business",
+"management"
+],
+"adhocracy": [
+"business"
+],
+"administration": [
+"business"
+],
+"aftercare": [
+"business"
+],
+"aftersale": [
+"business"
+],
+"agribusiness": [
+"business"
+],
+"angel investor": [
+"business"
+],
+"anniversary": [
+"business"
+],
+"appraisal": [
+"business"
+],
+"appraise": [
+"business"
+],
+"appro": [
+"business"
+],
+"as far as one is concerned": [
+"business"
+],
+"asset management": [
+"business"
+],
+"asset-stripping": [
+"business"
+],
+"at a profit": [
+"business"
+],
+"at cost": [
+"business"
+],
+"background check": [
+"business"
+],
+"balloon payment": [
+"business"
+],
+"Bangalore": [
+"business"
+],
+"barter": [
+"business"
+],
+"bear hug": [
+"business"
+],
+"best practice": [
+"business",
+"marketing"
+],
+"big business": [
+"business"
+],
+"black knight": [
+"business"
+],
+"bloodbath": [
+"business"
+],
+"board of directors": [
+"business"
+],
+"body shop": [
+"business"
+],
+"bottom line": [
+"business"
+],
+"brand": [
+"business",
+"marketing"
+],
+"brand loyalty": [
+"business",
+"marketing"
+],
+"brass": [
+"business"
+],
+"break-even point": [
+"business",
+"management"
+],
+"brick and mortar": [
+"business"
+],
+"bricking": [
+"business"
+],
+"broadcasting": [
+"business"
+],
+"bureaucracy": [
+"business"
+],
+"bureaucrat": [
+"business"
+],
+"bureaucratese": [
+"business"
+],
+"bureaucratic": [
+"business"
+],
+"business": [
+"business"
+],
+"business administration": [
+"business"
+],
+"business analyst": [
+"business"
+],
+"business hours": [
+"business"
+],
+"business idea": [
+"business"
+],
+"business model": [
+"business"
+],
+"business park": [
+"business"
+],
+"business plan": [
+"business"
+],
+"callback": [
+"business"
+],
+"call center": [
+"business"
+],
+"cannibalise": [
+"business"
+],
+"card index": [
+"business"
+],
+"cash cow": [
+"business"
+],
+"cash on delivery": [
+"business"
+],
+"cash solvent": [
+"business"
+],
+"central business district": [
+"business"
+],
+"CEO": [
+"business"
+],
+"chaebol": [
+"business"
+],
+"chain of command": [
+"business"
+],
+"chamber of commerce": [
+"business"
+],
+"channel": [
+"business",
+"marketing"
+],
+"chaperone": [
+"business"
+],
+"chief executive officer": [
+"business"
+],
+"chief financial officer": [
+"business"
+],
+"chief operating officer": [
+"business"
+],
+"Christmas season": [
+"business",
+"marketing"
+],
+"clear": [
+"business"
+],
+"clearance sale": [
+"business"
+],
+"client": [
+"business"
+],
+"clientele": [
+"business",
+"marketing"
+],
+"code name": [
+"business"
+],
+"combine": [
+"business"
+],
+"commerce": [
+"business"
+],
+"company": [
+"business"
+],
+"compliance": [
+"business"
+],
+"comptroller": [
+"business"
+],
+"con": [
+"business",
+"marketing"
+],
+"conference": [
+"business"
+],
+"conglomerate": [
+"business"
+],
+"consign": [
+"business"
+],
+"consigner": [
+"business"
+],
+"consumer good": [
+"business",
+"marketing"
+],
+"controllable": [
+"business"
+],
+"controller": [
+"business"
+],
+"cooling-off period": [
+"business"
+],
+"core business": [
+"business"
+],
+"crank the handle": [
+"business"
+],
+"crown jewel": [
+"business"
+],
+"customer": [
+"business"
+],
+"customer base": [
+"business",
+"marketing"
+],
+"customer service": [
+"business"
+],
+"custom snowball": [
+"business"
+],
+"CV": [
+"business"
+],
+"daisy chain": [
+"business"
+],
+"daisy-chain": [
+"business"
+],
+"dealings": [
+"business"
+],
+"defective on arrival": [
+"business"
+],
+"defunct": [
+"business"
+],
+"deliverable": [
+"business",
+"management"
+],
+"demerge": [
+"business"
+],
+"deputy director": [
+"business"
+],
+"dialogue": [
+"business"
+],
+"direct marketing": [
+"business",
+"marketing"
+],
+"direct selling": [
+"business",
+"marketing"
+],
+"dirty money": [
+"business"
+],
+"disruptive": [
+"business"
+],
+"distribute": [
+"business"
+],
+"distribution channel": [
+"business",
+"marketing"
+],
+"diversity": [
+"business"
+],
+"dot-com bubble": [
+"business"
+],
+"double bill": [
+"business"
+],
+"drop-dead": [
+"business"
+],
+"drop ship": [
+"business"
+],
+"earn out": [
+"business"
+],
+"eat": [
+"business"
+],
+"e-commerce": [
+"business"
+],
+"electricity": [
+"business"
+],
+"embezzle": [
+"business"
+],
+"embezzlement": [
+"business"
+],
+"employment contract": [
+"business"
+],
+"engross": [
+"business"
+],
+"entertain": [
+"business"
+],
+"entrepreneur": [
+"business"
+],
+"estimate": [
+"business"
+],
+"evaluation": [
+"business"
+],
+"executive summary": [
+"business"
+],
+"exit strategy": [
+"business"
+],
+"exploding": [
+"business"
+],
+"facture": [
+"business"
+],
+"fail fast": [
+"business"
+],
+"family business": [
+"business"
+],
+"farmers' market": [
+"business"
+],
+"farm out": [
+"business"
+],
+"fast-moving": [
+"business",
+"marketing"
+],
+"feed the dragon": [
+"business"
+],
+"finder's fee": [
+"business"
+],
+"first come first served": [
+"business",
+"management"
+],
+"flag carrier": [
+"business"
+],
+"flag of convenience": [
+"business"
+],
+"flanker": [
+"business",
+"marketing"
+],
+"flexitime": [
+"business"
+],
+"fly-by-night": [
+"business"
+],
+"fold": [
+"business"
+],
+"foreign correspondent": [
+"business"
+],
+"foreign trade": [
+"business"
+],
+"for-profit": [
+"business"
+],
+"franchise": [
+"business",
+"marketing"
+],
+"franchisee": [
+"business"
+],
+"franchising": [
+"business"
+],
+"front of mind": [
+"business"
+],
+"froth": [
+"business"
+],
+"frothy": [
+"business"
+],
+"fulfill": [
+"business"
+],
+"fulfilment": [
+"business"
+],
+"ganger": [
+"business"
+],
+"gas": [
+"business"
+],
+"gatherer": [
+"business"
+],
+"general manager": [
+"business",
+"management"
+],
+"general partnership": [
+"business"
+],
+"genericized trademark": [
+"business"
+],
+"geo": [
+"business"
+],
+"geography": [
+"business",
+"marketing"
+],
+"get well": [
+"business"
+],
+"go hostile": [
+"business"
+],
+"gold": [
+"business"
+],
+"golden parachute": [
+"business",
+"management"
+],
+"grease payment": [
+"business"
+],
+"greenfield": [
+"business"
+],
+"grinding": [
+"business"
+],
+"gross margin": [
+"business"
+],
+"group": [
+"business"
+],
+"group buying": [
+"business"
+],
+"grubstake": [
+"business"
+],
+"guideword": [
+"business"
+],
+"hang a shingle": [
+"business"
+],
+"hardline": [
+"business"
+],
+"headhunter": [
+"business"
+],
+"headhunting": [
+"business"
+],
+"high-level": [
+"business"
+],
+"holding company": [
+"business"
+],
+"horizontally integrated": [
+"business"
+],
+"hostile takeover": [
+"business",
+"management"
+],
+"hyperphysical": [
+"business",
+"marketing"
+],
+"ideation": [
+"business"
+],
+"IMO": [
+"business"
+],
+"incubator": [
+"business"
+],
+"incumbent": [
+"business"
+],
+"industrial relations": [
+"business"
+],
+"in-flight": [
+"business"
+],
+"inner circle": [
+"business"
+],
+"in play": [
+"business"
+],
+"in stock": [
+"business"
+],
+"interface": [
+"business"
+],
+"IPO": [
+"business"
+],
+"jigger": [
+"business"
+],
+"job center": [
+"business"
+],
+"joint venture": [
+"business"
+],
+"journey": [
+"business"
+],
+"Juglar cycle": [
+"business"
+],
+"kaizen": [
+"business"
+],
+"keiretsu": [
+"business"
+],
+"kitchen sink": [
+"business"
+],
+"kitchen-sinking": [
+"business"
+],
+"lagniappe": [
+"business"
+],
+"lateral": [
+"business"
+],
+"lawyer up": [
+"business"
+],
+"lay-by": [
+"business"
+],
+"laytime": [
+"business"
+],
+"lead": [
+"business",
+"marketing"
+],
+"lean": [
+"business"
+],
+"level set": [
+"business"
+],
+"like hot cakes": [
+"business"
+],
+"limited partnership": [
+"business"
+],
+"line management": [
+"business"
+],
+"list": [
+"business"
+],
+"list price": [
+"business"
+],
+"little": [
+"business"
+],
+"logistics": [
+"business"
+],
+"logo": [
+"business"
+],
+"lubrication payment": [
+"business"
+],
+"market hall": [
+"business"
+],
+"market penetration": [
+"business",
+"marketing"
+],
+"master copy": [
+"business"
+],
+"matchmaking": [
+"business"
+],
+"middle manager": [
+"business"
+],
+"middleweight": [
+"business"
+],
+"middlings": [
+"business"
+],
+"misbrand": [
+"business",
+"marketing"
+],
+"moat": [
+"business"
+],
+"MOT": [
+"business"
+],
+"move": [
+"business"
+],
+"move the dial": [
+"business"
+],
+"multi-level marketing": [
+"business"
+],
+"net net": [
+"business",
+"management"
+],
+"net sales": [
+"business"
+],
+"non-disclosure agreement": [
+"business"
+],
+"nondiscretionary": [
+"business"
+],
+"not invented here": [
+"business"
+],
+"OC": [
+"business"
+],
+"OEM": [
+"business"
+],
+"of even date": [
+"business"
+],
+"offline": [
+"business"
+],
+"on spec": [
+"business"
+],
+"on the come": [
+"business"
+],
+"open": [
+"business"
+],
+"open box": [
+"business"
+],
+"open the kimono": [
+"business"
+],
+"outgo": [
+"business"
+],
+"out of business": [
+"business"
+],
+"out of office": [
+"business"
+],
+"out of stock": [
+"business"
+],
+"outsource": [
+"business",
+"management"
+],
+"outsourcing": [
+"business",
+"management"
+],
+"over one's head": [
+"business"
+],
+"ownership": [
+"business"
+],
+"parking lot": [
+"business",
+"management"
+],
+"pencil out": [
+"business"
+],
+"performance metric": [
+"business"
+],
+"PG": [
+"business"
+],
+"pharma": [
+"business"
+],
+"pivot": [
+"business"
+],
+"placeable": [
+"business"
+],
+"plausible deniability": [
+"business"
+],
+"play hardball": [
+"business"
+],
+"poach": [
+"business"
+],
+"point of sale": [
+"business"
+],
+"PR": [
+"business"
+],
+"president": [
+"business"
+],
+"price-cutting": [
+"business"
+],
+"price floor": [
+"business"
+],
+"price list": [
+"business"
+],
+"prior": [
+"business"
+],
+"private sector": [
+"business"
+],
+"product base": [
+"business",
+"marketing"
+],
+"production order": [
+"business"
+],
+"productization": [
+"business"
+],
+"profiteer": [
+"business"
+],
+"profiteering": [
+"business"
+],
+"profit margin": [
+"business"
+],
+"public": [
+"business"
+],
+"public limited company": [
+"business"
+],
+"public-private partnership": [
+"business"
+],
+"publishing house": [
+"business"
+],
+"pull a sickie": [
+"business"
+],
+"purchase order": [
+"business"
+],
+"purchasing": [
+"business"
+],
+"qualify out": [
+"business"
+],
+"raider": [
+"business"
+],
+"rally": [
+"business"
+],
+"ramen profitable": [
+"business"
+],
+"reach out": [
+"business"
+],
+"receivership": [
+"business"
+],
+"reimport": [
+"business"
+],
+"repayable": [
+"business"
+],
+"report": [
+"business"
+],
+"risk capital": [
+"business"
+],
+"roadshow": [
+"business"
+],
+"rollup": [
+"business"
+],
+"roup": [
+"business"
+],
+"sacrifice": [
+"business"
+],
+"salesmanship": [
+"business",
+"marketing"
+],
+"salesroom": [
+"business"
+],
+"sample": [
+"business"
+],
+"scalable": [
+"business"
+],
+"scale": [
+"business"
+],
+"screening": [
+"business"
+],
+"sell down": [
+"business"
+],
+"selling point": [
+"business"
+],
+"selling price": [
+"business"
+],
+"sell like hot cakes": [
+"business"
+],
+"semiconductor": [
+"business"
+],
+"shareholders' agreement": [
+"business"
+],
+"shell": [
+"business"
+],
+"shell company": [
+"business"
+],
+"shipping company": [
+"business"
+],
+"shrink": [
+"business"
+],
+"simony": [
+"business"
+],
+"sister company": [
+"business"
+],
+"sleeping partner": [
+"business"
+],
+"slip": [
+"business"
+],
+"slow-moving": [
+"business",
+"marketing"
+],
+"sold out": [
+"business"
+],
+"sole proprietor": [
+"business"
+],
+"sole proprietorship": [
+"business"
+],
+"sole trader": [
+"business"
+],
+"spin doctor": [
+"business"
+],
+"spin out": [
+"business"
+],
+"squeeze out": [
+"business"
+],
+"stack rank": [
+"business"
+],
+"stakeholder": [
+"business"
+],
+"startup": [
+"business"
+],
+"steel": [
+"business"
+],
+"stockkeeper": [
+"business"
+],
+"straw man": [
+"business"
+],
+"subdirector": [
+"business"
+],
+"suborder": [
+"business"
+],
+"success": [
+"business"
+],
+"sunrise": [
+"business"
+],
+"sunset": [
+"business"
+],
+"sustainability": [
+"business"
+],
+"SV": [
+"business"
+],
+"systems analyst": [
+"business",
+"management"
+],
+"take a view": [
+"business"
+],
+"takeover artist": [
+"business"
+],
+"talent": [
+"business"
+],
+"tare": [
+"business"
+],
+"target market": [
+"business",
+"marketing"
+],
+"task force": [
+"business"
+],
+"teambuilding": [
+"business"
+],
+"tech giant": [
+"business"
+],
+"tickler": [
+"business"
+],
+"time horizon": [
+"business"
+],
+"time in": [
+"business"
+],
+"time off": [
+"business"
+],
+"time out": [
+"business"
+],
+"time-share": [
+"business"
+],
+"time-sharing": [
+"business"
+],
+"timesheet": [
+"business"
+],
+"toll": [
+"business"
+],
+"top of mind": [
+"business"
+],
+"touchpoint": [
+"business"
+],
+"tower": [
+"business"
+],
+"traction": [
+"business"
+],
+"trade secret": [
+"business"
+],
+"tray": [
+"business"
+],
+"trialist": [
+"business"
+],
+"triple bill": [
+"business"
+],
+"Trojan horse": [
+"business"
+],
+"trunking": [
+"business"
+],
+"turf": [
+"business"
+],
+"turn around": [
+"business",
+"management"
+],
+"turn over": [
+"business"
+],
+"Uberization": [
+"business"
+],
+"unbilled": [
+"business"
+],
+"underpromise and overdeliver": [
+"business"
+],
+"unit price": [
+"business",
+"marketing"
+],
+"upfront": [
+"business",
+"marketing"
+],
+"used bookstore": [
+"business"
+],
+"value chain": [
+"business"
+],
+"value proposition": [
+"business",
+"management"
+],
+"venture capital": [
+"business"
+],
+"venturer": [
+"business"
+],
+"vertically integrated": [
+"business"
+],
+"war": [
+"business"
+],
+"warehouse": [
+"business"
+],
+"war profiteer": [
+"business"
+],
+"webstore": [
+"business"
+],
+"white knight": [
+"business"
+],
+"white space": [
+"business"
+],
+"whitewash": [
+"business"
+],
+"wholesale": [
+"business"
+],
+"wholesaler": [
+"business"
+],
+"without cause": [
+"business"
+],
+"workflow": [
+"business"
+],
+"workshop": [
+"business"
+],
+"zaibatsu": [
+"business"
+],
+"activation": [
+"marketing"
+],
+"advertisement": [
+"marketing"
+],
+"astroturfing": [
+"marketing"
+],
+"beer garden": [
+"marketing"
+],
+"below the line": [
+"marketing"
+],
+"best-selling": [
+"marketing"
+],
+"blast": [
+"marketing"
+],
+"blocker": [
+"marketing"
+],
+"call to action": [
+"marketing"
+],
+"cannibalization": [
+"marketing"
+],
+"Christmas": [
+"marketing"
+],
+"classified advertisement": [
+"marketing"
+],
+"clickbait": [
+"marketing"
+],
+"cloaking": [
+"marketing"
+],
+"complete with": [
+"marketing"
+],
+"conquest": [
+"marketing"
+],
+"contemporize": [
+"marketing"
+],
+"conversion": [
+"marketing"
+],
+"conversion rate": [
+"marketing"
+],
+"convert": [
+"marketing"
+],
+"copy": [
+"marketing"
+],
+"copywriter": [
+"marketing"
+],
+"count": [
+"marketing"
+],
+"diffusion": [
+"marketing"
+],
+"discriminator": [
+"marketing"
+],
+"dump": [
+"marketing"
+],
+"e-": [
+"marketing"
+],
+"earned": [
+"marketing"
+],
+"eyeball": [
+"marketing"
+],
+"fill-in": [
+"marketing"
+],
+"funnel": [
+"marketing"
+],
+"fun size": [
+"marketing"
+],
+"grapple": [
+"marketing"
+],
+"guerrilla": [
+"marketing"
+],
+"horizontal": [
+"marketing"
+],
+"hype": [
+"marketing"
+],
+"influencer": [
+"marketing"
+],
+"innovator": [
+"marketing"
+],
+"inorganic": [
+"marketing"
+],
+"insight": [
+"marketing"
+],
+"intercept": [
+"marketing"
+],
+"izakaya": [
+"marketing"
+],
+"kidult": [
+"marketing"
+],
+"landing page": [
+"marketing"
+],
+"leader": [
+"marketing"
+],
+"lifestyle": [
+"marketing"
+],
+"liner": [
+"marketing"
+],
+"lineup": [
+"marketing"
+],
+"loader": [
+"marketing"
+],
+"localization": [
+"marketing"
+],
+"localize": [
+"marketing"
+],
+"loss leader": [
+"marketing"
+],
+"macrosegment": [
+"marketing"
+],
+"mailing list": [
+"marketing"
+],
+"marketing": [
+"marketing"
+],
+"market research": [
+"marketing"
+],
+"market segment": [
+"marketing"
+],
+"merch": [
+"marketing"
+],
+"microcopy": [
+"marketing"
+],
+"migrate": [
+"marketing"
+],
+"military grade": [
+"marketing"
+],
+"niche": [
+"marketing"
+],
+"off-brand": [
+"marketing"
+],
+"organic": [
+"marketing"
+],
+"penetration": [
+"marketing"
+],
+"persona": [
+"marketing"
+],
+"polymorphic": [
+"marketing"
+],
+"price point": [
+"marketing"
+],
+"product placement": [
+"marketing"
+],
+"promotion": [
+"marketing"
+],
+"qualitative research": [
+"marketing"
+],
+"re": [
+"marketing"
+],
+"repeater": [
+"marketing"
+],
+"research": [
+"marketing"
+],
+"seed": [
+"marketing"
+],
+"sell up": [
+"marketing"
+],
+"slug": [
+"marketing"
+],
+"solution": [
+"marketing"
+],
+"spamdexing": [
+"marketing"
+],
+"tagline": [
+"marketing"
+],
+"talker": [
+"marketing"
+],
+"target audience": [
+"marketing"
+],
+"target group": [
+"marketing"
+],
+"tea garden": [
+"marketing"
+],
+"teaser": [
+"marketing"
+],
+"trending": [
+"marketing"
+],
+"vertical": [
+"marketing"
+],
+"viral": [
+"marketing"
+],
+"viral marketing": [
+"marketing"
+],
+"what wins on Sunday sells on Monday": [
+"marketing"
+],
+"white label": [
+"marketing"
+],
+"white paper": [
+"management",
+"marketing"
+],
+"wordmark": [
+"marketing"
+],
+"action": [
+"management"
+],
+"AI": [
+"management"
+],
+"algedonic": [
+"management"
+],
+"black belt": [
+"management"
+],
+"carbon budget": [
+"management"
+],
+"change management": [
+"management"
+],
+"collaborative": [
+"management"
+],
+"core competency": [
+"management"
+],
+"death march": [
+"management"
+],
+"errand boy": [
+"management"
+],
+"executive committee": [
+"management"
+],
+"foreman": [
+"management"
+],
+"foreperson": [
+"management"
+],
+"forewoman": [
+"management"
+],
+"governance": [
+"management"
+],
+"human resources": [
+"management"
+],
+"key performance indicator": [
+"management"
+],
+"manager": [
+"management"
+],
+"mission statement": [
+"management"
+],
+"OD": [
+"management"
+],
+"onshore": [
+"management"
+],
+"organigram": [
+"management"
+],
+"organization chart": [
+"management"
+],
+"post mortem": [
+"management"
+],
+"ramp up": [
+"management"
+],
+"reconstructed": [
+"management"
+],
+"safety stock": [
+"management"
+],
+"silo": [
+"management"
+],
+"sunlight is the best disinfectant": [
+"management"
+],
+"supervisor": [
+"management"
+],
+"team player": [
+"management"
+],
+"terms of reference": [
+"management"
+],
+"virtuous circle": [
+"management"
+]
+}

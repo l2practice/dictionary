@@ -16,17 +16,24 @@ POS = {"noun": "n", "verb": "v", "adj": "j", "adv": "r", "prep": "p", "det": "d"
 REQ = ["item", "pos", "cefr", "definition", "vi", "collocations", "writing_example", "speaking_example"]
 
 items, bad, topics = {}, [], []
-for f in sorted(glob.glob(str(Path(a.src) / "ielts-*.json"))):
-    try:
-        d = json.load(open(f, encoding="utf-8"))
-    except Exception as e:
-        bad.append((Path(f).name, "JSON lỗi " + str(e)[:50])); continue
+def load_topics():
+    """Mỗi file là {topic, items} hoặc danh sách các {topic, items} (ielts-vocab-32-topics.json)."""
+    for f in sorted(glob.glob(str(Path(a.src) / "ielts-*.json"))):
+        try:
+            d = json.load(open(f, encoding="utf-8"))
+        except Exception as e:
+            bad.append((Path(f).name, "JSON lỗi " + str(e)[:50])); continue
+        for t in (d if isinstance(d, list) else [d]):
+            yield f, t
+
+for f, d in load_topics():
     topics.append(d.get("topic", Path(f).stem))
     for it in d.get("items", []):
         if any(not it.get(k) for k in REQ) or it["cefr"] not in LV:
             bad.append((Path(f).name, "thiếu/sai trường: " + str(it.get("item")))); continue
         key = it["item"].strip().lower()
-        it["collocations"] = [c for c in dict.fromkeys(it["collocations"]) if c.strip().lower() != key]
+        # bỏ collocation chỉ lặp lại mục (hoặc là một mảnh của cụm), giữ phần còn lại
+        it["collocations"] = [c for c in dict.fromkeys(it["collocations"]) if c.strip().lower() not in key]
         if key in items:
             items[key]["topics"].append(d["topic"]); continue
         it["topics"] = [d["topic"]]; items[key] = it
@@ -56,6 +63,7 @@ def update(repo, fname, regex, prefix, suffix):
     p.write_text(s, encoding="utf-8")
     vocab = {k: {kk: vv for kk, vv in it.items() if kk != "item"} for k, it in sorted(items.items())}
     (d / "ielts-vocab.json").write_text(json.dumps(vocab, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+    Path(a.out, "ielts-vocab.json").write_text(json.dumps(vocab, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
     print(f"{repo}: +{add} mục mới, bỏ qua {skip} trùng; tổng CEFR_MAP {len(cmap)}")
     if a.push and add:
         subprocess.run(["git", "-C", str(d), "config", "user.name", "thanhtuduong"], check=True)

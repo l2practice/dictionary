@@ -1,4 +1,22 @@
 <script lang="ts">
+  // Tab "IELTS": duyệt từ/cụm theo chủ đề (data/ielts.json); bấm một mục để xem thẻ (collocation, ví dụ) và mở từ điển
+  import { loadIelts, type IeltsItem } from "$lib/ielts";
+  let ieltsAll = $state<Record<string, IeltsItem>>({});
+  let ieltsTopic = $state("all");
+  let ieltsQ = $state("");
+  let ieltsOpen = $state("");
+  async function openIeltsTab() {
+    tab = "ielts";
+    if (!Object.keys(ieltsAll).length) ieltsAll = (await loadIelts()) ?? {};
+  }
+  const ieltsTopics = $derived([...new Set(Object.values(ieltsAll).flatMap((x) => x.topics))]);
+  const ieltsRows = $derived.by(() => {
+    const q = ieltsQ.trim().toLowerCase();
+    return Object.entries(ieltsAll)
+      .filter(([k, x]) => (ieltsTopic === "all" || x.topics.includes(ieltsTopic)) && (!q || k.includes(q) || x.vi.toLowerCase().includes(q)))
+      .sort((a, b) => a[0].localeCompare(b[0]))
+      .slice(0, 400);
+  });
   // Tab "Chuyên ngành": duyệt thuật ngữ kinh tế – kế toán theo ngành (data/domains.json: {ngành: [[từ, nghĩa Việt, CEFR, AI]]})
   const DOM_LABEL: Record<string, [string, string]> = {
     accounting: ["Accounting", "Kế toán"], economics: ["Economics", "Kinh tế"], finance: ["Finance", "Tài chính"], banking: ["Banking", "Ngân hàng"],
@@ -33,9 +51,10 @@
     const q = domQ.trim().toLowerCase();
     return domList.filter((r) => (!domAiOnly || r[3]) && (!q || r[0].toLowerCase().includes(q) || r[1].toLowerCase().includes(q))).slice(0, 600);
   });
-  type Palette = "orange" | "periwinkle" | "terra" | "rose" | "classic";
+  type Palette = "orange" | "green" | "periwinkle" | "terra" | "rose" | "classic";
   const PALETTES: { id: Palette; en: string; vi: string; sw: string }[] = [
     { id: "orange", en: "Orange", vi: "Cam", sw: "linear-gradient(135deg, #1f1b18 50%, #e8734a 50%)" },
+    { id: "green", en: "Green", vi: "Xanh lá", sw: "linear-gradient(135deg, #0d3b26 50%, #1f9d63 50%)" },
     { id: "periwinkle", en: "Periwinkle", vi: "Tím xanh", sw: "linear-gradient(135deg, #1e2142 50%, #5661e0 50%)" },
     { id: "terra", en: "Terracotta", vi: "Đất nung", sw: "linear-gradient(135deg, #15171c 50%, #d4664f 50%)" },
     { id: "rose", en: "Rose", vi: "Hồng tím", sw: "linear-gradient(135deg, #c2337f 50%, #7b45c9 50%)" },
@@ -93,7 +112,7 @@
   let activeList = $state(0);
   let items = $state<ListItem[]>([]);
   let saved = $state(new Set<string>());
-  let tab = $state<"history" | "lists" | "domains">("history");
+  let tab = $state<"history" | "lists" | "domains" | "ielts">("history");
   let theme = $state<"auto" | "light" | "dark">("auto");
   let palette = $state<Palette>("orange");
   let fontSize = $state(16);
@@ -798,10 +817,37 @@
     <div class="tabs">
       <button class:on={tab === "history"} onclick={() => (tab = "history")}>{t("tabHistory")}</button>
       <button class:on={tab === "lists"} onclick={() => (tab = "lists")}>{t("tabLists")}</button>
+      <button class:on={tab === "ielts"} onclick={openIeltsTab}>IELTS</button>
       <button class:on={tab === "domains"} onclick={() => { tab = "domains"; loadDomains(); }}>{ui.lang === "vi" ? "Chuyên ngành" : "Domains"}</button>
     </div>
     <div class="side-list">
-      {#if tab === "domains"}
+      {#if tab === "ielts"}
+        <div class="list-bar dom-bar">
+          <select bind:value={ieltsTopic} aria-label="IELTS topic">
+            <option value="all">{ui.lang === "vi" ? "Tất cả chủ đề" : "All topics"} ({Object.keys(ieltsAll).length})</option>
+            {#each ieltsTopics as tp}<option value={tp}>{tp}</option>{/each}
+          </select>
+          <input class="dom-q" bind:value={ieltsQ} placeholder={ui.lang === "vi" ? "Lọc từ/cụm…" : "Filter…"} aria-label="Filter" />
+        </div>
+        {#each ieltsRows as [k, x] (k)}
+          <button class="dom" class:cur={ieltsOpen === k} onclick={() => (ieltsOpen = ieltsOpen === k ? "" : k)}>
+            <span class="dom-w">{k}</span><span class="dom-c">{x.cefr}</span>
+            <span class="dom-vi">{x.vi}</span>
+          </button>
+          {#if ieltsOpen === k}
+            <div class="ielts-card">
+              <div class="ic-def">{x.definition}</div>
+              <div class="ic-col">{#each x.collocations as c}<span>{c}</span>{/each}</div>
+              <div class="ic-ex"><b>W</b> {x.writing_example}</div>
+              <div class="ic-ex"><b>S</b> {x.speaking_example}</div>
+              {#if x.tip}<div class="ic-tip">💡 {x.tip}</div>{/if}
+              <button class="ic-go" onclick={() => go(k)}>{ui.lang === "vi" ? "Mở trong từ điển" : "Open in dictionary"}</button>
+            </div>
+          {/if}
+        {:else}
+          <p class="empty">{Object.keys(ieltsAll).length ? (ui.lang === "vi" ? "Không có mục nào." : "Nothing found.") : (ui.lang === "vi" ? "Đang tải…" : "Loading…")}</p>
+        {/each}
+      {:else if tab === "domains"}
         <div class="list-bar dom-bar">
           <select bind:value={domSel} aria-label={ui.lang === "vi" ? "Chọn ngành" : "Choose domain"}>
             <option value="all">{ui.lang === "vi" ? "Tất cả (All)" : "All"} ({domSel === "all" ? domList.length : Object.keys(domData).length ? new Set(Object.values(domData).flat().map((r) => r[0])).size : 0})</option>
@@ -1522,6 +1568,13 @@
     font-size: 0.7rem;
     color: var(--ink-3);
   }
+  .ielts-card { margin: 0 8px 8px; padding: 8px 10px; border: 1px solid var(--line); border-radius: 10px; background: var(--surface); display: grid; gap: 5px; font-size: 0.8rem; }
+  .ic-def { color: var(--ink-2); }
+  .ic-col { display: flex; flex-wrap: wrap; gap: 4px; }
+  .ic-col span { background: var(--accent-soft); color: var(--accent); border-radius: 999px; padding: 1px 8px; font-weight: 600; }
+  .ic-ex b { color: var(--accent); margin-right: 4px; }
+  .ic-tip { color: var(--ink-3); }
+  .side-list button.ic-go { text-align: center; border: 1px solid var(--line); border-radius: 8px; padding: 4px 8px; font-weight: 600; color: var(--accent); }
   .dom-bar { flex-direction: column; align-items: stretch; gap: 6px; }
   .dom-q { width: 100%; padding: 6px 10px; border: 1px solid var(--line); border-radius: 10px; background: var(--surface); color: var(--ink); font: inherit; font-size: 0.86rem; }
   .dom-ai { font-size: 0.78rem; color: var(--ink-2); display: flex; gap: 6px; align-items: center; }

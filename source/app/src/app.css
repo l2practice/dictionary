@@ -426,3 +426,82 @@ a {
 }
 
 :root[data-palette="orange"], :root[data-palette="periwinkle"], :root[data-palette="terra"] { --r: 14px; }
+
+/* Bảng xanh lá / trắng */
+:root[data-palette="green"] {
+  --bg: #f4faf6;
+  --surface: #ffffff;
+  --surface-2: #e9f5ee;
+  --ink: #10261a;
+  --ink-2: #3d5748;
+  --ink-3: #617a6c;
+  --line: #d5e7dc;
+  --brand: #0d3b26;
+  --brand-bg: linear-gradient(100deg,#0b3321 0%,#12623c 55%,#1f9d63 100%);
+  --brand-ink: #f1fbf5;
+  --accent: #157347;
+  --accent-soft: #dff3e7;
+  --gw: #0f766e;
+  --gw-soft: #d9f2ef;
+  --vi: #1d5fa8;
+  --vi-soft: #e3eefb;
+  --ai: #5a46c9;
+  --a: #157347;
+  --b: #1d5fa8;
+  --c: #6a49c6;
+  --on-level: #ffffff;
+  --shadow: 0 1px 2px rgba(16,60,35,.06), 0 6px 18px rgba(16,80,45,.08);
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) {
+  :root[data-palette="green"]:not([data-theme="light"]) {
+    --bg: #0c1a13;
+    --surface: #13261c;
+    --surface-2: #1a3326;
+    --ink: #e8f5ee;
+    --ink-2: #b4cfbf;
+    --ink-3: #86a594;
+    --line: #254635;
+    --brand: #07140d;
+    --brand-bg: linear-gradient(100deg,#07140d 0%,#0e3d27 55%,#14774a 100%);
+    --brand-ink: #e8f8ef;
+    --accent: #5fd69b;
+    --accent-soft: #163a29;
+    --gw: #5fd6c8;
+    --gw-soft: #103a36;
+    --vi: #7db6ff;
+    --vi-soft: #14304f;
+    --ai: #b9aaff;
+    --a: #5fe0a0;
+    --b: #80b7ff;
+    --c: #c1a9ff;
+    --on-level: #0c1a13;
+    --shadow: none;
+    color-scheme: dark;
+  }
+}
+:root[data-palette="green"][data-theme="dark"] {
+  --bg: #0c1a13;
+  --surface: #13261c;
+  --surface-2: #1a3326;
+  --ink: #e8f5ee;
+  --ink-2: #b4cfbf;
+  --ink-3: #86a594;
+  --line: #254635;
+  --brand: #07140d;
+  --brand-bg: linear-gradient(100deg,#07140d 0%,#0e3d27 55%,#14774a 100%);
+  --brand-ink: #e8f8ef;
+  --accent: #5fd69b;
+  --accent-soft: #163a29;
+  --gw: #5fd6c8;
+  --gw-soft: #103a36;
+  --vi: #7db6ff;
+  --vi-soft: #14304f;
+  --ai: #b9aaff;
+  --a: #5fe0a0;
+  --b: #80b7ff;
+  --c: #c1a9ff;
+  --on-level: #0c1a13;
+  --shadow: none;
+  color-scheme: dark;
+}

@@ -10,6 +10,7 @@
   import type { Accent } from "./speech";
   import { t, ui } from "./i18n.svelte";
   import { IS_WEB } from "./platform";
+  import { ieltsOf, type IeltsItem } from "./ielts";
 
   let {
     entry,
@@ -37,6 +38,16 @@
     accent?: Accent;
     closed?: Set<string>;
   } = $props();
+
+  // IELTS: collocation + ví dụ Writing/Speaking (nếu từ này có trong danh sách IELTS)
+  let ielts = $state<IeltsItem | null>(null);
+  $effect(() => {
+    const w = entry.word;
+    ielts = null;
+    ieltsOf(w).then((r) => {
+      if (entry.word === w) ielts = r;
+    });
+  });
 
   // tên từ loại tiếng Việt là một phần của lớp nghĩa Việt (hiện khi bật VI), không phải chữ giao diện
   const POS_VI: Record<string, string> = {
@@ -125,6 +136,7 @@
       label: (ui.lang === "vi" ? TYPE_VI : TYPE_EN)[b.entry_type] ?? b.pos,
       sub: b.senses.map((s) => s.guideword ?? "").filter(Boolean),
     })),
+    ...(ielts ? [{ id: "ielts", label: "IELTS", sub: [] }] : []),
     ...(entry.phrasal_verbs.length ? [{ id: "phrasal", label: t("secPhrasal"), sub: [] }] : []),
     ...(entry.idioms.length ? [{ id: "idioms", label: t("secIdioms"), sub: [] }] : []),
     ...(thesaurusBlocks.length ? [{ id: "thes", label: t("secThes"), sub: [] }] : []),
@@ -351,6 +363,29 @@
         {/if}
       </section>
     {/each}
+
+    {#if ielts}
+      <section class="extra" id="ielts">
+        {@render fold("ielts", "IELTS", ielts.band ? (showVi ? "gợi ý band " : "band ") + ielts.band : "")}
+        {#if isOpen("ielts")}
+          <div class="ielts-box">
+            <div class="ielts-top">
+              <Badge kind="ai" text="AI" title="Muse AI" />
+              <span class="ielts-meta">{ielts.use === "both" ? "Writing · Speaking" : ielts.use === "writing" ? "Writing" : "Speaking"} · {ielts.register}</span>
+              {#each ielts.topics as tp}<span class="ielts-topic">{tp}</span>{/each}
+            </div>
+            <p class="ielts-col"><b>{showVi ? "Kết hợp từ" : "Collocations"}:</b>
+              {#each ielts.collocations as c}<span class="chip">{c}</span>{/each}
+            </p>
+            <div class="ielts-ex"><span class="ielts-lab">Writing</span> {ielts.writing_example}
+              {#if showVi && ielts.writing_vi}<div class="ielts-vi">{ielts.writing_vi}</div>{/if}</div>
+            <div class="ielts-ex"><span class="ielts-lab sp">Speaking</span> {ielts.speaking_example}
+              {#if showVi && ielts.speaking_vi}<div class="ielts-vi">{ielts.speaking_vi}</div>{/if}</div>
+            {#if ielts.tip}<p class="ielts-tip">💡 {ielts.tip}</p>{/if}
+          </div>
+        {/if}
+      </section>
+    {/if}
 
     {#if entry.phrasal_verbs.length}
       <section class="extra" id="phrasal">
@@ -855,6 +890,15 @@
   .extra {
     margin-top: 28px;
   }
+  .ielts-box { background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 12px 14px; display: grid; gap: 8px; }
+  .ielts-top { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; font-size: 0.78rem; color: var(--ink-3); }
+  .ielts-topic { background: var(--accent-soft); color: var(--accent); border-radius: 999px; padding: 2px 8px; font-weight: 600; }
+  .ielts-col { margin: 0; display: flex; flex-wrap: wrap; gap: 4px 6px; align-items: center; }
+  .ielts-ex { line-height: 1.5; }
+  .ielts-lab { font-size: 0.68rem; font-weight: 700; color: var(--accent); text-transform: uppercase; letter-spacing: 0.04em; margin-right: 6px; }
+  .ielts-lab.sp { color: var(--vi); }
+  .ielts-vi { color: var(--ink-2); font-size: 0.9rem; }
+  .ielts-tip { margin: 0; font-size: 0.88rem; color: var(--ink-2); }
   h2 {
     font-family: var(--serif);
     font-size: 1.25rem;

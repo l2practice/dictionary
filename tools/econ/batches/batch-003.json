@@ -1,0 +1,681 @@
+[
+{
+"word": "OEM",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"A company that produces parts to be sold under another company's brand.",
+"A value-added reseller; company selling goods assembled from other companies' parts.",
+"All makers prior to initial retail sale, in contrast to aftermarket."
+],
+"vi_hint": [],
+"rank": 12545
+},
+{
+"word": "OEM",
+"pos": "adj",
+"domains": [
+"business"
+],
+"glosses": [
+"Describing goods sold by or to an OEM."
+],
+"vi_hint": [],
+"rank": 12545
+},
+{
+"word": "poach",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"The act of cooking in simmering liquid.",
+"The act of taking something unfairly, as in tennis doubles where one player returns a shot that their partner was better placed to return."
+],
+"vi_hint": [],
+"rank": 12905
+},
+{
+"word": "financier",
+"pos": "verb",
+"domains": [
+"finance"
+],
+"glosses": [
+"To carry out financial transactions; to finance something."
+],
+"vi_hint": [
+", đuốm nhoét lạu chùi phuyễn ngoại động từ.",
+"Cung cấp tiền cho.",
+"Quản lý tài chính."
+],
+"rank": 13299
+},
+{
+"word": "vera",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A skin (rolling paper for cigarettes).",
+"A second-order measure of derivative price sensitivity, expressed as the rate of change of vega with respect to changes in the risk-free interest rate, or equivalently the rate of change of rho with respect to changes in"
+],
+"vi_hint": [],
+"rank": 13838
+},
+{
+"word": "moat",
+"pos": "verb",
+"domains": [
+"business"
+],
+"glosses": [
+"To surround with a moat."
+],
+"vi_hint": [
+"Xây hào bao quanh."
+],
+"rank": 13845
+},
+{
+"word": "revolving",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"The act of something that revolves or turns.",
+"The process where you either take an non-closing linear shape or a 2D shape, take a 3D axis as the pivot, and basically revolve the linear shape around the axis to get a 3D object. (e.g. taking a 2D triangle and turning "
+],
+"vi_hint": [],
+"rank": 14107
+},
+{
+"word": "upside",
+"pos": "prep",
+"domains": [
+"finance"
+],
+"glosses": [
+"On the top of."
+],
+"vi_hint": [],
+"rank": 14458
+},
+{
+"word": "ABC",
+"pos": "noun",
+"domains": [
+"business",
+"finance",
+"management"
+],
+"glosses": [
+"The English alphabet.",
+"The fundamentals of any subject.",
+"A straightforward, uniform playing style, often focusing on betting for value, folding weak hands, and avoiding bluffing.",
+"A British alphabetized guidebook listing trains and their stations.",
+"A keyboard layout in which all keys are arranged in alphabetical order in English."
+],
+"vi_hint": [
+"Bảng chữ cái.",
+"Khái niệm cơ sở, cơ sở, i tờ.",
+"Bảng chỉ đường theo ABC."
+],
+"rank": 14469
+},
+{
+"word": "Aussie",
+"pos": "adj",
+"domains": [
+"finance"
+],
+"glosses": [
+"Australian."
+],
+"vi_hint": [],
+"rank": 14619
+},
+{
+"word": "DM",
+"pos": "noun",
+"domains": [
+"money"
+],
+"glosses": [
+"adamsite, diphenylaminechlorarsine",
+"driving motor car",
+"A Dr. Martens boot or shoe."
+],
+"vi_hint": [],
+"rank": 14655
+},
+{
+"word": "DM",
+"pos": "verb",
+"domains": [
+"money"
+],
+"glosses": [
+"To communicate by direct message, usually on a social media website.",
+"To dungeon master; to perform as a dungeon master; to run a tabletop role-playing game."
+],
+"vi_hint": [],
+"rank": 14655
+},
+{
+"word": "recoverable",
+"pos": "noun",
+"domains": [
+"accounting"
+],
+"glosses": [
+"Amounts of reinsurance coverage that are due from a reinsurer."
+],
+"vi_hint": [],
+"rank": 15101
+},
+{
+"word": "AP",
+"pos": "noun",
+"domains": [
+"accounting",
+"banking"
+],
+"glosses": [
+"An Advanced Placement program.",
+"An Audemars Piguet watch."
+],
+"vi_hint": [],
+"rank": 15125
+},
+{
+"word": "CR",
+"pos": "verb",
+"domains": [
+"accounting"
+],
+"glosses": [
+"to go to the comfort room"
+],
+"vi_hint": [],
+"rank": 15362
+},
+{
+"word": "CR",
+"pos": "noun",
+"domains": [
+"accounting"
+],
+"glosses": [
+"Credit."
+],
+"vi_hint": [],
+"rank": 15362
+},
+{
+"word": "retrace",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"The period when the beam of the cathode-ray tube returns to its initial horizontal position in order to start the next line of the display.",
+"An instance of retracement."
+],
+"vi_hint": [],
+"rank": 15707
+},
+{
+"word": "unwind",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"Any mechanism or operation that unwinds something."
+],
+"vi_hint": [],
+"rank": 15965
+},
+{
+"word": "underfoot",
+"pos": "noun",
+"domains": [
+"accounting"
+],
+"glosses": [
+"A storage compartment that sits below the deck of a boat."
+],
+"vi_hint": [],
+"rank": 16125
+},
+{
+"word": "underfoot",
+"pos": "verb",
+"domains": [
+"accounting"
+],
+"glosses": [
+"To provide a footing beneath; to shore up or underpin.",
+"To assign a column summary that is less than the sum of all the entries in that column."
+],
+"vi_hint": [],
+"rank": 16125
+},
+{
+"word": "defunct",
+"pos": "verb",
+"domains": [
+"business"
+],
+"glosses": [
+"To make defunct."
+],
+"vi_hint": [],
+"rank": 16361
+},
+{
+"word": "defunct",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"The dead person (referred to)."
+],
+"vi_hint": [
+"The defunct người chết."
+],
+"rank": 16361
+},
+{
+"word": "notional",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A fake company used as a front in espionage."
+],
+"vi_hint": [],
+"rank": 16869
+},
+{
+"word": "launder",
+"pos": "noun",
+"domains": [
+"money"
+],
+"glosses": [
+"A trough used by miners to receive powdered ore from the box where it is beaten, or for carrying water to the stamps, or other apparatus for comminuting (sorting) the ore.",
+"A trough or channel carrying water to the wheel of a watermill.",
+"A gutter (for rainwater)."
+],
+"vi_hint": [],
+"rank": 17638
+},
+{
+"word": "kangaroo",
+"pos": "adj",
+"domains": [
+"finance"
+],
+"glosses": [
+"Of or relating to Australia.",
+"Characterized by rapidly jumping prices in securities markets or by belief that the prices are unstable in contrast to bear and bull markets."
+],
+"vi_hint": [],
+"rank": 17686
+},
+{
+"word": "macro",
+"pos": "verb",
+"domains": [
+"economics"
+],
+"glosses": [
+"To use a macro.",
+"To use a macro on (something)."
+],
+"vi_hint": [],
+"rank": 18529
+},
+{
+"word": "folio",
+"pos": "verb",
+"domains": [
+"accounting"
+],
+"glosses": [
+"To put a serial number on (a folio or page, or on all the folios or pages of a book); to foliate, to page."
+],
+"vi_hint": [],
+"rank": 19379
+},
+{
+"word": "derogatory",
+"pos": "noun",
+"domains": [
+"business",
+"finance"
+],
+"glosses": [
+"A tradeline on a credit report that indicates negative credit history."
+],
+"vi_hint": [],
+"rank": 19719
+},
+{
+"word": "unicorn",
+"pos": "verb",
+"domains": [
+"business",
+"finance"
+],
+"glosses": [
+"To participate in a sexual threesome as a bisexual addition to an established heterosexual couple.",
+"To exceed a valuation of one billion U.S. dollars, while solely backed by venture capitalists."
+],
+"vi_hint": [],
+"rank": 19854
+},
+{
+"word": "unicorn",
+"pos": "adj",
+"domains": [
+"business",
+"finance"
+],
+"glosses": [
+"Having one horn.",
+"Rare and hard to find."
+],
+"vi_hint": [],
+"rank": 19854
+},
+{
+"word": "hardline",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"A retail product collection consisting primarily of hardware targeting the do-it-yourself customer.",
+"A retail product collection which includes many non-information goods, such as home appliances, housewares, and sporting goods, in addition to the DIY hardware which is the focus of the first definition, above.",
+"A physical wire or cable connection; landline."
+],
+"vi_hint": [],
+"rank": 20164
+},
+{
+"word": "ROM",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A software image of read-only memory (as of a game cartridge) used in emulation.",
+"The nonvolatile internal storage, often a solid-state drive, on a mobile device or computer."
+],
+"vi_hint": [],
+"rank": 20274
+},
+{
+"word": "candlestick",
+"pos": "verb",
+"domains": [
+"finance",
+"stock-market"
+],
+"glosses": [
+"To catch on fire, so that the chute resembles a tapered candle with a flame on top.",
+"To analyze stock behavior using Japanese candlestick charts.",
+"To adorn with candlesticks.",
+"To form a tall, thin, tapering shape similar to a candle."
+],
+"vi_hint": [],
+"rank": 20452
+},
+{
+"word": "frothy",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"A serving of beer."
+],
+"vi_hint": [],
+"rank": 20826
+},
+{
+"word": "fundholding",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"The holding of a fund.",
+"A former system of state funding of general practitioners in which they were allocated a budget for services by the local hospital."
+],
+"vi_hint": [],
+"rank": 21003
+},
+{
+"word": "AR",
+"pos": "noun",
+"domains": [
+"accounting"
+],
+"glosses": [
+"An AR-15 personal semi-automatic rifle, M-16 assault rifle, M-4 carbine, derivative or related gun; the Armalite AR family and derivatives.",
+"An assault rifle or automatic rifle."
+],
+"vi_hint": [],
+"rank": 21134
+},
+{
+"word": "flipper",
+"pos": "verb",
+"domains": [
+"finance"
+],
+"glosses": [
+"To lift one or both flippers out of the water and slap the surface of the water."
+],
+"vi_hint": [],
+"rank": 21390
+},
+{
+"word": "upmarket",
+"pos": "verb",
+"domains": [
+"economics"
+],
+"glosses": [
+"To render or become upmarket."
+],
+"vi_hint": [],
+"rank": 21911
+},
+{
+"word": "turnpike",
+"pos": "verb",
+"domains": [
+"economics"
+],
+"glosses": [
+"To form (a road, etc.) in the manner of a turnpike road, or into a rounded form, as the path of a road."
+],
+"vi_hint": [],
+"rank": 22998
+},
+{
+"word": "MOT",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"An MOT test (an annual test of roadworthiness for most UK motor vehicles over three years old, or four years old in Northern Ireland).",
+"Any regular checkup.",
+"An aggregate which meets one of the three Ministry of Transport standards for use in road, path and sports court subbase layers."
+],
+"vi_hint": [],
+"rank": 23149
+},
+{
+"word": "MOT",
+"pos": "verb",
+"domains": [
+"business"
+],
+"glosses": [
+"To subject a motor vehicle to an MOT test."
+],
+"vi_hint": [],
+"rank": 23149
+},
+{
+"word": "overheat",
+"pos": "verb",
+"domains": [
+"economics"
+],
+"glosses": [
+"To heat excessively.",
+"To become excessively hot.",
+"To grow too quickly in an uncontrolled way."
+],
+"vi_hint": [
+"Đun quá nóng, hâm quá nóng.",
+"Xúi giục, khuấy động (quần chúng).",
+"Trở nên quá nóng."
+],
+"rank": 23828
+},
+{
+"word": "overheat",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"A condition of being overheated."
+],
+"vi_hint": [],
+"rank": 23828
+},
+{
+"word": "tau",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"The letter Τ /τ in the Greek alphabet; being the nineteenth letter of the Classical and Modern Greek, and the twenty-first letter of the Old and Ancient Greek alphabets.",
+"A Τ-shaped object or sign; a Saint Anthony's cross, sometimes regarded as a sacred symbol.",
+"A crosier with a Τ-shaped head.",
+"The ankh symbol (☥).",
+"Chiefly written τ: used to designate the nineteenth star (usually according to brightness) in a constellation.",
+"A measurement of the sensitivity of the value of an option to changes in the implied volatility of the price of the underlying asset.",
+"Chiefly written τ: an irrational and transcendental constant representing the ratio of the circumference of a Euclidean circle to its radius, equal to twice the value of pi (2π; approximately 6.2831853071)."
+],
+"vi_hint": [],
+"rank": 23857
+},
+{
+"word": "exogenous",
+"pos": "adj",
+"domains": [
+"economics"
+],
+"glosses": [
+"Produced or originating outside of the referent organism.",
+"Growing as an exogen, by successive additions to the outside.",
+"Having a cause external to the infected organism.",
+"Being or relating to a change that comes from outside the model and is not explained by the model.",
+"Having no meaning in itself, such as an automatically generated sequential identifier.",
+"Related to the exogen growth phase."
+],
+"vi_hint": [
+"Sinh ngoài, ngoại sinh."
+],
+"rank": 24103
+},
+{
+"word": "bullion",
+"pos": "noun",
+"domains": [
+"money"
+],
+"glosses": [
+"A bulk quantity of precious metal, usually gold or silver, assessed by weight and typically cast as ingots.",
+"The mark left on a glass piece from its attachment to a punty."
+],
+"vi_hint": [
+"Nén, thoi (vàng, bạc).",
+"Kim tuyến (để thêu)."
+],
+"rank": 24210
+},
+{
+"word": "embezzlement",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"The fraudulent conversion of property from a property owner.",
+"Such conversion from public property."
+],
+"vi_hint": [
+"Sự biển thủ, sự tham ô."
+],
+"rank": 24254
+},
+{
+"word": "exploding",
+"pos": "adj",
+"domains": [
+"business"
+],
+"glosses": [
+"Having the appearance of an explosion.",
+"Only available for a very short period."
+],
+"vi_hint": [],
+"rank": 24281
+},
+{
+"word": "exploding",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"Explosion."
+],
+"vi_hint": [],
+"rank": 24281
+},
+{
+"word": "reconstructed",
+"pos": "adj",
+"domains": [
+"management"
+],
+"glosses": [
+"Rebuilt; reassembled; redesigned and reimplemented; thoroughly renovated even at the structural level.",
+"Recreated; redeveloped and rediscovered through forensic methods or other similarly clever methods of induction from limited evidence of a past state.",
+"Reformed in politics, ideology, or spiritual conformation; reconciled to social or cultural change; particularly with respect to the Reconstruction after the American Civil War."
+],
+"vi_hint": [],
+"rank": 24537
+}
+]

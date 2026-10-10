@@ -1,0 +1,277 @@
+[
+{
+"word": "guideword",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"A word or phrase that serves as one's guide.",
+"A word that is printed at the top or bottom of the page in a reference work, in order to help readers find a specific entry.",
+"A word under the right-hand side of the last line on a book page that repeats the first word from the following page.",
+"Any of the words in a memo or email that define metadata regarding the message, such as sender, recipient, and subject."
+],
+"vi_hint": [
+"Từ chỉ dẫn (ở góc phải, góc trái trang tự điển để chỉ mục từ đầu và mục từ cuối của trang)."
+],
+"rank": null
+},
+{
+"word": "hang a shingle",
+"pos": "verb",
+"domains": [
+"business"
+],
+"glosses": [
+"To start a small business of one's own."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "high-level",
+"pos": "adj",
+"domains": [
+"business"
+],
+"glosses": [
+"Taking place or existing at a high level, altitude or elevation.",
+"Of or pertaining to a person of a high social position or high rank within a hierarchy or organization.",
+"Consisting of such people.",
+"Consisting of relatively natural language-like commands and mathematical notations which, after compilation or interpretation, become a set of machine language instructions.",
+"A summary that provides a general overview and omits nearly all details.",
+"At (or associated with) an advanced level within the context of a game's progression system."
+],
+"vi_hint": [
+"Chtrị ở cấp cao, thượng đỉnh."
+],
+"rank": null
+},
+{
+"word": "holding company",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"A company whose main purpose is to own shares of other companies, as opposed to producing goods or offering services."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "horizontally integrated",
+"pos": "adj",
+"domains": [
+"business"
+],
+"glosses": [
+"Of a company, acquiring, merging with, or expanding alongside other companies operating at the same level in the value chain or industry."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "hostile takeover",
+"pos": "noun",
+"domains": [
+"business",
+"management"
+],
+"glosses": [
+"An attempted takeover of a company that is strongly resisted by the target company's management."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "hyperphysical",
+"pos": "adj",
+"domains": [
+"business",
+"marketing"
+],
+"glosses": [
+"Supernatural, beyond the physical realm, immaterial, metaphysical",
+"Highly stimulating, offering intense or abundant visual, tactile, or other physical stimulation."
+],
+"vi_hint": [
+"Phi thường, siêu phẩm."
+],
+"rank": null
+},
+{
+"word": "IMO",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"Template:init of."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "industrial relations",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"The relationship between management and workers in a given industry."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "in-flight",
+"pos": "adj",
+"domains": [
+"business"
+],
+"glosses": [
+"occurring, or provided for use during a flight",
+"in progress; underway"
+],
+"vi_hint": [
+"Trong chuyến bay của một máy bay."
+],
+"rank": null
+},
+{
+"word": "inner circle",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"The group comprising one's closest friends or associates.",
+"A small, exclusive group of people close to the center of power who control a movement, organization, political party, etc.",
+"Used other than figuratively or idiomatically: see inner, circle."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "in play",
+"pos": "prep_phrase",
+"domains": [
+"business"
+],
+"glosses": [
+"As a joke.",
+"In operation, active, currently valid, at play, at work.",
+"Available to be played according to the rules of the game in question; within the boundaries of the pitch, within the realm of the possible, etc.",
+"Capable of being won by more than one party or candidate.",
+"Open to a takeover bid."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "in stock",
+"pos": "prep_phrase",
+"domains": [
+"business"
+],
+"glosses": [
+"Available for immediate sale or use."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "IPO",
+"pos": "verb",
+"domains": [
+"business"
+],
+"glosses": [
+"To launch an initial public offering, to go public."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "job center",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"An agency, often a government agency, that tries to find a job for working-age people."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "joint venture",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"A cooperative partnership between two or more criminals.",
+"Any cooperative partnership or agreement."
+],
+"vi_hint": [
+"Liên doanh."
+],
+"rank": null
+},
+{
+"word": "Juglar cycle",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"A fixed investment cycle of 7 to 11 years."
+],
+"vi_hint": [
+"Chu kỳ Juglar."
+],
+"rank": null
+},
+{
+"word": "kaizen",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"A Japanese business practice of continuous improvement in performance and productivity.",
+"Continuous improvement generally."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "kitchen sink",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"A sink in a kitchen used for washing crockery, cutlery, utensils, food, etc., and disposing of waste.",
+"A miscellaneous item or a miscellany, especially exemplifying an indiscriminate profusion.",
+"In chained or tied to the kitchen sink, etc.: domestic chores or housework, especially when regarded as menial and tedious."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "kitchen sink",
+"pos": "adj",
+"domains": [
+"business"
+],
+"glosses": [
+"Of or pertaining to a mid-20th-century realist style of painting in Britain characterized by scenes of dull or untidy domestic interiors such as kitchens in the homes of urban working-class people; also, of or pertaining",
+"Of or pertaining to a mid-20th-century (especially 1950s–1960s) genre of drama, fiction, etc., in Britain depicting the harsh lives of working-class people; also, of or pertaining to a film, novel, play, etc., of this ge"
+],
+"vi_hint": [],
+"rank": null
+}
+]

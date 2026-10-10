@@ -1,0 +1,260 @@
+[
+{
+"word": "play hardball",
+"pos": "verb",
+"domains": [
+"business"
+],
+"glosses": [
+"To use every means possible to achieve a goal, especially in disregarding the harm caused.",
+"To act rough and ruthless, especially in business or politics."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "point of sale",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"The location at which payment for goods is made in an establishment that sells goods or services."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "price-cutting",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"The act of reducing of the price of goods."
+],
+"vi_hint": [
+"Sự sụt giá, sự giảm giá."
+],
+"rank": null
+},
+{
+"word": "price floor",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"An imposed lower limit on the price charged for goods or services."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "price list",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"A list of items for sale with their prices."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "private sector",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"All organizations in an economy or jurisdiction that are not controlled by government, including privately owned businesses and not-for-profit organizations."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "product base",
+"pos": "noun",
+"domains": [
+"business",
+"marketing"
+],
+"glosses": [
+"The range of products that a company sells."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "production order",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"Order issued within a company to produce a specific quantity of material within a certain timeframe."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "productization",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"The act of modifying something, such as a concept or a tool internal to an organization, to make it suitable as a commercial product."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "profit margin",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"The ratio of net income to net sales of a company expressed as a percentage."
+],
+"vi_hint": [
+"Chênh lệch lợi nhuận."
+],
+"rank": null
+},
+{
+"word": "public limited company",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"A publicly traded limited liability company in the United Kingdom and some other jurisdictions."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "public-private partnership",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"An arrangement by which one or more private firms agrees to fund, create, or operate a facility, service, or other element of public infrastructure (such as a school, hospital, or highway) which is usually the sole respo"
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "publishing house",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"A company that produces books, magazines, brochures and other texts in print or electronic form."
+],
+"vi_hint": [
+"Nhà xuất bản."
+],
+"rank": null
+},
+{
+"word": "pull a sickie",
+"pos": "verb",
+"domains": [
+"business"
+],
+"glosses": [
+"To skip work or school or avoid an obligation by pretending to be sick."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "purchase order",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"A commercial order issued by a buyer (purchaser) to a seller, and the document that defines it, indicating the type, quantities, and agreed prices for products or services the seller will provide to the buyer."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "qualify out",
+"pos": "verb",
+"domains": [
+"business"
+],
+"glosses": [
+"To be removed from a competition by not qualifying.",
+"To disqualify (someone) from focus by a salesperson because they are unlikely to buy."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "ramen profitable",
+"pos": "adj",
+"domains": [
+"business"
+],
+"glosses": [
+"Producing just enough profit for survival."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "reach out",
+"pos": "verb",
+"domains": [
+"business"
+],
+"glosses": [
+"To extend one's hand(s) forward; to reach for something.",
+"To ask for help.",
+"To make more friends, to increase one's group of friends or acquaintances.",
+"To try to contact someone, especially in order to give or get information, help, support, etc."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "reimport",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"The act or practice of importing again, or back to a place of origin; reimportation.",
+"A product which has been reimported."
+],
+"vi_hint": [
+"Sự nhập khẩu lại."
+],
+"rank": null
+},
+{
+"word": "reimport",
+"pos": "verb",
+"domains": [
+"business"
+],
+"glosses": [
+"To import again.",
+"To import goods which have previously been exported, particularly pharmaceutical products, back into the country of origin."
+],
+"vi_hint": [
+"Nhập khẩu lại."
+],
+"rank": null
+}
+]

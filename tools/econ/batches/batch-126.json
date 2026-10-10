@@ -1,0 +1,274 @@
+[
+{
+"word": "profit motive",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"The pursuit of financial gain as a motivation for individuals and firms to conduct business."
+],
+"vi_hint": [
+"Động cơ lợi nhuận."
+],
+"rank": null
+},
+{
+"word": "public finance",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"A field of economics concerned with paying for collective or governmental activities, and with the administration and design of those activities."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "public good",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"The general welfare of the people; the best interests of the community.",
+"A resource, service, or other provision which contributes to the general welfare of the people.",
+"A good that is non-rivalrous and non-excludable."
+],
+"vi_hint": [
+"Hàng hoá công cộng."
+],
+"rank": null
+},
+{
+"word": "public ownership",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"state ownership."
+],
+"vi_hint": [
+"Sở hữu công cộng."
+],
+"rank": null
+},
+{
+"word": "public purse",
+"pos": "noun",
+"domains": [
+"economics",
+"money"
+],
+"glosses": [
+"A quantity of money collected by a government through taxation and other methods, and used for public purposes; public funds, public money."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "punitive tariff",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"A tax imposed by a government on imported goods from a specific country, intended to punish that country for perceived unfair trade practices or political provocations."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "purchasing power",
+"pos": "noun",
+"domains": [
+"business",
+"economics"
+],
+"glosses": [
+"The amount of goods and services that can be bought with a unit of currency.",
+"The amount of goods and services that can be bought by consumers.",
+"The ability of a large collective or company to negotiate more favourable prices and terms than a smaller group or company."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "purchasing power parity",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"A theory of long-term equilibrium exchange rates based on relative price levels of two countries."
+],
+"vi_hint": [
+"Sức mua tương đương."
+],
+"rank": null
+},
+{
+"word": "quantitative easing",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"A monetary policy in which the central bank increases the money supply in the banking system, as by purchasing bonds from banks."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "quasi-rent",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"The income earned, in excess of post-investment opportunity cost, by a sunk cost investment."
+],
+"vi_hint": [
+"Tiền thuê giả."
+],
+"rank": null
+},
+{
+"word": "queer anarchist",
+"pos": "adj",
+"domains": [
+"economics"
+],
+"glosses": [
+"Of, supporting, relating to, or advocating queer anarchism."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "race to the bottom",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"A situation in which competition between governments leads to very excessive (harmful) deregulation.",
+"A situation in which competition between entities leads to elimination of perks or amenities, often in the interest of cutting costs.",
+"Any situation in which multiple parties are seemingly competing to achieve the greatest level of mediocrity."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "reexport",
+"pos": "verb",
+"domains": [
+"economics"
+],
+"glosses": [
+"To export again; to export something that has been imported."
+],
+"vi_hint": [
+"Xuất khẩu lại (một mặt hàng)."
+],
+"rank": null
+},
+{
+"word": "reexport",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"The export of a (recently) imported good. (often not or hardly reworked)"
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "reflate",
+"pos": "verb",
+"domains": [
+"economics"
+],
+"glosses": [
+"To reinflate, to inflate again.",
+"To restore the general level of prices to a previous or desirable level."
+],
+"vi_hint": [
+"Phục hồi (hệ thống tiền tệ)."
+],
+"rank": null
+},
+{
+"word": "reflationary",
+"pos": "adj",
+"domains": [
+"economics"
+],
+"glosses": [
+"Of or pertaining to reflation."
+],
+"vi_hint": [
+"Nhằm phục hồi tiền tệ, để phục hồi tiền tệ."
+],
+"rank": null
+},
+{
+"word": "regional economics",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"A sub-discipline of economics that examines economic theories and policies particular to specific regions."
+],
+"vi_hint": [
+"Kinh tế học khu vực."
+],
+"rank": null
+},
+{
+"word": "regulatory capture",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"The situation where a regulatory agency, created by government to act in the public interest, instead advances the commercial or political concerns of special interest groups that dominate the affected industry or sector"
+],
+"vi_hint": [
+"Sự lạm quyền điều tiết; Điều tiết bị trói."
+],
+"rank": null
+},
+{
+"word": "remonetization",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"The act or process of remonetizing, or restoring to the status of legal tender."
+],
+"vi_hint": [
+"Sự phục hồi (tiền, vàng)... ) thành tiền tệ chính thức."
+],
+"rank": null
+},
+{
+"word": "rent-seeking",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"The attempt to profit by manipulating the economic or political environment, for example, by seeking governmental action that restricts entry into a market.",
+"The effort to increase one's share of wealth without doing something productive or adding value."
+],
+"vi_hint": [],
+"rank": null
+}
+]

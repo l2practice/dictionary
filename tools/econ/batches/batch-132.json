@@ -1,0 +1,281 @@
+[
+{
+"word": "buy in",
+"pos": "verb",
+"domains": [
+"finance"
+],
+"glosses": [
+"To accept an idea as valid; to join in on a concept.",
+"To invest as part of a group; to put one's personal stake in an investment.",
+"To buy back for the owner at an auction.",
+"For the buyer of securities, whose seller fails to deliver the securities contracted for, to buy the securities from a third party and demand the difference in price from the original seller.",
+"To stock (something) by buying inventory from a third party."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "buy into",
+"pos": "verb",
+"domains": [
+"finance"
+],
+"glosses": [
+"To believe (something, especially something implausible); to accept (a craze, fad, or notion) as valid.",
+"To buy stocks or shares of (a business)."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "buy the dip",
+"pos": "verb",
+"domains": [
+"finance"
+],
+"glosses": [
+"To purchase a financial asset after its market value drops."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "CAG",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"The nucleobase coding triplet cytosine (C), adenine (A), guanine (G)."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "call money",
+"pos": "noun",
+"domains": [
+"banking",
+"finance"
+],
+"glosses": [
+"Money that is loaned by a financial institution and is recallable on demand."
+],
+"vi_hint": [
+"Khoản vay không kỳ hạn."
+],
+"rank": null
+},
+{
+"word": "call option",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"An option to buy a stated quantity of an asset or financial product, such as stock, at a stated price (the strike price), on a stated future date (or range of dates)."
+],
+"vi_hint": [
+"Hợp đồng mua trước."
+],
+"rank": null
+},
+{
+"word": "candlestick chart",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A style of financial chart used to describe price movements of a security, derivative, or currency."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "capitalizable",
+"pos": "adj",
+"domains": [
+"finance"
+],
+"glosses": [
+"Capable of being converted into capital."
+],
+"vi_hint": [
+"Xem capitalize"
+],
+"rank": null
+},
+{
+"word": "capital market",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"The market for long-term securities, including the stock market and the bond market."
+],
+"vi_hint": [
+"Thị trường vốn."
+],
+"rank": null
+},
+{
+"word": "capital structure",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"The way that a corporation finances its assets through some combination of equity, debt, and hybrid securities."
+],
+"vi_hint": [
+"Cấu trúc vốn."
+],
+"rank": null
+},
+{
+"word": "cash is king",
+"pos": "phrase",
+"domains": [
+"business",
+"finance"
+],
+"glosses": [
+"A colloquial phrase sometimes used in analyzing businesses or investment portfolios, often referring not only to assets and net worth in general but also more specifically to the importance of cash flow in the overall fi"
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "cash poor",
+"pos": "adj",
+"domains": [
+"business",
+"finance"
+],
+"glosses": [
+"Possessing considerable economic assets, but unable to quickly or easily liquidate them for monetary transactions."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "cash rich",
+"pos": "adj",
+"domains": [
+"business",
+"finance"
+],
+"glosses": [
+"Possessing considerable disposable income, however lacking in economic assets or reasons to spend."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "cats and dogs",
+"pos": "adv",
+"domains": [
+"finance"
+],
+"glosses": [
+"Heavily; copiously; a lot."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "certificate of deposit",
+"pos": "noun",
+"domains": [
+"banking",
+"finance"
+],
+"glosses": [
+"A time deposit offered by a bank or credit union, wherein the depositor commits a fixed sum of principal for a predetermined maturity period, in exchange for a guaranteed interest rate higher than that of a standard savi",
+"The certificate issued to the holder of such an account, verifying its ownership."
+],
+"vi_hint": [
+"Giấy chứng nhận tiền gửi."
+],
+"rank": null
+},
+{
+"word": "charge account",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A type of credit facility provided by a bank or store, to which goods and services purchased can be charged, allowing the customer to defer payment until a later date."
+],
+"vi_hint": [
+"Tài khoản tín dụng."
+],
+"rank": null
+},
+{
+"word": "circuit breaker",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"An electrical switch capable of opening and closing an electrical circuit in all operating conditions, including fault situations.",
+"A circuit breaker that automatically breaks overcurrent conditions; a type of overcurrent protective device.",
+"Synonym of trading curb.",
+"Quarantine measures intended to prevent spread of pandemics, especially COVID-19.",
+"A design pattern used to detect failures and prevent them from constantly recurring."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "clean down",
+"pos": "verb",
+"domains": [
+"finance"
+],
+"glosses": [
+"To clean (something) thoroughly.",
+"To pay off revolving debt."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "close out",
+"pos": "verb",
+"domains": [
+"finance",
+"marketing"
+],
+"glosses": [
+"To terminate; to call the end of.",
+"Synonym of close (“to make a sale”).",
+"To settle, to pay what is due.",
+"To break all at once, instead of progressively along its length.",
+"To terminate a computer program.",
+"To exclude by blocking all opportunities to enter or join.",
+"To make trades offsetting an existing position, leaving the trader with a neutral position.",
+"To seal off."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "club together",
+"pos": "verb",
+"domains": [
+"finance"
+],
+"glosses": [
+"To contribute money jointly with others.",
+"To link up for a particular purpose."
+],
+"vi_hint": [],
+"rank": null
+}
+]

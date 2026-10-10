@@ -1,0 +1,278 @@
+[
+{
+"word": "mortgage-backed",
+"pos": "adj",
+"domains": [
+"finance"
+],
+"glosses": [
+"Having mortgages as collateral."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "mutual fund",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A form of collective investment in which money from many investors is pooled and invested in stocks, bonds, short-term money market instruments, or other securities under the direction of a fund manager."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "mutualize",
+"pos": "verb",
+"domains": [
+"finance"
+],
+"glosses": [
+"To make or to become mutual.",
+"To organize (a business) so that it is owned by its customers or its employees."
+],
+"vi_hint": [
+"Làm thành của chung.",
+"Trở thành của chung."
+],
+"rank": null
+},
+{
+"word": "mutual organization",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"An organization in which members do not contribute to the capital of the company by direct investment, but derive their right to profits and votes through their customer relationship."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "name day",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"The feast day of the saint after whom one is named.",
+"Synonym of ticket day."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "national income",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"The sum of all income in a nation over a specific time period including wages or salaries, pension payments, interest, rents, and profits of businesses after tax."
+],
+"vi_hint": [
+"Thu nhập quốc dân."
+],
+"rank": null
+},
+{
+"word": "near money",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"Highly liquid assets, other than cash, that can easily be converted into cash."
+],
+"vi_hint": [
+"Tiền cận; Chuẩn tệ."
+],
+"rank": null
+},
+{
+"word": "net present value",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"The present value of a project or an investment decision determined by summing the discounted incoming and outgoing future cash flows resulting from the decision."
+],
+"vi_hint": [
+"(tài chính) Giá trị hiện tại ròng."
+],
+"rank": null
+},
+{
+"word": "niche market",
+"pos": "noun",
+"domains": [
+"business",
+"finance"
+],
+"glosses": [
+"A relatively small and specialist, yet profitable, market."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "no-load",
+"pos": "adj",
+"domains": [
+"finance"
+],
+"glosses": [
+"Sold directly to a customer without a sales commission.",
+"Not supplying power; open-circuited."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "no-load",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A financial instrument that is sold directly to a customer without a sales commission."
+],
+"vi_hint": [
+"Sự chạy không, sự không tải."
+],
+"rank": null
+},
+{
+"word": "no-par",
+"pos": "adj",
+"domains": [
+"finance"
+],
+"glosses": [
+"Denoting a form of stock that is issued with no par value."
+],
+"vi_hint": [
+"Không có giá trị quy định."
+],
+"rank": null
+},
+{
+"word": "obligee",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"The party owed an obligation by another party, the obligor."
+],
+"vi_hint": [
+"Người nhận giao ước.",
+"Người mang ơn, người hàm ơn."
+],
+"rank": null
+},
+{
+"word": "obligor",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"The party bearing a legal obligation to another party (the obligee)."
+],
+"vi_hint": [
+"Người giao ước."
+],
+"rank": null
+},
+{
+"word": "offtake",
+"pos": "verb",
+"domains": [
+"finance"
+],
+"glosses": [
+"To take off; take away, remove.",
+"To take out or remove commodities from a market, usually through purchasing them."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "offtake",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A point or channel of drainage or off-flow; offlet.",
+"The removal of oil (or an industrial chemical) from a storage facility.",
+"An act of taking off; specifically, the taking away or purchase of goods.",
+"Something taken off; a deduction."
+],
+"vi_hint": [
+"Kênh nhánh; mương nhánh.",
+"Đường ống nhánh.",
+"Tháp rút nước (của công trình sâu)."
+],
+"rank": null
+},
+{
+"word": "ordinary share",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A share of common stock."
+],
+"vi_hint": [
+"Cổ phiếu thường."
+],
+"rank": null
+},
+{
+"word": "outclearing",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"The act or process of clearing out.",
+"The sending of cheques to a clearing house to be cleared."
+],
+"vi_hint": [
+"Sự gửi ngân phiếu đến sở thanh toán (để thanh toán)."
+],
+"rank": null
+},
+{
+"word": "out of the money",
+"pos": "prep_phrase",
+"domains": [
+"finance"
+],
+"glosses": [
+"Of an option, yielding a loss if exercised.",
+"Failing to achieve a sufficiently high ranking in a contest to earn money (for oneself, or for those who have placed a bet)."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "overbought",
+"pos": "adj",
+"domains": [
+"finance"
+],
+"glosses": [
+"Of a stock or commodity market condition: where there has been significant trading bidding up prices to higher levels, levels which seem overextended or excessive on a short-term basis."
+],
+"vi_hint": [],
+"rank": null
+}
+]

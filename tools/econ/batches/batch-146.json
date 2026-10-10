@@ -1,0 +1,264 @@
+[
+{
+"word": "war chest",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A fund to finance a war.",
+"A fund for some special purpose, such as a political campaign."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "wide open",
+"pos": "adj",
+"domains": [
+"finance"
+],
+"glosses": [
+"Completely open.",
+"Having no laws or law enforcement.",
+"Unsettled or unresolved.",
+"Vulnerable or unprotected.",
+"Without the presence of opponents nearby.",
+"Of the situation at the beginning of trading when there is a large spread between bids and asking prices."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "without recourse",
+"pos": "prep_phrase",
+"domains": [
+"finance"
+],
+"glosses": [
+"Used other than figuratively or idiomatically: see without, recourse.",
+"Written on a bill of exchange to indicate that the buyer might not be paid back."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "your network is your net worth",
+"pos": "proverb",
+"domains": [
+"finance"
+],
+"glosses": [
+"Possessing the right or certain professional connections will ensure financial success in one's career."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "yo-yo",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A toy consisting of a spheroidal or cylindrical spindle having a circular groove in which string is wound; it is used by holding the string in the fingers and reeling the spindle up and down by movements of the wrist.",
+"A volatile market that moves up and down.",
+"Someone who vacillates.",
+"A dogfighting maneuver involving the attacker temporarily exchanging altitude for airspeed, or vice versa, in order to rapidly catch up with the defender or to prevent an overshoot.",
+"A cloth rosette formed by gathering the outside edge of a circle of fabric in toward the centre using a running stitch.",
+"A foolish, annoying or incompetent person."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "zero coupon bond",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A bond (e.g., corporate debenture or government debt) that has no coupon (i.e., pays no interest), during the life of the issue. Such a bond is initially sold at a discount to its face value. The rate of return to the ho"
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "account number",
+"pos": "noun",
+"domains": [
+"banking"
+],
+"glosses": [
+"A number used to identify a bank account."
+],
+"vi_hint": [
+"Số chương mục, số tài khoản."
+],
+"rank": null
+},
+{
+"word": "allonge",
+"pos": "noun",
+"domains": [
+"banking"
+],
+"glosses": [
+"A slip of paper attached to a negotiable instrument to hold endorsements should the document itself be unable to hold any more.",
+"A thrust or pass; a lunge."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "automated teller machine",
+"pos": "noun",
+"domains": [
+"banking"
+],
+"glosses": [
+"A device that provides bank customers with cash withdrawal and other services without the need for a human teller."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "automatic teller machine",
+"pos": "noun",
+"domains": [
+"banking"
+],
+"glosses": [
+"Synonym of automated teller machine."
+],
+"vi_hint": [
+"Máy gửi-rút tiền tự động."
+],
+"rank": null
+},
+{
+"word": "back-to-back loan",
+"pos": "noun",
+"domains": [
+"banking"
+],
+"glosses": [
+"A transaction where a sum borrowed for one country is secured by a deposit of the same company (internal financing) or its stakeholder (external financing) at the same or two different operating companies of the lending "
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "bad bank",
+"pos": "noun",
+"domains": [
+"banking"
+],
+"glosses": [
+"A bank created to specialize in the ownership of defaulted loans and their collection."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "bank card",
+"pos": "noun",
+"domains": [
+"banking"
+],
+"glosses": [
+"A card issued by a bank, which may entitle the holder to a variety of services similar to that of a credit card or debit card, or allow withdrawal of cash from ATMs."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "bank cheque",
+"pos": "noun",
+"domains": [
+"banking"
+],
+"glosses": [
+"A cheque which is payable by a bank itself, as opposed to an ordinary cheque payable only out of the funds of a particular customer's account. A bank cheque is normally obtained by a bank customer (by paying its face val"
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "bank robber",
+"pos": "noun",
+"domains": [
+"banking"
+],
+"glosses": [
+"One who robs or steals from a bank."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "bank run",
+"pos": "noun",
+"domains": [
+"banking"
+],
+"glosses": [
+"An event where many depositors of one or more banks withdraw money from their bank accounts within a short time, causing the banks concerned to become unstable."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "bank statement",
+"pos": "noun",
+"domains": [
+"banking"
+],
+"glosses": [
+"A communication from a bank to a person holding an account in that bank, usually issued monthly, detailing the value of the holdings in that account and the effects of all transactions occurring with respect to that acco"
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "bill of exchange",
+"pos": "noun",
+"domains": [
+"banking"
+],
+"glosses": [
+"A document demanding payment from another party, especially used in international trade."
+],
+"vi_hint": [
+"Hối phiếu đối ngoại."
+],
+"rank": null
+},
+{
+"word": "blank check",
+"pos": "noun",
+"domains": [
+"banking"
+],
+"glosses": [
+"A signed check of the type used to draw money from a bank account, containing no information as to the amount to be paid with it, so that any amount can be filled in.",
+"A grant of complete authority to spend an unlimited amount of money, or to take other actions without restraint."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "building society",
+"pos": "noun",
+"domains": [
+"banking"
+],
+"glosses": [
+"A type of financial institution which traditionally was based on lending money (as mortgages) to society members to purchase houses, from the pooled savings of other members or money borrowed wholesale."
+],
+"vi_hint": [
+"Ngân hàng phát triển gia cư."
+],
+"rank": null
+}
+]

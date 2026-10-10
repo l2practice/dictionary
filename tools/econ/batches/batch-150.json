@@ -1,0 +1,263 @@
+[
+{
+"word": "quitrent",
+"pos": "noun",
+"domains": [
+"taxation"
+],
+"glosses": [
+"A rent reserved in grants of land, by the payment of which the tenant is quit (absolved) from other service."
+],
+"vi_hint": [
+"Tô nộp cho lãnh chúa (thường) cố định để miễn giao dịch."
+],
+"rank": null
+},
+{
+"word": "rayah",
+"pos": "noun",
+"domains": [
+"taxation"
+],
+"glosses": [
+"A member of the tax-paying lower class of Ottoman society."
+],
+"vi_hint": [
+"Người Thổ nhĩ kỳ không theo đạo Ixlam."
+],
+"rank": null
+},
+{
+"word": "render unto Caesar",
+"pos": "verb",
+"domains": [
+"taxation"
+],
+"glosses": [
+"To give (something) to one's state or government, especially in the form of a tax payment."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "revenue stamp",
+"pos": "noun",
+"domains": [
+"taxation"
+],
+"glosses": [
+"A stamp to be affixed as proof that the tax due on the marked product has been paid."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "reverse charge",
+"pos": "phrase",
+"domains": [
+"taxation"
+],
+"glosses": [
+"Added to an invoice to indicate that receiver of the goods or services in another member state of European Union is responsible for paying VAT."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "sales tax",
+"pos": "noun",
+"domains": [
+"taxation"
+],
+"glosses": [
+"A local or state tax imposed as a percentage of the selling price of goods or services payable by the customer and collected by the seller for the local or state authorities.",
+"A use tax or a combination of a sales tax and a use tax."
+],
+"vi_hint": [
+"Thuế bán hàng."
+],
+"rank": null
+},
+{
+"word": "scutage",
+"pos": "noun",
+"domains": [
+"taxation"
+],
+"glosses": [
+"A tax, paid in lieu of military service, that was a significant source of revenue in England in the twelfth and thirteenth centuries."
+],
+"vi_hint": [
+"Tiền triều cống."
+],
+"rank": null
+},
+{
+"word": "snapback",
+"pos": "noun",
+"domains": [
+"taxation"
+],
+"glosses": [
+"The reimposition of an earlier and usually higher tariff.",
+"The reimposition of previous sanctions.",
+"An adjustable, flat-brimmed baseball cap with snap fasteners on the back."
+],
+"vi_hint": [
+"Sự chuyền lùi, sự đá về (bóng đá)."
+],
+"rank": null
+},
+{
+"word": "step-up",
+"pos": "noun",
+"domains": [
+"taxation"
+],
+"glosses": [
+"A workout movement wherein one leg stands on an elevated surface and lifts in the concentric part the rest of the body up onto it to target – depending on angle and starting distance of the other leg and weights applied ",
+"An increase.",
+"A phenomenon whereby the growth in market value of an asset or investment is not taxed under certain circumstances, generally involving buying and holding until the buyer's death, followed by inheritance."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "supertax",
+"pos": "noun",
+"domains": [
+"taxation"
+],
+"glosses": [
+"An additional tax on something that has already been taxed.",
+"A higher rate of an existing tax."
+],
+"vi_hint": [
+"Thuế phụ.",
+"Thuế siêu lợi tức."
+],
+"rank": null
+},
+{
+"word": "tariff barrier",
+"pos": "noun",
+"domains": [
+"taxation"
+],
+"glosses": [
+"a barrier to trade between countries in the form of high taxes or duties which may be imposed by a government."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "taxable income",
+"pos": "noun",
+"domains": [
+"taxation"
+],
+"glosses": [
+"The base upon which an income tax system imposes tax."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "tax authority",
+"pos": "noun",
+"domains": [
+"taxation"
+],
+"glosses": [
+"A government organization responsible for collecting taxes."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "tax avoidance",
+"pos": "noun",
+"domains": [
+"taxation"
+],
+"glosses": [
+"The legal exploitation of tax rules to minimize tax payments."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "tax bracket",
+"pos": "noun",
+"domains": [
+"taxation"
+],
+"glosses": [
+"A range over which a piecewise linear, generally progressive, tax is linear."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "tax break",
+"pos": "noun",
+"domains": [
+"taxation"
+],
+"glosses": [
+"A deduction in tax that is given in order to encourage a certain economic activity or a social objective."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "tax collector",
+"pos": "noun",
+"domains": [
+"taxation"
+],
+"glosses": [
+"One who has the responsibility for collecting taxes."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "tax cut",
+"pos": "noun",
+"domains": [
+"taxation"
+],
+"glosses": [
+"A reduction in the rate of tax charged by a government."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "tax-deductible",
+"pos": "adj",
+"domains": [
+"taxation"
+],
+"glosses": [
+"That is exempt from payment of income tax."
+],
+"vi_hint": [
+"Có thể được trừ vào thu nhập trước khi tính thuế phải đóng (về chi tiêu)."
+],
+"rank": null
+},
+{
+"word": "tax evader",
+"pos": "noun",
+"domains": [
+"taxation"
+],
+"glosses": [
+"One who illegally avoids paying tax (for example, by not declaring income)."
+],
+"vi_hint": [],
+"rank": null
+}
+]

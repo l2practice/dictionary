@@ -1,0 +1,286 @@
+[
+{
+"word": "jigger",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"A double-ended vessel, generally of stainless steel or other metal, one end of which typically measures 1½ fluid ounces (approx. 44 ml), the other typically 1 fluid ounce (approx. 30 ml).",
+"A measure of 1½ fluid ounces (approx. 44 ml) of liquor.",
+"A drink of whiskey.",
+"The sieve used in sorting or separating ore.",
+"One who jigs; a miner who sorts or cleans ore by the process of jigging.",
+"A horizontal lathe used in producing flatware.",
+"A device used in the dyeing of cloth.",
+"A pendulum rolling machine for slicking or graining leather."
+],
+"vi_hint": [
+"Người nhảy điệu jig."
+],
+"rank": 41378
+},
+{
+"word": "jigger",
+"pos": "verb",
+"domains": [
+"business"
+],
+"glosses": [
+"To alter or adjust, particularly in ways not originally intended.",
+"To use a jigger.",
+"To move, send, or drive with a jerk; to jerk; also, to drive or send over with a jerk, as a golf ball."
+],
+"vi_hint": [],
+"rank": 41378
+},
+{
+"word": "illiquid",
+"pos": "adj",
+"domains": [
+"finance"
+],
+"glosses": [
+"Not readily converted into cash.",
+"Having substantial assets but with most of them being of types not readily converted into cash (thus, not having much ready money)."
+],
+"vi_hint": [
+"Không dễ đổi thành tiền mặt (của cải).",
+"Không lỏng."
+],
+"rank": 41501
+},
+{
+"word": "arb",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"The act of or potential for arbitrage.",
+"One who engages in arbitrage; an arbitrageur.",
+"An arboretum."
+],
+"vi_hint": [],
+"rank": 41639
+},
+{
+"word": "arb",
+"pos": "verb",
+"domains": [
+"finance"
+],
+"glosses": [
+"To engage in arbitrage."
+],
+"vi_hint": [],
+"rank": 41639
+},
+{
+"word": "OD",
+"pos": "noun",
+"domains": [
+"management"
+],
+"glosses": [
+"(of a pipe, tube, or shaft) Initialism of outer diameter or outside diameter."
+],
+"vi_hint": [],
+"rank": 41945
+},
+{
+"word": "mercantilism",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"The theory that a nation must always have a positive balance of trade, in the manner that a merchant would operate a shop. Typically this model presupposes protectionism.",
+"The theory that holds that the prosperity of a nation depends upon its supply of capital, and that the global volume of trade is unchangeable."
+],
+"vi_hint": [
+"Tính hám lợi, tính vụ lợi, tính con buôn.",
+"Chủ nghĩa trọng thương."
+],
+"rank": 42129
+},
+{
+"word": "pharma",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"The pharmaceutical or drug-making sector."
+],
+"vi_hint": [],
+"rank": 42396
+},
+{
+"word": "twopence",
+"pos": "noun",
+"domains": [
+"money"
+],
+"glosses": [
+"A British or Irish coin worth two (old or new) pence.",
+"A cost or value of two pence.",
+"A small amount or value."
+],
+"vi_hint": [
+"Hai xu (Anh)."
+],
+"rank": 42480
+},
+{
+"word": "chartist",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A financial analyst who attempts to predict future movements in the prices of shares or other financial instruments by looking for patterns in charts of historical data."
+],
+"vi_hint": [
+"Người tham gia phong trào hiến chương (ở anh vào những năm 1830)."
+],
+"rank": 42498
+},
+{
+"word": "securitization",
+"pos": "noun",
+"domains": [
+"commerce",
+"finance"
+],
+"glosses": [
+"The fact or process of securitizing assets; the conversion of loans into securities, usually in order to sell them on to other investors.",
+"The act of convincing a relevant audience to treat a topic as a matter of security (regardless of whether it constitutes an actual threat), thus justifying the use of extraordinary measures."
+],
+"vi_hint": [
+"Chứng khoán hoá."
+],
+"rank": 42532
+},
+{
+"word": "recasting",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"The casting of something into a different form; a transformation.",
+"The adjustment of a loan that would otherwise be defaulted."
+],
+"vi_hint": [],
+"rank": 42879
+},
+{
+"word": "chintzy",
+"pos": "adj",
+"domains": [
+"money"
+],
+"glosses": [
+"Of or decorated with chintz.",
+"Tastelessly showy; cheap, gaudy, or tacky.",
+"Excessively reluctant to spend; miserly, stingy."
+],
+"vi_hint": [],
+"rank": 42945
+},
+{
+"word": "lucre",
+"pos": "noun",
+"domains": [
+"money"
+],
+"glosses": [
+"Money, riches, or wealth, especially when seen as having a corrupting effect or causing greed, or obtained in an underhanded manner."
+],
+"vi_hint": [
+"Lợi, lợi lộc."
+],
+"rank": 42990
+},
+{
+"word": "stockholding",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"An ownership interest in one or more companies' stock."
+],
+"vi_hint": [],
+"rank": 43176
+},
+{
+"word": "exchangeable",
+"pos": "adj",
+"domains": [
+"finance"
+],
+"glosses": [
+"Able to be exchanged.",
+"Having an associated right to be exchanged for another form of financial security."
+],
+"vi_hint": [
+"Có thể đổi được, có thể đổi chác, có thể trao đổi."
+],
+"rank": 43242
+},
+{
+"word": "exchangeable",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"Any financial instrument with an associated right to be exchanged for another form of financial security."
+],
+"vi_hint": [],
+"rank": 43242
+},
+{
+"word": "salesroom",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"The room where sales are made"
+],
+"vi_hint": [
+"Phòng bán đấu giá."
+],
+"rank": 43361
+},
+{
+"word": "repack",
+"pos": "verb",
+"domains": [
+"finance"
+],
+"glosses": [
+"To pack again or in a different way.",
+"To clean the bearings and replace the grease on a wheel."
+],
+"vi_hint": [
+"Bao gói lại; làm lại bao bì."
+],
+"rank": 43533
+},
+{
+"word": "repack",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"Synonym of repackaging."
+],
+"vi_hint": [],
+"rank": 43533
+}
+]

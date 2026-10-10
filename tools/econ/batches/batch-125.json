@@ -1,0 +1,268 @@
+[
+{
+"word": "polycrisis",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"A series of crises occurring at the same time."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "positional good",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"A good valued only by how it is distributed among a population and whose value comes solely from its desirability as a status symbol."
+],
+"vi_hint": [
+"Hàng hoá theo vị trí."
+],
+"rank": null
+},
+{
+"word": "positive economics",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"The branch of economics that concerns the description and explanation of economic phenomena and their causal relationships"
+],
+"vi_hint": [
+"Kinh tế học thực chứng."
+],
+"rank": null
+},
+{
+"word": "poverty line",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"The threshold of poverty, below which one's income does not cover necessities."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "predatory pricing",
+"pos": "noun",
+"domains": [
+"business",
+"economics"
+],
+"glosses": [
+"A strategy of selling a good or service at a very low price so as to drive one's competitors out of business (at which point one can raise one's prices more freely)."
+],
+"vi_hint": [
+"Định giá để bán phá giá."
+],
+"rank": null
+},
+{
+"word": "present value",
+"pos": "noun",
+"domains": [
+"economics",
+"finance"
+],
+"glosses": [
+"The value of future cash flows determined as of the date of valuation."
+],
+"vi_hint": [
+"Giá trị hiện tại."
+],
+"rank": null
+},
+{
+"word": "price control",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"A governmental restriction on the prices that can be charged for goods and services in a market."
+],
+"vi_hint": [
+"Kiểm soát giá."
+],
+"rank": null
+},
+{
+"word": "price discriminate",
+"pos": "verb",
+"domains": [
+"economics"
+],
+"glosses": [
+"To charge different prices to different categories of consumers."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "price discrimination",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"The practice of charging different prices to different categories of consumers."
+],
+"vi_hint": [
+"Phân biệt đối xử theo giá."
+],
+"rank": null
+},
+{
+"word": "price elasticity of demand",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"An economic metric designed to measure how sensitive quantity demanded is to a change in the price of a good/service."
+],
+"vi_hint": [
+"Độ co giãn của cầu theo giá."
+],
+"rank": null
+},
+{
+"word": "price index",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"A statistical estimate of the level of prices of some class of goods or services."
+],
+"vi_hint": [
+"Chỉ số giá."
+],
+"rank": null
+},
+{
+"word": "price stability",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"A state of economy characterized by low inflation, and thus a stable value of money. Price stability is one of the central goals of most governments and central banks."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "price war",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"A situation where commercial competitors repeatedly undercut each other's prices in order to attract buyers."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "primary industry",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"An industry that processes raw materials for conversion by secondary industry into goods or services sold by tertiary industry to provide goods or services to consumers."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "primary sector",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"The sector of the economy that principally produces raw materials for use by other sectors."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "prime the pump",
+"pos": "verb",
+"domains": [
+"economics"
+],
+"glosses": [
+"To engage in deficit spending.",
+"To give something in order to create the conditions where others will give in return.",
+"Used other than figuratively or idiomatically: see prime, the, pump."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "private good",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"A good that is rivalrous and excludable."
+],
+"vi_hint": [
+"Hàng hoá riêng tư."
+],
+"rank": null
+},
+{
+"word": "producer good",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"An item of goods, such as partly finished goods, used as an input in the production of other goods."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "producer price index",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"A price index that measures the average changes in prices received by domestic producers for their output."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "product differentiation",
+"pos": "noun",
+"domains": [
+"economics",
+"marketing"
+],
+"glosses": [
+"Perceived differences between the product of one firm and that of its rivals so that some customers value it more.",
+"The process of creating such differences."
+],
+"vi_hint": [
+"Sự khác biệt hoá sản phẩm."
+],
+"rank": null
+}
+]

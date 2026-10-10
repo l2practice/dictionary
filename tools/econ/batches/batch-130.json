@@ -1,0 +1,269 @@
+[
+{
+"word": "wildcat strike",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"A labor strike that has not been authorized by the leaders of a trade union."
+],
+"vi_hint": [
+"Cuộc đình công tự phát, chưa được lãnh đạo công đoàn cho phép."
+],
+"rank": null
+},
+{
+"word": "winner-take-all",
+"pos": "adj",
+"domains": [
+"economics"
+],
+"glosses": [
+"Of or pertaining to a contest, election, or other competition in which only the winner is rewarded and none of the losers receive anything.",
+"Of a market in which a product or service that is only slightly better than its competitors receives a disproportionately large share of revenue.",
+"Of a neural network model: organized so that neurons in a layer compete with each other for activation."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "working poor",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"Working people whose incomes fall below a given poverty line."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "accepting house",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"An institution specialising in the acceptance and guarantee of bills of exchange, thereby facilitating the lending of money."
+],
+"vi_hint": [
+"(tài chính) Ngân hàng nhận trả; phòng chấp nhận."
+],
+"rank": null
+},
+{
+"word": "actuarial science",
+"pos": "noun",
+"domains": [
+"finance",
+"insurance"
+],
+"glosses": [
+"The discipline within applied mathematics dealing with risk assessment and the modelling of uncertainty; the rigorous application of mathematical and statistical methods to assess risk, in industries including insurance "
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "alternative investment fund",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"collective investment scheme investing in all asset classes and a wide range of financial instruments"
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "amortized",
+"pos": "adj",
+"domains": [
+"business",
+"finance"
+],
+"glosses": [
+"Of a debt or liability, wiped out gradually or in installments.",
+"Of an algorithm, in which the costs of running it is evened out over many iterations."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "arbitrager",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"One who participates in arbitrage."
+],
+"vi_hint": [
+"(tài chính) Người tham gia kinh doanh chênh lệch giá."
+],
+"rank": null
+},
+{
+"word": "arrear",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"Work to be done, obligation.",
+"Unpaid debt.",
+"That which is in the rear or behind."
+],
+"vi_hint": [
+"Việc đang làm dở, việc chưa làm xong.",
+"Nợ còn khất lại, tiền thiếu lại (chưa trả).",
+"Phía sau cùng, phần cuối cùng (đám rước... )."
+],
+"rank": null
+},
+{
+"word": "asking price",
+"pos": "noun",
+"domains": [
+"business",
+"finance"
+],
+"glosses": [
+"The list price or sticker price of an item; the price without any discounts or incentives."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "assented",
+"pos": "adj",
+"domains": [
+"finance"
+],
+"glosses": [
+"Of stocks or bonds: whose holders agree to deposit them by way of assent to an agreement altering their status, as in a readjustment."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "asset-backed",
+"pos": "adj",
+"domains": [
+"finance"
+],
+"glosses": [
+"Having assets as collateral."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "at a premium",
+"pos": "prep_phrase",
+"domains": [
+"finance"
+],
+"glosses": [
+"Above par value.",
+"At a high, or higher than expected, price.",
+"Scarce, in short supply."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "at the expense of",
+"pos": "prep",
+"domains": [
+"finance"
+],
+"glosses": [
+"Paid for by an individual or group.",
+"At one's responsibility.",
+"In a way as to harm somebody or something; to the detriment of.",
+"Of a joke, deriding someone."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "at the money",
+"pos": "prep_phrase",
+"domains": [
+"finance"
+],
+"glosses": [
+"Of an option, having an underlying value approximately equal to its strike price: roughly, such that exercising it yields neither a profit nor a loss."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "aval",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A financial guarantee by a third party to assume the burden of a debt, especially a bill of exchange in the event of default."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "average down",
+"pos": "verb",
+"domains": [
+"finance"
+],
+"glosses": [
+"To buy more of a product, especially more shares, at a lower price than a previous purchase, so that the average price paid for one's holding is lowered."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "average up",
+"pos": "verb",
+"domains": [
+"finance"
+],
+"glosses": [
+"To calculate an average or rough figure.",
+"To buy more of a product, especially more shares, at a higher price than a previous purchase, so that the average price paid for one's holding is raised."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "back up the truck",
+"pos": "verb",
+"domains": [
+"finance"
+],
+"glosses": [
+"To take advantage of favourable pricing by purchasing a large amount."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "backwardation",
+"pos": "noun",
+"domains": [
+"finance",
+"stock-market"
+],
+"glosses": [
+"A situation in a futures market where the price for future delivery of a commodity (the forward price) is lower than the price for immediate delivery (the spot price) or nearer delivery, generally arising from a near-ter",
+"A situation in which short-term interest rates are higher than long-term interest rates.",
+"The situation in a stock market where the offer price for stock is lower than the bid price."
+],
+"vi_hint": [],
+"rank": null
+}
+]

@@ -1,0 +1,280 @@
+[
+{
+"word": "shunting",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"The connection of an electrical component in parallel with another, the current being divided between them.",
+"The manipulation of railway rolling stock into different combinations or onto different tracks.",
+"Arbitrage conducted between certain local markets without the necessity of the exchange involved in foreign arbitrage."
+],
+"vi_hint": [
+"Sự rẽ đường, sự tránh đường.",
+"Sự mắc mạch sun."
+],
+"rank": 53271
+},
+{
+"word": "tailgating",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"The act of driving dangerously close behind another vehicle.",
+"A tailgate party (social event held on and around the open tailgate of a vehicle)",
+"The act of inappropriately gaining entry into a restricted area, past a checkpoint, by tagging along behind another person who is authorized.",
+"Synonym of front running."
+],
+"vi_hint": [],
+"rank": 53558
+},
+{
+"word": "hyperinflationary",
+"pos": "adj",
+"domains": [
+"economics"
+],
+"glosses": [
+"Having very high levels of inflation."
+],
+"vi_hint": [
+"Lạm phát tăng rất nhanh."
+],
+"rank": 54054
+},
+{
+"word": "lagniappe",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"An extra or unexpected gift or benefit, such as that given to customers when they purchase something."
+],
+"vi_hint": [
+"Quà tặng nhỏ của người bán tặng cho người mua."
+],
+"rank": 54077
+},
+{
+"word": "CG",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"(video games, in a visual novel) A unique, static full-screen image, usually displayed to illustrate a significant event in the story.",
+"A guided missile cruiser."
+],
+"vi_hint": [],
+"rank": 54180
+},
+{
+"word": "illiquidity",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"The condition of being illiquid; a lack of liquidity; difficulty in selling out an asset."
+],
+"vi_hint": [
+"Xem illiquid"
+],
+"rank": 54492
+},
+{
+"word": "callable",
+"pos": "adj",
+"domains": [
+"finance"
+],
+"glosses": [
+"That can be called.",
+"That may be redeemed by its holder before it matures."
+],
+"vi_hint": [
+"Có thể gọi được.",
+"Có thể trả ngay được (tiền nợ)."
+],
+"rank": 54494
+},
+{
+"word": "callable",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"An object of a type that can be called, such as a function.",
+"A callable bond."
+],
+"vi_hint": [],
+"rank": 54494
+},
+{
+"word": "geoeconomics",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"The study of the spatial, temporal, and political aspects of economies and resources in relation to the balance of power between nation-states or trade blocs."
+],
+"vi_hint": [],
+"rank": 54807
+},
+{
+"word": "susu",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"An informal money pooling scheme practised in Africa, the Caribbean, and some immigrant communities."
+],
+"vi_hint": [
+"Người xuxu (ở Mali, Ghinê).",
+"Tiếng Xuxu."
+],
+"rank": 55373
+},
+{
+"word": "chartism",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"The practices and methodologies of chartists."
+],
+"vi_hint": [
+"Phong trào hiến chương (ở Anh 1837 1848)."
+],
+"rank": 55752
+},
+{
+"word": "additionality",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"The property of being additional.",
+"Net positive difference that results from economic development intervention. The extent to which an activity (and associated outputs, outcomes and impacts) is larger in scale, at a higher quality, takes place quicker, ta"
+],
+"vi_hint": [],
+"rank": 55797
+},
+{
+"word": "spiff",
+"pos": "noun",
+"domains": [
+"commerce"
+],
+"glosses": [
+"Attractiveness or charm in dress, appearance, or manner.",
+"A bonus or other remuneration, given for reaching a sales goal or promoting the goods of a particular manufacturer. Originally from textile retailing, a percentage given for selling off surplus or out-of-fashion stock, o"
+],
+"vi_hint": [],
+"rank": 56234
+},
+{
+"word": "spiff",
+"pos": "verb",
+"domains": [
+"commerce"
+],
+"glosses": [
+"(usually with up or out) To make spiffy (attractive, polished, or up-to-date)",
+"To reward (a salesperson) with a spiff or bonus.",
+"To attach a spiff or bonus to the selling of (a product)"
+],
+"vi_hint": [],
+"rank": 56234
+},
+{
+"word": "forex",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"Syllabic abbreviation of foreign exchange."
+],
+"vi_hint": [],
+"rank": 56390
+},
+{
+"word": "reflation",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"The act of restoring a deflated general level of prices to a previous or desired level."
+],
+"vi_hint": [
+"Sự phục hồi hệ thống tiền tệ."
+],
+"rank": 56469
+},
+{
+"word": "demerge",
+"pos": "verb",
+"domains": [
+"business"
+],
+"glosses": [
+"To separate companies that were formerly combined; to reverse a merger."
+],
+"vi_hint": [],
+"rank": 56560
+},
+{
+"word": "cashpoint",
+"pos": "noun",
+"domains": [
+"banking"
+],
+"glosses": [
+"An automated teller machine."
+],
+"vi_hint": [],
+"rank": 56565
+},
+{
+"word": "flexitime",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"An arrangement that allows employees to set their own working hours within agreed limits; normally must include certain periods (core time) when they must be at work."
+],
+"vi_hint": [
+"Hệ thống giờ làm việc linh hoạt."
+],
+"rank": 56741
+},
+{
+"word": "above the line",
+"pos": "adv",
+"domains": [
+"accounting",
+"marketing"
+],
+"glosses": [
+"In the part of the score sheet in bridge that is reserved for honors, penalty, and premiums; a score that does not count towards game.",
+"Classified as an ordinary expense or revenue item, or a current asset.",
+"Having a broad reach rather than targeting a specific demographic.",
+"Who guide and influence the creative direction, process, and voice of a given narrative in a film, such as the screenwriter, producer, director, and actors.",
+"Of expenses: paid per project to creative personnel such as writers and actors."
+],
+"vi_hint": [],
+"rank": null
+}
+]

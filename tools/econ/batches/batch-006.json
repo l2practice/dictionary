@@ -1,0 +1,760 @@
+[
+{
+"word": "salesmanship",
+"pos": "noun",
+"domains": [
+"business",
+"marketing"
+],
+"glosses": [
+"The art or skill of selling products, services or ideas through persuasion and effective communication.",
+"A position as salesman."
+],
+"vi_hint": [
+"Nghệ thuật bán hàng.",
+"Nghề bán hàng, công việc bán hàng."
+],
+"rank": 31271
+},
+{
+"word": "illiberal",
+"pos": "adj",
+"domains": [
+"economics"
+],
+"glosses": [
+"Restricting or failing to sufficiently promote individual choice and freedom.",
+"Narrow-minded; bigoted.",
+"Not adhering to either liberalism or neoliberalism."
+],
+"vi_hint": [
+"Hẹp hòi, không phóng khoáng.",
+"Không có văn hoá, không có học thức.",
+"Tầm thường, bần tiện."
+],
+"rank": 31410
+},
+{
+"word": "illiberal",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"One opposed to liberal principles."
+],
+"vi_hint": [],
+"rank": 31410
+},
+{
+"word": "monopolist",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"One who has, or attempts to acquire, a monopoly on something."
+],
+"vi_hint": [
+"Người độc quyền; người tán thành chế độ tư bản độc quyền."
+],
+"rank": 31587
+},
+{
+"word": "hickey",
+"pos": "noun",
+"domains": [
+"business",
+"finance"
+],
+"glosses": [
+"A bruise-like mark made during petting by pressing the mouth to the skin on one’s partner’s body and sucking.",
+"A similar mark made by the pressure of a musical instrument such as a violin or viola against the neck.",
+"An object whose name is unknown or cannot be recalled.",
+"A printing defect caused by foreign matter on the printing surface resulting in a ring where the ink is missing, appearing as a spot of ink surrounded by a halo, or as an unprinted spot within a solid printed area.",
+"A serif or other ornamentation on type.",
+"Local swelling in a tissue area, especially skin, often due to injury.",
+"A tool for making smooth, semicircular bends in conduit and pipe.",
+"An unintended negative outcome or loss in regards to a deal or action."
+],
+"vi_hint": [
+"Đồ dùng, thiết bị.",
+"Mụn nhọt, vết nhơ."
+],
+"rank": 31821
+},
+{
+"word": "BD",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"Comics.",
+"An act of sexual intercourse for the purpose of conception."
+],
+"vi_hint": [],
+"rank": 31867
+},
+{
+"word": "BD",
+"pos": "verb",
+"domains": [
+"finance"
+],
+"glosses": [
+"To have sexual intercourse for the purpose of conception."
+],
+"vi_hint": [],
+"rank": 31867
+},
+{
+"word": "nosedive",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"A headfirst fall or jump.",
+"A drop in altitude with the nose of the craft angled downwards.",
+"A rapid fall, e.g. in price or value."
+],
+"vi_hint": [
+"Sự đâm bổ nhào, sự bổ nhào xuống (máy bay)."
+],
+"rank": 31879
+},
+{
+"word": "nosedive",
+"pos": "verb",
+"domains": [
+"economics"
+],
+"glosses": [
+"To dive down in a steep angle.",
+"To perform a rapid fall in price or value."
+],
+"vi_hint": [
+"Đâm bổ xuống, bổ nhào xuống (máy bay)."
+],
+"rank": 31879
+},
+{
+"word": "repo",
+"pos": "verb",
+"domains": [
+"finance"
+],
+"glosses": [
+"To repossess."
+],
+"vi_hint": [],
+"rank": 32534
+},
+{
+"word": "refinancing",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"One or more loans or other borrowings that repay and replace previous financings."
+],
+"vi_hint": [],
+"rank": 32622
+},
+{
+"word": "atomistic",
+"pos": "adj",
+"domains": [
+"economics"
+],
+"glosses": [
+"Of or pertaining to atoms or to atomism.",
+"Divided into separate elements; not holistic.",
+"Of a market: divided such that no single actor can noticeably affect market-wide values such as the price; competitive."
+],
+"vi_hint": [
+"Nguyên tử.",
+"Thuyết nguyên tử."
+],
+"rank": 33193
+},
+{
+"word": "divestment",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"The sale or other disposal of some kind of asset."
+],
+"vi_hint": [
+"Sự cởi quần áo; sự lột quần áo.",
+"Sự tước bỏ, sự tước đoạt; sự trừ bỏ, sự gạt bỏ.",
+"Sự rút một phần tiền đầu tư từ một trương mục"
+],
+"rank": 33228
+},
+{
+"word": "inelastic",
+"pos": "adj",
+"domains": [
+"economics"
+],
+"glosses": [
+"Lacking elasticity; inflexible, unyielding.",
+"Insensitive to changes in price.",
+"Resistant to swings during elections; predictable."
+],
+"vi_hint": [
+"Không co dân, không đàn hồi.",
+"Không mềm dẻo, khó thích nghi.",
+"Phản ứng chậm đối với những sự thay đổi (thị trường... )."
+],
+"rank": 33265
+},
+{
+"word": "copywriter",
+"pos": "noun",
+"domains": [
+"marketing"
+],
+"glosses": [
+"A person who writes advertising copy (the text used in advertisements)."
+],
+"vi_hint": [],
+"rank": 33302
+},
+{
+"word": "profiteer",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"One who makes an unreasonable profit not justified by cost or risk, a rent-seeker."
+],
+"vi_hint": [
+"Kẻ trục lợi, kẻ đầu cơ trục lợi."
+],
+"rank": 33354
+},
+{
+"word": "profiteer",
+"pos": "verb",
+"domains": [
+"business"
+],
+"glosses": [
+"To make an unreasonable profit not justified by cost or risk."
+],
+"vi_hint": [
+"Trục lợi, đầu cơ trục lợi."
+],
+"rank": 33354
+},
+{
+"word": "conditionality",
+"pos": "noun",
+"domains": [
+"economics",
+"finance"
+],
+"glosses": [
+"A state of being subject to conditions.",
+"A condition applied to the access of a government to credit facilities and other international financial assistance, especially from the IMF and the World Bank."
+],
+"vi_hint": [
+"Xem conditional"
+],
+"rank": 33546
+},
+{
+"word": "emolument",
+"pos": "noun",
+"domains": [
+"money"
+],
+"glosses": [
+"Payment for employment or an office; compensation for a job, which is usually monetary.",
+"Material benefit, either direct or indirect."
+],
+"vi_hint": [
+"Lương, tiền thù lao."
+],
+"rank": 33611
+},
+{
+"word": "parsimony",
+"pos": "noun",
+"domains": [
+"money"
+],
+"glosses": [
+"With a negative connotation: great reluctance to spend money or other resources; miserliness, stinginess; (countable) an instance of this."
+],
+"vi_hint": [
+"Sự tằn tiện, tính hà tiện, tính bủn xỉn."
+],
+"rank": 33732
+},
+{
+"word": "spendthrift",
+"pos": "adj",
+"domains": [
+"money"
+],
+"glosses": [
+"Improvident, profligate, or wasteful.",
+"Extravagant or lavish."
+],
+"vi_hint": [],
+"rank": 34102
+},
+{
+"word": "spendthrift",
+"pos": "noun",
+"domains": [
+"money"
+],
+"glosses": [
+"Someone who spends money improvidently or wastefully.",
+"Anything that distributes its attributes profusely, without restraint."
+],
+"vi_hint": [
+"Người ăn tiêu hoang phí, người vung tay quá trán.",
+"Hoang phí, vung tay quá trán."
+],
+"rank": 34102
+},
+{
+"word": "backwash",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"A backward flow of water, as from oars, a propeller, breaking waves, etc.",
+"The similar flow of air from an aircraft engine.",
+"The result or consequence of an event; an aftermath.",
+"The saliva, spit or food particles that have flowed back into a drink after someone has drunk from it.",
+"The situation where economic growth in one area harms other areas by attracting people and business away from those areas.",
+"An obscure place; a backwater.",
+"Synonym of washback."
+],
+"vi_hint": [
+"Nước xoáy ngược, nước cuộn ngược, nước bị mái chèo đẩy ngược.",
+"Luồng không khí xoáy (sau máy bay)."
+],
+"rank": 34127
+},
+{
+"word": "backwash",
+"pos": "verb",
+"domains": [
+"economics"
+],
+"glosses": [
+"To operate a water filter in the reverse direction in order to clean it.",
+"To affect with backwash.",
+"To clean the oil from wool after combing."
+],
+"vi_hint": [],
+"rank": 34127
+},
+{
+"word": "microeconomic",
+"pos": "adj",
+"domains": [
+"economics"
+],
+"glosses": [
+"Of, or relating to, microeconomics.",
+"Of, or relating to, a microeconomy."
+],
+"vi_hint": [],
+"rank": 34538
+},
+{
+"word": "callback",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"The return of a situation to a previous position or state; a reference to such a position or state.",
+"A return telephone or radio call; especially one made automatically to authenticate a logon to a computer network.",
+"A product recall because of a defect or safety concern.",
+"A function pointer passed as an argument to another function.",
+"A follow-up audition in casting.",
+"A follow-up interview in employment recruiting.",
+"A joke which references an earlier joke in the same routine.",
+"A form of audience participation in which the audience shout lines in response to the dialog of a film."
+],
+"vi_hint": [],
+"rank": 34594
+},
+{
+"word": "gratis",
+"pos": "adj",
+"domains": [
+"economics"
+],
+"glosses": [
+"Free: without charge."
+],
+"vi_hint": [
+"Không lấy tiền, không mất tiền, biếu không, cho không."
+],
+"rank": 34744
+},
+{
+"word": "gratis",
+"pos": "adv",
+"domains": [
+"economics"
+],
+"glosses": [
+"In a free way: without charge."
+],
+"vi_hint": [],
+"rank": 34744
+},
+{
+"word": "impacted",
+"pos": "adj",
+"domains": [
+"economics"
+],
+"glosses": [
+"Having undergone an impact.",
+"Of a tooth, subject to dental impaction.",
+"Having lost property revenue due to Federal presence, such that it may receive impact aid."
+],
+"vi_hint": [
+"Lèn chặt, nêm chặt.",
+"Chật ních."
+],
+"rank": 34898
+},
+{
+"word": "alt",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"Of a voice or instrument, high pitch; especially, the octave above the top line of the treble stave.",
+"An alternate or secondary account.",
+"An alternate account.",
+"An alternative investment or alternative fund.",
+"An alternate version of a piece of art, especially without much changes beyond a specific thing.",
+"Synonym of altbier."
+],
+"vi_hint": [
+"Nốt cao."
+],
+"rank": 35023
+},
+{
+"word": "alt",
+"pos": "verb",
+"domains": [
+"finance"
+],
+"glosses": [
+"To use an alternate or secondary account."
+],
+"vi_hint": [],
+"rank": 35023
+},
+{
+"word": "amortize",
+"pos": "verb",
+"domains": [
+"business",
+"finance"
+],
+"glosses": [
+"To alienate (property) in mortmain.",
+"To wipe out (a debt, liability etc.) gradually or in installments.",
+"To make a large cost or other quantity more manageable by dividing it into smaller parts (such as over a long time or across many transactions).",
+"To even out the costs of running an algorithm over many iterations, so that high-cost iterations are much less frequent than low-cost iterations, which lowers the average running time."
+],
+"vi_hint": [
+"Truyền lại, để lại (tài sản).",
+"Trả dần, hoàn dần; trừ dần (món nợ)."
+],
+"rank": 35065
+},
+{
+"word": "scrooge",
+"pos": "noun",
+"domains": [
+"money"
+],
+"glosses": [
+"A miserly person; a person with an excessive dislike of spending money or other resources.",
+"A grinch; one who dislikes the Christmas holidays."
+],
+"vi_hint": [
+"Người bần tiện, người bủn xỉn."
+],
+"rank": 35269
+},
+{
+"word": "scrooge",
+"pos": "verb",
+"domains": [
+"money"
+],
+"glosses": [
+"To behave in a greedy or miserly way."
+],
+"vi_hint": [],
+"rank": 35269
+},
+{
+"word": "linker",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"That which links.",
+"A computer program that takes one or more objects generated by compilers and assembles them into a single executable program.",
+"A short oligonucleotide containing a recognition sequence for a restriction enzyme, used to blunt the ends of sticky DNA segments.",
+"A word or short expression that links clauses or other syntactic elements.",
+"Synonym of ligature (a linker word that is classified as a separate part of speech, usually present in Philippine languages)",
+"A linked bond, one for which the principal is indexed to inflation."
+],
+"vi_hint": [
+"Mối liên kết; cầu nối."
+],
+"rank": 35355
+},
+{
+"word": "linker",
+"pos": "verb",
+"domains": [
+"finance"
+],
+"glosses": [
+"To ligate a DNA segment using a linker."
+],
+"vi_hint": [],
+"rank": 35355
+},
+{
+"word": "bazooka",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A primitive trombone having wide tubes.",
+"A shoulder-held rocket launcher used as an antitank weapon, developed by America during World War II and so-called from its resemblance to the bazooka musical instrument.",
+"Any shoulder-fired rocket grenade launcher.",
+"A woman's breast, especially a large one.",
+"A large rescue or stimulus package.",
+"Crack cocaine."
+],
+"vi_hint": [
+"(quân sự) Súng bazooka.",
+"(từ lóng) Crack cocaine."
+],
+"rank": 35377
+},
+{
+"word": "bazooka",
+"pos": "verb",
+"domains": [
+"finance"
+],
+"glosses": [
+"To shoot with a bazooka."
+],
+"vi_hint": [
+"Bắn súng bazooka."
+],
+"rank": 35377
+},
+{
+"word": "outsourcing",
+"pos": "noun",
+"domains": [
+"business",
+"management"
+],
+"glosses": [
+"The transfer of a business function to an external service provider."
+],
+"vi_hint": [
+"Sự thuê ngoài."
+],
+"rank": 35511
+},
+{
+"word": "shunter",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A railway locomotive used for shunting (switching).",
+"A person who carries out shunting operations.",
+"One who shunts (carries on arbitrage between London and provincial stock exchanges)."
+],
+"vi_hint": [
+"Người bẻ ghi (ở đường sắt trong mỏ).",
+"Đầu tàu để chuyển đường.",
+"Bộ rẽ nhánh (đường dây điện thoại)."
+],
+"rank": 35870
+},
+{
+"word": "Eurodollar",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"A deposit, in US dollars, held in a bank outside of the United States (no longer necessarily in Europe)"
+],
+"vi_hint": [],
+"rank": 35966
+},
+{
+"word": "scalable",
+"pos": "adj",
+"domains": [
+"business"
+],
+"glosses": [
+"Capable of being climbed.",
+"Able to be changed in scale; resizeable.",
+"Able to greatly increase in capacity, with relative ease.",
+"Suitable to provide accurate dimensions to manufacturing staff by being measured and having the measurements multiplied by the scale factor."
+],
+"vi_hint": [
+"Có thể leo bằng thang."
+],
+"rank": 35998
+},
+{
+"word": "forgivable",
+"pos": "adj",
+"domains": [
+"finance"
+],
+"glosses": [
+"Able to be forgiven; worthy of forgiveness.",
+"Of a loan, or a portion of it: such that repayment may be deferred for a period, or canceled, by the lender, if the borrower meets certain obligations."
+],
+"vi_hint": [
+"Có thể tha thứ được."
+],
+"rank": 36279
+},
+{
+"word": "wampum",
+"pos": "noun",
+"domains": [
+"money"
+],
+"glosses": [
+"Small cylindrical beads made from polished shells (especially white ones) which have been strung together, formerly used by Native American peoples of eastern North America for various purposes including as jewellery and",
+"Money."
+],
+"vi_hint": [
+"Chuỗi vỏ sò (dùng làm tiền hoặc để trang sức của thổ dân Mỹ)."
+],
+"rank": 36340
+},
+{
+"word": "tunneling",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"The act of burrowing a tunnel.",
+"The practice of exploring tunnel.",
+"The quantum mechanical passing of a particle through an energy barrier.",
+"A type of fraud where assets and profits are transferred out of firms for the benefit of those who control them.",
+"A feature of the file system that allows files to preserve certain properties, such as creation date, even after being deleted and recreated."
+],
+"vi_hint": [],
+"rank": 36697
+},
+{
+"word": "prepayment",
+"pos": "noun",
+"domains": [
+"accounting"
+],
+"glosses": [
+"A payment in advance.",
+"A cost paid in a fiscal year prior to the fiscal year in which the cost is recognized"
+],
+"vi_hint": [
+"Sự trả trước."
+],
+"rank": 36781
+},
+{
+"word": "workflow",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"The flowrate at which a flow of work takes place.",
+"A process or procedure by which tasks are completed. It may be defined by a flowchart with actors, actions, results, decisions, and action paths."
+],
+"vi_hint": [],
+"rank": 36789
+},
+{
+"word": "surtax",
+"pos": "noun",
+"domains": [
+"taxation"
+],
+"glosses": [
+"An additional or extra tax."
+],
+"vi_hint": [],
+"rank": 36850
+},
+{
+"word": "surtax",
+"pos": "verb",
+"domains": [
+"taxation"
+],
+"glosses": [
+"To impose a surtax upon."
+],
+"vi_hint": [
+"Thuế phụ.",
+"Thuế lợi tức luỹ tiến.",
+"Đánh thuế phụ."
+],
+"rank": 36850
+},
+{
+"word": "counterparty",
+"pos": "noun",
+"domains": [
+"finance",
+"insurance"
+],
+"glosses": [
+"The other party to a financial transaction."
+],
+"vi_hint": [],
+"rank": 36893
+}
+]

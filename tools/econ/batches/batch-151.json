@@ -1,0 +1,256 @@
+[
+{
+"word": "tax-exempt",
+"pos": "adj",
+"domains": [
+"taxation"
+],
+"glosses": [
+"Exempt from paying tax; not subject to taxation."
+],
+"vi_hint": [
+"Được miễn thuế."
+],
+"rank": null
+},
+{
+"word": "tax free",
+"pos": "adj",
+"domains": [
+"taxation"
+],
+"glosses": [
+"Of an item being sold with the proprietor paying the taxes on behalf of the consumer, or of an item that exploits a particular loophole (or an intentional temporary waiver of a particular tax by the government.)"
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "tax-free",
+"pos": "adj",
+"domains": [
+"taxation"
+],
+"glosses": [
+"exempt from taxation"
+],
+"vi_hint": [
+"Miễn thuế."
+],
+"rank": null
+},
+{
+"word": "tax haven",
+"pos": "noun",
+"domains": [
+"business",
+"taxation"
+],
+"glosses": [
+"A jurisdiction that levies low tax rates on certain economic activities, especially to attract wealthy individuals and foreign businesses."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "tax horsepower",
+"pos": "noun",
+"domains": [
+"taxation"
+],
+"glosses": [
+"A country-specific calculation of the approximate power delivered by an automobile engine, used to determine a vehicle's road taxation rate. Modern systems may also take emissions into account."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "tax rate",
+"pos": "noun",
+"domains": [
+"taxation"
+],
+"glosses": [
+"A rate, usually a percentage rate, at which something is taxed."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "tax reduction",
+"pos": "noun",
+"domains": [
+"taxation"
+],
+"glosses": [
+"The reduction of one or more tax rates."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "tax relief",
+"pos": "noun",
+"domains": [
+"taxation"
+],
+"glosses": [
+"A reduction in the amount of tax that an individual or company has to pay."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "unearned income",
+"pos": "noun",
+"domains": [
+"taxation"
+],
+"glosses": [
+"Income that is not a wage, such as interest, dividends or realized capital gains from investments, rent from land or property ownership, and any other income that does not derive from work."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "value added tax",
+"pos": "noun",
+"domains": [
+"taxation"
+],
+"glosses": [
+"A tax levied on the added value that results from the exchange of goods and services."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "withholding tax",
+"pos": "noun",
+"domains": [
+"taxation"
+],
+"glosses": [
+"A withholding; a tax withheld from employees' salaries and paid to the government. The withheld amount is considered a credit in final taxation."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "yasak",
+"pos": "noun",
+"domains": [
+"taxation"
+],
+"glosses": [
+"An in-kind tribute in Imperial Russia exacted from the indigenous peoples of Siberia, usually in fur."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "zero-rated",
+"pos": "adj",
+"domains": [
+"taxation"
+],
+"glosses": [
+"Subject to no value-added tax when sold (but in which the supplier can still recover VAT attributable to it)."
+],
+"vi_hint": [
+"Không chịu thuế giá trị gia tăng."
+],
+"rank": null
+},
+{
+"word": "accident insurance",
+"pos": "noun",
+"domains": [
+"insurance"
+],
+"glosses": [
+"An insurance that covers losses incurred due to health issues from sudden external impact."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "bondable",
+"pos": "adj",
+"domains": [
+"insurance"
+],
+"glosses": [
+"able to form bonds",
+"suitable for having one's current or future employment insured by a fidelity bond",
+"Eligible for bail bond.",
+"For which bail bond is permitted."
+],
+"vi_hint": [
+"Xem bond"
+],
+"rank": null
+},
+{
+"word": "contents insurance",
+"pos": "noun",
+"domains": [
+"insurance"
+],
+"glosses": [
+"Insurance that pays for damage to, or loss of, an individual’s personal possessions whilst they are located within that individual’s home."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "first death",
+"pos": "adj",
+"domains": [
+"insurance"
+],
+"glosses": [
+"Describing a joint life insurance policy that pays out (and then terminates) in the event that either of the lives assured die."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "health insurance",
+"pos": "noun",
+"domains": [
+"insurance"
+],
+"glosses": [
+"Insurance against incurring medical expenses among individuals."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "home insurance",
+"pos": "noun",
+"domains": [
+"insurance"
+],
+"glosses": [
+"Insurance that covers a private residence."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "in force",
+"pos": "prep_phrase",
+"domains": [
+"insurance"
+],
+"glosses": [
+"With a substantial number of men capable of exerting force or of making a show of force.",
+"With a substantial display of resources.",
+"In effect; applicable."
+],
+"vi_hint": [],
+"rank": null
+}
+]

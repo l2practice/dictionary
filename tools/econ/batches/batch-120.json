@@ -1,0 +1,278 @@
+[
+{
+"word": "gold standard",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"A monetary system where the value of circulating money is linked to the value of gold.",
+"The highest or most reliable benchmark against which all others in a category are judged or measured."
+],
+"vi_hint": [
+"bản vị vàng, kim bản vị, kim hối bản vị"
+],
+"rank": null
+},
+{
+"word": "green anarchist",
+"pos": "adj",
+"domains": [
+"economics"
+],
+"glosses": [
+"of, supporting, relating to, or advocating green anarchism"
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "green tax",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"A fiscal policy in which a differential level of taxation is intended to promote ecologically sustainable activities via economic incentives"
+],
+"vi_hint": [
+"(kinh tế học) Thuế xanh."
+],
+"rank": null
+},
+{
+"word": "gross domestic product",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"A measure of the economic production of a particular territory in financial capital terms over a specific time period."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "gross national income",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"A more recent designation for gross national product, the total market value of all the goods and services produced by a nation."
+],
+"vi_hint": [
+"Tổng thu nhập quốc dân."
+],
+"rank": null
+},
+{
+"word": "gross national product",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"The total market value of all the goods and services produced by a nation (citizens of a country, whether living at home or abroad) during a specified period."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "hard currency",
+"pos": "noun",
+"domains": [
+"economics",
+"finance"
+],
+"glosses": [
+"Any globally traded currency that serves as a reliable, stable, and easily exchangeable store of value (regarding foreign exchange, and as contrasted with a currency not well trusted regarding inflation and hyperinflatio"
+],
+"vi_hint": [
+"Ngoại tệ mạnh."
+],
+"rank": null
+},
+{
+"word": "homothetic",
+"pos": "adj",
+"domains": [
+"economics"
+],
+"glosses": [
+"for a geometric figure that is the image of another figure under an homothety.",
+"of a function of two or more variables in which the ratio of the partial derivatives depends only on the ratio of the variables, not their value",
+"in which the ratio of goods demanded depends only on the ratio of their prices",
+"the relationship of a microcosm to a macrocosm"
+],
+"vi_hint": [
+"Vị tự, đồng dạng."
+],
+"rank": null
+},
+{
+"word": "horizontal integration",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"The integrating of identical stages in the production or marketing process under the ownership or control of a single management organization, typically by mergers and acquisitions in the same industry, to increase marke"
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "hot money",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"Money, or other financial instruments, that moves regularly between different markets in search of the best interest rate.",
+"Stolen currency.",
+"The largest total of money staked on a race, etc."
+],
+"vi_hint": [
+"Tiền nóng."
+],
+"rank": null
+},
+{
+"word": "human capital",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"The stock of competencies, knowledge, habits, social and personality attributes, including creativity, cognitive abilities, embodied in the ability to perform labor so as to produce economic value."
+],
+"vi_hint": [
+"Vốn nhân lực."
+],
+"rank": null
+},
+{
+"word": "husbanded",
+"pos": "adj",
+"domains": [
+"economics"
+],
+"glosses": [
+"Conserved."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "incentivize",
+"pos": "verb",
+"domains": [
+"business",
+"economics"
+],
+"glosses": [
+"To provide incentives for; to encourage.",
+"To provide incentives to."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "income elasticity of demand",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"an economic metric that measures the responsiveness of a quantity demanded for a good to a change in income, calculated as the percent change in demand over the percent change in income"
+],
+"vi_hint": [
+"Co giãn của cầu theo thu nhập."
+],
+"rank": null
+},
+{
+"word": "indicative planning",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"A form of economic planning based on imperfect information, employing grants, subsidies and other influences but not imposing mandatory quotas."
+],
+"vi_hint": [
+"Kế hoạch hoá chỉ dẫn."
+],
+"rank": null
+},
+{
+"word": "indifference curve",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"A graph showing different bundles of goods, each measured as to quantity, between which a consumer is indifferent."
+],
+"vi_hint": [
+"Đường bàng quan, đường đẳng dụng."
+],
+"rank": null
+},
+{
+"word": "individualist anarchism",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"referring to a number of anarchist schools advocating individualism, i.e., the individual's will and rights over greater society and external institutions"
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "individualist anarchist",
+"pos": "adj",
+"domains": [
+"economics"
+],
+"glosses": [
+"Of, supporting, relating to, or advocating individualist anarchism."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "inelasticity",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"The quality of being inflexible.",
+"The insensitivity of changes in a quantity with respect to changes in another quantity."
+],
+"vi_hint": [
+"Tính không co dân, tính không đàn hồi.",
+"Tính không mềm dẻo, tính khó thích nghi.",
+"Sự phản ứng chậm đối với những sự thay đổi (thị trường... )."
+],
+"rank": null
+},
+{
+"word": "infant industry",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"A new industry, one in its earlier stages unable to keep up or compete against global competitors."
+],
+"vi_hint": [
+"Ngành công nghiệp non trẻ."
+],
+"rank": null
+}
+]

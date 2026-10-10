@@ -1,0 +1,273 @@
+[
+{
+"word": "first best",
+"pos": "adj",
+"domains": [
+"economics"
+],
+"glosses": [
+"Characterized by all optimality conditions being satisfiable."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "fiscal drag",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"The deflationary pressure on the economy that results from the government's net fiscal position (spending minus taxation) failing to cover the net savings desires of the private economy."
+],
+"vi_hint": [
+"Sức cản của thuế khoá."
+],
+"rank": null
+},
+{
+"word": "fiscal policy",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"Government policy that attempts to influence the direction of the economy through changes in government spending or taxes."
+],
+"vi_hint": [
+"Chính sách thuế khoá; Chính sách thu chi ngân sách."
+],
+"rank": null
+},
+{
+"word": "Fordism",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"An economic and social system based on industrial mass production, where the worker is paid relatively high wages in order to buy in large quantity the products turned out in mass production."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "foreign aid",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"A voluntary transfer of resources from one country to another."
+],
+"vi_hint": [
+"Viện trợ nước ngoài."
+],
+"rank": null
+},
+{
+"word": "foreign debt",
+"pos": "noun",
+"domains": [
+"economics",
+"finance"
+],
+"glosses": [
+"A debt that a country, an organization in a country, or a resident individual in a country owes to those in other countries.",
+"An aggregate amount of such debts."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "foreign direct investment",
+"pos": "noun",
+"domains": [
+"economics",
+"finance"
+],
+"glosses": [
+"A direct investment into the production or business in a country by an individual or company of another country, either by purchasing a company in the target country or by expanding operations of an existing business in "
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "free market",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"Any market in which trade is unregulated by government; an economic system free from government intervention."
+],
+"vi_hint": [
+"Thị trường tự do."
+],
+"rank": null
+},
+{
+"word": "free rider",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"One who gets a free ride on a ship, or similar; one who rides on a means of transportation gratis.",
+"Someone who obtains goods or services legally without paying.",
+"One who obtains benefit from a public good without paying for it directly.",
+"A worker at an open shop who is able to enjoy the benefits negotiated by a union without being a member of the union."
+],
+"vi_hint": [
+"Người xài chùa; người ăn không."
+],
+"rank": null
+},
+{
+"word": "free trade",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"International trade without government interference, especially from tariffs or duties on imports."
+],
+"vi_hint": [
+"Thương mại tự do."
+],
+"rank": null
+},
+{
+"word": "frictional unemployment",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"A type of unemployment explained by people being temporarily between jobs, searching for new ones; that is, because of inefficiencies in matching people to jobs and not because of a lack of available jobs."
+],
+"vi_hint": [
+"Thất nghiệp do chờ chuyển nghề."
+],
+"rank": null
+},
+{
+"word": "FTP",
+"pos": "adj",
+"domains": [
+"business",
+"economics"
+],
+"glosses": [
+"free-to-play"
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "FTP",
+"pos": "noun",
+"domains": [
+"business",
+"economics"
+],
+"glosses": [
+"An instance of sending files via FTP (the File Transfer Protocol)."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "FTP",
+"pos": "verb",
+"domains": [
+"business",
+"economics"
+],
+"glosses": [
+"To transfer using File Transfer Protocol."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "full employment",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"An economic situation in which there is no cyclical unemployment."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "futures market",
+"pos": "noun",
+"domains": [
+"economics",
+"finance"
+],
+"glosses": [
+"An exchange in which one can trade on commodities or financial instruments at a specified price for delivery at a specified future time."
+],
+"vi_hint": [
+"Thị trường kỳ hạn."
+],
+"rank": null
+},
+{
+"word": "game-theoretical",
+"pos": "adj",
+"domains": [
+"economics"
+],
+"glosses": [
+"Of, relating to, or defined in terms of game theory."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "game theory",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"A branch of applied mathematics that studies strategic situations in which individuals or organisations choose various actions in an attempt to maximize their returns.",
+"An individual theory within that branch."
+],
+"vi_hint": [
+"Lý thuyết trò chơi."
+],
+"rank": null
+},
+{
+"word": "general equilibrium",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"A state of simultaneous equilibrium as analysed in several or many interacting markets in an economy."
+],
+"vi_hint": [
+"Cân bằng chung; Cân bằng tổng thể."
+],
+"rank": null
+},
+{
+"word": "gig economy",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"That part of the economy consisting of people who work in a transient, contract or self-employed capacity, as opposed to being permanent employees of a business."
+],
+"vi_hint": [],
+"rank": null
+}
+]

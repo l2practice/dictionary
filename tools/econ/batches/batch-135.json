@@ -1,0 +1,269 @@
+[
+{
+"word": "endowment effect",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"The tendency of people to retain an object they own rather than acquire that same object when they do not own it."
+],
+"vi_hint": [
+"Hiệu ứng hàng đã có."
+],
+"rank": null
+},
+{
+"word": "Euro-",
+"pos": "prefix",
+"domains": [
+"finance"
+],
+"glosses": [
+"Denominated in a currency other than that of the country in which it is issued."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "even up",
+"pos": "verb",
+"domains": [
+"finance"
+],
+"glosses": [
+"To make even; to make level.",
+"To become even.",
+"To secure a profit to offset a previous loss."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "e-wallet",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"An electronic data store for a customer's e-money, credit card details, etc."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "ex ante",
+"pos": "adj",
+"domains": [
+"finance"
+],
+"glosses": [
+"predicted; forecast"
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "ex dividend",
+"pos": "adj",
+"domains": [
+"finance"
+],
+"glosses": [
+"Of a declared dividend, belonging to the seller rather than the buyer."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "fallen angel",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"An angel who rebelled against God and was exiled from heaven.",
+"A human being, viewed as a spiritually endowed being with corporeal form who is fallen from grace by virtue of the human condition.",
+"A (usually attractive) person, usually a woman, who has become deprived of money, status or morals.",
+"A bond that has declined in value due to credit deterioration to become a junk bond."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "farm down",
+"pos": "verb",
+"domains": [
+"finance"
+],
+"glosses": [
+"To sell stakes in a project to third-party investors."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "financial crisis",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"An episode of sharp instability in the global or a local financial system in which financial assets lose a significant proportion of their value, often caused by the bursting of an economic bubble."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "financial independence",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"Status of having enough income or wealth sufficient to pay one's living expenses for the rest of one's life without having to be employed or dependent on others."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "financial institution",
+"pos": "noun",
+"domains": [
+"banking",
+"business",
+"finance"
+],
+"glosses": [
+"An institution, such as a bank, insurance company or fund, that provides financial services for its clients or members."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "financial instrument",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"Any form of funding medium, mostly those used for borrowing in money markets, including cash instruments and derivative instruments."
+],
+"vi_hint": [
+"Công cụ tài chính."
+],
+"rank": null
+},
+{
+"word": "financial management",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"The efficient and effective management of money in such a manner as to accomplish the objectives of an organization."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "financial market",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A market where financial securities (such as stocks and bonds) and commodities are bought and sold."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "fintech",
+"pos": "noun",
+"domains": [
+"business",
+"finance"
+],
+"glosses": [
+"Financial technology, that is, technology (usually information technology) that is focused on finance.",
+"A company in the finance sector, such as one dealing with payments, fundraising or loans."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "fives",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A ball game, somewhat like tennis, played against a wall.",
+"A pair of fives.",
+"The cells located on the fourth floor."
+],
+"vi_hint": [
+"Bóng ném."
+],
+"rank": null
+},
+{
+"word": "flattener",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"Anything that flattens.",
+"A trade whose terms are based on the assumption that the rate of return will decrease."
+],
+"vi_hint": [
+"Búa là; búa sửa phẳng.",
+"Người làm cho bằng phẳng."
+],
+"rank": null
+},
+{
+"word": "foreign currency",
+"pos": "noun",
+"domains": [
+"banking",
+"finance"
+],
+"glosses": [
+"Any currency that is in use in a foreign nation, and an authorized medium of circulation and the basis for record-keeping in that nation."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "foreign exchange",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"The exchange of currency from one country for currency from another country.",
+"Foreign currency."
+],
+"vi_hint": [
+"Ngoại hối.",
+"Ngoại tệ."
+],
+"rank": null
+},
+{
+"word": "foreign exchange certificate",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A surrogate currency often used as a tool to control circulation of foreign exchange in countries where the national currency is subject to exchange controls or is not convertible. The certificates may be denominated in ",
+"A document authorizing a purchase of foreign currency; used as a tool to regulate foreign exchange movements across the national border."
+],
+"vi_hint": [],
+"rank": null
+}
+]

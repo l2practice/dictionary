@@ -1,0 +1,705 @@
+[
+{
+"word": "for",
+"pos": "particle",
+"domains": [
+"commerce"
+],
+"glosses": [
+"To; (the particle for marking the following verb as an infinitive)."
+],
+"vi_hint": [],
+"rank": 12
+},
+{
+"word": "do",
+"pos": "num",
+"domains": [
+"finance"
+],
+"glosses": [
+"The cardinal number occurring after el and before do one in a duodecimal system. Written 10, decimal value 12."
+],
+"vi_hint": [],
+"rank": 18
+},
+{
+"word": "life",
+"pos": "verb",
+"domains": [
+"insurance"
+],
+"glosses": [
+"To replace components whose operational lifetime has expired."
+],
+"vi_hint": [],
+"rank": 122
+},
+{
+"word": "put",
+"pos": "noun",
+"domains": [
+"business",
+"finance"
+],
+"glosses": [
+"The act of putting; an action; a movement; a thrust; a push.",
+"An old card game."
+],
+"vi_hint": [
+"Sự ném, sự đẩy (tạ... ).",
+"Putt.",
+", (từ lóng) người gàn dở, người quê kệch."
+],
+"rank": 124
+},
+{
+"word": "American",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A citizen or national of the United States of America.",
+"Any inhabitant of the Americas.",
+"A citizen or inhabitant of British America.",
+"The dialect of English spoken in and around the contiguous United States of America.",
+"A steam locomotive of the 4-4-0 wheel arrangement.",
+"A size of type smaller than German, 1-point type."
+],
+"vi_hint": [],
+"rank": 193
+},
+{
+"word": "American",
+"pos": "adj",
+"domains": [
+"finance"
+],
+"glosses": [
+"Of, from, or pertaining to the United States of America, its people, or its culture.",
+"Of, from, or pertaining to the Americas.",
+"Of, from, or pertaining to British North America.",
+"Able to be exercised on any date between its issue and expiry."
+],
+"vi_hint": [
+"(thuộc) Châu Mỹ.",
+"(thuộc) Nước Mỹ (Hoa Kỳ)."
+],
+"rank": 193
+},
+{
+"word": "point",
+"pos": "intj",
+"domains": [
+"economics"
+],
+"glosses": [
+"Point taken; understood; got it."
+],
+"vi_hint": [],
+"rank": 194
+},
+{
+"word": "run",
+"pos": "adj",
+"domains": [
+"banking"
+],
+"glosses": [
+"In a liquid state; melted or molten.",
+"Cast in a mould.",
+"Exhausted; depleted (especially with \"down\" or \"out\").",
+"Travelled, migrated; having made a migration or a spawning run.",
+"Smuggled."
+],
+"vi_hint": [],
+"rank": 220
+},
+{
+"word": "write",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"The act or style of writing.",
+"The operation of storing data, as in memory or onto disk."
+],
+"vi_hint": [
+"Lần ghi (vào bộ nhớ, ổ đĩa)."
+],
+"rank": 229
+},
+{
+"word": "long",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A long vowel.",
+"A long syllable.",
+"A note formerly used in music, one half the length of a large, twice that of a breve.",
+"A long integer variable, twice the size of an int, two or four times the size of a short, and half of a long long.",
+"An entity with a long position in an asset; for example, a trader or investor possessing an amount of a company's shares.",
+"A long-maturity security, such as a ten- or twenty-year bond."
+],
+"vi_hint": [
+"Thời gian lâu.",
+"Vụ nghỉ hè."
+],
+"rank": 237
+},
+{
+"word": "money",
+"pos": "adj",
+"domains": [
+"money"
+],
+"glosses": [
+"Cool; excellent."
+],
+"vi_hint": [],
+"rank": 254
+},
+{
+"word": "general",
+"pos": "verb",
+"domains": [
+"insurance"
+],
+"glosses": [
+"To lead (soldiers) as a general."
+],
+"vi_hint": [],
+"rank": 332
+},
+{
+"word": "president",
+"pos": "verb",
+"domains": [
+"business"
+],
+"glosses": [
+"To act as president; to do presidential duties."
+],
+"vi_hint": [],
+"rank": 336
+},
+{
+"word": "term",
+"pos": "adj",
+"domains": [
+"insurance"
+],
+"glosses": [
+"Born or delivered at term."
+],
+"vi_hint": [],
+"rank": 355
+},
+{
+"word": "action",
+"pos": "adj",
+"domains": [
+"management"
+],
+"glosses": [
+"arrogant"
+],
+"vi_hint": [],
+"rank": 379
+},
+{
+"word": "street",
+"pos": "verb",
+"domains": [
+"finance"
+],
+"glosses": [
+"To build or equip with streets.",
+"To eject; to throw onto the streets.",
+"To heavily defeat.",
+"To go on sale.",
+"To proselytize in public."
+],
+"vi_hint": [],
+"rank": 424
+},
+{
+"word": "clear",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"Empty or open area.",
+"Full extent; distance between extreme limits; especially; the distance between the nearest surfaces of two bodies, or the space between walls.",
+"The completion of a stage or challenge, or of the whole game.",
+"A person who is free from the influence of engrams."
+],
+"vi_hint": [],
+"rank": 434
+},
+{
+"word": "hard",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A firm or paved beach or slope convenient for hauling vessels out of the water.",
+"A tyre whose compound is softer than superhards, and harder than mediums.",
+"Crack cocaine.",
+"Hard labor."
+],
+"vi_hint": [
+"Đường dốc xuống bãi, đường dốc xuống bến.",
+"Khổ sai."
+],
+"rank": 489
+},
+{
+"word": "free",
+"pos": "noun",
+"domains": [
+"money"
+],
+"glosses": [
+"A free transfer.",
+"The usual means of restarting play after a foul is committed, where the non-offending team restarts from where the foul was committed."
+],
+"vi_hint": [],
+"rank": 531
+},
+{
+"word": "trade",
+"pos": "adj",
+"domains": [
+"economics",
+"finance"
+],
+"glosses": [
+"Of a product, produced for sale in the ordinary bulk retail trade and hence of only the most basic quality."
+],
+"vi_hint": [],
+"rank": 543
+},
+{
+"word": "accept",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"Something that is accepted."
+],
+"vi_hint": [],
+"rank": 545
+},
+{
+"word": "easy",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"Something that is easy."
+],
+"vi_hint": [
+"Sự nghỉ ngơi một lát."
+],
+"rank": 559
+},
+{
+"word": "easy",
+"pos": "verb",
+"domains": [
+"finance"
+],
+"glosses": [
+"Synonym of easy-oar."
+],
+"vi_hint": [],
+"rank": 559
+},
+{
+"word": "European",
+"pos": "adj",
+"domains": [
+"finance"
+],
+"glosses": [
+"Related to Europe.",
+"Related to the European Union.",
+"Of white ethnicity.",
+"That can be exercised only at the expiry date."
+],
+"vi_hint": [
+"(thuộc) Châu Âu; ở châu Âu, tại châu Âu; lan khắp châu Âu."
+],
+"rank": 570
+},
+{
+"word": "European",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A person living or originating from Europe.",
+"A person who resides within the European Union."
+],
+"vi_hint": [],
+"rank": 570
+},
+{
+"word": "statement",
+"pos": "verb",
+"domains": [
+"finance"
+],
+"glosses": [
+"To provide an official document of a proposition, especially in the UK, a Statement of Special Educational Needs."
+],
+"vi_hint": [],
+"rank": 799
+},
+{
+"word": "leg",
+"pos": "verb",
+"domains": [
+"finance"
+],
+"glosses": [
+"To remove the legs from an animal carcass.",
+"To build legs onto a platform or stage for support.",
+"To put a series of three or more options strikes into the stock market.",
+"To apply force using the leg (as in 'to leg a horse').",
+"To thrust up or raise via the legs; to give a leg-up to."
+],
+"vi_hint": [
+"Đẩy (thuyền) bằng chân (qua sông đào trong đường hầm).",
+"To leg it đi mau, chạy mau."
+],
+"rank": 943
+},
+{
+"word": "industrial",
+"pos": "noun",
+"domains": [
+"business",
+"finance"
+],
+"glosses": [
+"An enterprise producing tangible goods or providing certain services to industrial companies.",
+"A bond or stock issued by such a company.",
+"A film made for use within an industry, not for a movie-going audience."
+],
+"vi_hint": [],
+"rank": 959
+},
+{
+"word": "conference",
+"pos": "verb",
+"domains": [
+"business"
+],
+"glosses": [
+"To assess (a student) by one-on-one conversation, rather than an examination."
+],
+"vi_hint": [],
+"rank": 986
+},
+{
+"word": "post",
+"pos": "adv",
+"domains": [
+"accounting"
+],
+"glosses": [
+"With the post, on post-horses; by a relay of horses (changing at every staging-post); hence, express, with speed, quickly.",
+"Sent via the postal service."
+],
+"vi_hint": [],
+"rank": 994
+},
+{
+"word": "heavy",
+"pos": "adv",
+"domains": [
+"finance"
+],
+"glosses": [
+"In a heavy manner; weightily; heavily; gravely.",
+"To a great degree; greatly.",
+"very"
+],
+"vi_hint": [
+"Nặng, nặng nề.",
+"Chậm chạp."
+],
+"rank": 1047
+},
+{
+"word": "heavy",
+"pos": "verb",
+"domains": [
+"finance"
+],
+"glosses": [
+"To make heavier.",
+"To sadden.",
+"To use power or wealth to exert influence on, e.g., governments or corporations; to pressure."
+],
+"vi_hint": [],
+"rank": 1047
+},
+{
+"word": "gas",
+"pos": "adj",
+"domains": [
+"business"
+],
+"glosses": [
+"Of high quality.",
+"Comical, zany; fun, amusing."
+],
+"vi_hint": [],
+"rank": 1142
+},
+{
+"word": "yard",
+"pos": "verb",
+"domains": [
+"finance"
+],
+"glosses": [
+"To confine to a yard.",
+"To move a yard at a time, as opposed to inching along."
+],
+"vi_hint": [
+"Đưa súc vật vào bãi rào."
+],
+"rank": 1158
+},
+{
+"word": "supply",
+"pos": "adv",
+"domains": [
+"economics"
+],
+"glosses": [
+"Supplely: in a supple manner, with suppleness."
+],
+"vi_hint": [
+"Mềm, dễ uốn.",
+"Mềm mỏng.",
+"Luồn cúi, quỵ luỵ."
+],
+"rank": 1172
+},
+{
+"word": "solution",
+"pos": "verb",
+"domains": [
+"marketing"
+],
+"glosses": [
+"To treat with a solution."
+],
+"vi_hint": [
+"Phủ một lớp cao su hoà tan."
+],
+"rank": 1187
+},
+{
+"word": "corner",
+"pos": "intj",
+"domains": [
+"business",
+"finance"
+],
+"glosses": [
+"Spoken by service staff such as waiters when walking around a corner, to warn other staff and prevent a collision."
+],
+"vi_hint": [],
+"rank": 1242
+},
+{
+"word": "Christmas",
+"pos": "noun",
+"domains": [
+"marketing"
+],
+"glosses": [
+"Sprigs of holly and other evergreen plants used as Christmas decorations; also (generally), any Christmas decorations."
+],
+"vi_hint": [
+"Lễ Nô-en."
+],
+"rank": 1281
+},
+{
+"word": "Christmas",
+"pos": "adj",
+"domains": [
+"marketing"
+],
+"glosses": [
+"Red and green in color.",
+"Of a dish: having a sauce made with red (ripe) and green (unripe) chili peppers."
+],
+"vi_hint": [],
+"rank": 1281
+},
+{
+"word": "Christmas",
+"pos": "verb",
+"domains": [
+"marketing"
+],
+"glosses": [
+"To decorate (a place) with Christmas (“sprigs of holly and other evergreen plants used as Christmas decorations, or any Christmas decorations”).",
+"To celebrate Christmas.",
+"To spend Christmas or the Christmas season in some place.",
+"To subject to Christmas celebrations."
+],
+"vi_hint": [],
+"rank": 1281
+},
+{
+"word": "Christmas",
+"pos": "intj",
+"domains": [
+"marketing"
+],
+"glosses": [
+"An expression of annoyance or surprise: Christ, Jesus Christ, Jiminy Cricket, Jiminy Crickets."
+],
+"vi_hint": [],
+"rank": 1281
+},
+{
+"word": "cash",
+"pos": "adj",
+"domains": [
+"finance",
+"money"
+],
+"glosses": [
+"Great; excellent; cool."
+],
+"vi_hint": [],
+"rank": 1347
+},
+{
+"word": "speed",
+"pos": "intj",
+"domains": [
+"finance"
+],
+"glosses": [
+"Called by the soundman when the recording equipment has reached running speed and is ready to go."
+],
+"vi_hint": [],
+"rank": 1389
+},
+{
+"word": "gold",
+"pos": "verb",
+"domains": [
+"business"
+],
+"glosses": [
+"To appear or cause to appear golden."
+],
+"vi_hint": [],
+"rank": 1404
+},
+{
+"word": "gold",
+"pos": "adv",
+"domains": [
+"business"
+],
+"glosses": [
+"of or referring to a gold version of something"
+],
+"vi_hint": [],
+"rank": 1404
+},
+{
+"word": "count",
+"pos": "adj",
+"domains": [
+"marketing"
+],
+"glosses": [
+"Countable.",
+"Used to show the amount of like items in a package."
+],
+"vi_hint": [],
+"rank": 1484
+},
+{
+"word": "volume",
+"pos": "verb",
+"domains": [
+"economics"
+],
+"glosses": [
+"To be conveyed through the air, waft.",
+"To cause to move through the air, waft.",
+"To swell."
+],
+"vi_hint": [],
+"rank": 1512
+},
+{
+"word": "soft",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A soft drink.",
+"A tyre whose compound is softer than mediums, and harder than supersofts.",
+"A soft sound or part of a sound.",
+"A piece of software."
+],
+"vi_hint": [
+"Chỗ mềm; vật mềm.",
+"Người nhu nhược; người ẻo lả."
+],
+"rank": 1525
+},
+{
+"word": "relief",
+"pos": "adj",
+"domains": [
+"taxation"
+],
+"glosses": [
+"Characterized by surface inequalities.",
+"Of or used in letterpress."
+],
+"vi_hint": [],
+"rank": 1545
+},
+{
+"word": "actual",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"something actually received; real receipts, as distinct from estimated ones.",
+"a radio callsign modifier that specifies the commanding officer of the unit or asset denoted by the remainder of the callsign and not the officer's assistant or other designee.",
+"Reality, usually with the definite article."
+],
+"vi_hint": [],
+"rank": 1549
+}
+]

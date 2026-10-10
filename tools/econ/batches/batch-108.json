@@ -1,0 +1,280 @@
+[
+{
+"word": "account book",
+"pos": "noun",
+"domains": [
+"accounting"
+],
+"glosses": [
+"A book in which accounts are kept; ledger."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "accounting machine",
+"pos": "noun",
+"domains": [
+"accounting"
+],
+"glosses": [
+"A business machine, generally a combined calculator and printer, that tabulates, adds, subtracts, and totals."
+],
+"vi_hint": [
+"Máy kế toán."
+],
+"rank": null
+},
+{
+"word": "account payable",
+"pos": "noun",
+"domains": [
+"accounting"
+],
+"glosses": [
+"A balance due to a creditor on a current account."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "account receivable",
+"pos": "noun",
+"domains": [
+"accounting"
+],
+"glosses": [
+"Amount recorded as being owed by a customer for sales on credit or on account."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "accounts payable",
+"pos": "noun",
+"domains": [
+"accounting",
+"business"
+],
+"glosses": [
+"The total amount of money that is owed by a customer to its suppliers of goods and services and is counted by the customer as a current unpaid debt."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "accounts receivable",
+"pos": "noun",
+"domains": [
+"accounting",
+"business"
+],
+"glosses": [
+"The total monetary amount owed to a financial entity due to debts arising from sales on credit or on account."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "accumulated depreciation",
+"pos": "noun",
+"domains": [
+"accounting"
+],
+"glosses": [
+"The sum of past depreciation for an asset that is currently held."
+],
+"vi_hint": [
+"Khấu hao tích luỹ."
+],
+"rank": null
+},
+{
+"word": "annual accounts",
+"pos": "noun",
+"domains": [
+"accounting"
+],
+"glosses": [
+"The complete accounting record for a fiscal year."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "assets",
+"pos": "noun",
+"domains": [
+"accounting",
+"finance"
+],
+"glosses": [
+"Any property or object of value that one possesses, usually considered as applicable to the payment of one's debts.",
+"The left side of a balance sheet.",
+"Sufficient estate; property sufficient in the hands of an executor or heir to pay the debts or legacies of the testator or ancestor to satisfy claims against it.",
+"Any goods or property properly available for the payment of a bankrupt's or a deceased person's obligations or debts.",
+"Private parts; a woman's breasts or buttocks, or a man's genitalia."
+],
+"vi_hint": [
+"Tài sản; tích sản, tiền có.",
+"Fixed a. tài sản cố định.",
+"Personal a. động sản."
+],
+"rank": null
+},
+{
+"word": "bad debt",
+"pos": "noun",
+"domains": [
+"accounting",
+"business"
+],
+"glosses": [
+"A debt which cannot be recovered from the debtor, either because the debtor lacks the money to pay or because the debtor cannot be found and/or forced to pay."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "balance sheet",
+"pos": "noun",
+"domains": [
+"accounting"
+],
+"glosses": [
+"A summary of a person's or organization's assets, liabilities and equity as of a specific date."
+],
+"vi_hint": [
+"Bảng cân đối kế toán."
+],
+"rank": null
+},
+{
+"word": "balance the books",
+"pos": "verb",
+"domains": [
+"accounting"
+],
+"glosses": [
+"To add up all the debits and credits.",
+"To put or keep any closed or conservative system or its analysis in balance."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "books",
+"pos": "noun",
+"domains": [
+"accounting"
+],
+"glosses": [
+"Accounting records."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "capital account",
+"pos": "noun",
+"domains": [
+"accounting",
+"economics"
+],
+"glosses": [
+"An account in the net worth section of the balance sheet of an entity such as sole proprietorships and partnerships. In this context, the \"capital account\" (or, in cases of more than one owner, the \"sum of all individual",
+"In corporations \"capital stock accounts\" are roughly equivalent to capital accounts except corporations may include other capital accounts such as \"retained earnings\" which are not individually owned by the shareholders.",
+"An account that records all transactions between domestic and foreign residents that involve a change of ownership of an asset. It is the net result of public and private international investment flowing in and out of a "
+],
+"vi_hint": [
+"Tài khoản vốn."
+],
+"rank": null
+},
+{
+"word": "capital adequacy",
+"pos": "noun",
+"domains": [
+"accounting"
+],
+"glosses": [
+"Percentage ratio of a financial institution's primary capital to its assets, used as a measure of its financial strength and stability."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "capital asset",
+"pos": "noun",
+"domains": [
+"accounting",
+"finance"
+],
+"glosses": [
+"An asset that is recorded on a balance sheet as capital - that is, property that creates more property, such as a factory that creates shoes, or a forest that yields a quantity of wood.",
+"An asset in the sense of accounting, but also including financial assets such as stocks or bonds."
+],
+"vi_hint": [
+"Tài sản vốn."
+],
+"rank": null
+},
+{
+"word": "capital equipment",
+"pos": "noun",
+"domains": [
+"accounting"
+],
+"glosses": [
+"Any equipment used by an organization to produce other commodities.",
+"Any single asset which has an acquisition cost of $5,000 or more and a useful life of more than one year, whether purchased outright, acquired through a capital lease or through donation. It also includes certain constru"
+],
+"vi_hint": [
+"Thiết bị sản xuất, thiết bị vốn."
+],
+"rank": null
+},
+{
+"word": "capital expenditure",
+"pos": "noun",
+"domains": [
+"accounting",
+"finance"
+],
+"glosses": [
+"Funds that are spent by a company to acquire or upgrade a long-term asset."
+],
+"vi_hint": [
+"Chi tiêu cho vốn."
+],
+"rank": null
+},
+{
+"word": "capital investment",
+"pos": "noun",
+"domains": [
+"accounting",
+"business"
+],
+"glosses": [
+"Money that is spent on permanent assets (fixed assets) of a business, as opposed to operating expenses."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "capital stock",
+"pos": "noun",
+"domains": [
+"accounting",
+"finance"
+],
+"glosses": [
+"The total amount of common and preferred stock (shares) that a company can issue."
+],
+"vi_hint": [
+"Dung lượng vốn."
+],
+"rank": null
+}
+]

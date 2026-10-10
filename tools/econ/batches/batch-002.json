@@ -1,0 +1,674 @@
+[
+{
+"word": "niche",
+"pos": "verb",
+"domains": [
+"marketing"
+],
+"glosses": [
+"To place in a niche.",
+"To specialize in a niche, or particular narrow section of the market."
+],
+"vi_hint": [
+"Đặt (tượng) vào hốc tường."
+],
+"rank": 6446
+},
+{
+"word": "bp",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"Stylised name of British Petroleum."
+],
+"vi_hint": [],
+"rank": 6529
+},
+{
+"word": "beneficiary",
+"pos": "adj",
+"domains": [
+"insurance"
+],
+"glosses": [
+"Holding some office or valuable possession, in subordination to another; holding under a feudal or other superior; having a dependent and secondary possession.",
+"Bestowed as a gratuity."
+],
+"vi_hint": [],
+"rank": 6745
+},
+{
+"word": "slab",
+"pos": "verb",
+"domains": [
+"taxation"
+],
+"glosses": [
+"To make into a slab.",
+"To destroy (a structure) so completely as to leave only the foundation slab visible."
+],
+"vi_hint": [
+"Bóc bìa, xẻ bìa (gỗ).",
+"Lát bằng tấm, lát bằng phiến."
+],
+"rank": 6772
+},
+{
+"word": "pyramid",
+"pos": "verb",
+"domains": [
+"finance"
+],
+"glosses": [
+"To build up or be arranged in the form of a pyramid.",
+"To combine (a series of genes) into a single genotype.",
+"To employ, or take part in, a pyramid scheme.",
+"To engage in pyramid trading.",
+"To increase to or towards a peak."
+],
+"vi_hint": [],
+"rank": 6790
+},
+{
+"word": "lobster",
+"pos": "verb",
+"domains": [
+"money"
+],
+"glosses": [
+"To fish for lobsters."
+],
+"vi_hint": [
+"Đi bắt tôm hùm."
+],
+"rank": 6890
+},
+{
+"word": "lobster",
+"pos": "adj",
+"domains": [
+"money"
+],
+"glosses": [
+"Red-colored, especially from a sunburn."
+],
+"vi_hint": [],
+"rank": 6890
+},
+{
+"word": "contractual",
+"pos": "noun",
+"domains": [
+"accounting"
+],
+"glosses": [
+"A contractualized employee; One who is hired as a temporary worker, especially one who is hired for a single project.",
+"A charge for a service that is applied through a contract with another provider.",
+"A contract specifying details of the relationship with another country or body"
+],
+"vi_hint": [],
+"rank": 6962
+},
+{
+"word": "collaborative",
+"pos": "noun",
+"domains": [
+"management"
+],
+"glosses": [
+"An organized group of people or entities who collaborate towards a particular goal."
+],
+"vi_hint": [],
+"rank": 7127
+},
+{
+"word": "goodwill",
+"pos": "verb",
+"domains": [
+"accounting",
+"business"
+],
+"glosses": [
+"To voluntarily provide or cover some or all of the cost of (something) to maintain goodwill."
+],
+"vi_hint": [],
+"rank": 7193
+},
+{
+"word": "conquest",
+"pos": "verb",
+"domains": [
+"marketing"
+],
+"glosses": [
+"To compete with an established competitor by placing advertisements for one's own products adjacent to editorial content relating to the competitor or by using terms and keywords for one's own products that are currently"
+],
+"vi_hint": [],
+"rank": 7213
+},
+{
+"word": "volatile",
+"pos": "noun",
+"domains": [
+"economics",
+"finance"
+],
+"glosses": [
+"A chemical or compound that changes into a gas easily.",
+"A variable that is volatile, i.e. has its associated memory immediately updated with any change in value."
+],
+"vi_hint": [],
+"rank": 7318
+},
+{
+"word": "sovereign",
+"pos": "verb",
+"domains": [
+"money"
+],
+"glosses": [
+"To rule over as a sovereign."
+],
+"vi_hint": [],
+"rank": 7944
+},
+{
+"word": "delta",
+"pos": "verb",
+"domains": [
+"finance"
+],
+"glosses": [
+"To calculate the differences between the characters in an enciphered text and the characters a fixed number of positions previous.",
+"To compare two versions of the same file in order to determine where they differ (where a programmer has made edits)."
+],
+"vi_hint": [],
+"rank": 8060
+},
+{
+"word": "scheduled",
+"pos": "noun",
+"domains": [
+"insurance"
+],
+"glosses": [
+"Synonym of schedulee."
+],
+"vi_hint": [],
+"rank": 8077
+},
+{
+"word": "sunrise",
+"pos": "verb",
+"domains": [
+"business"
+],
+"glosses": [
+"To phase in.",
+"To awake.",
+"To cheer up, brighten, or illuminate."
+],
+"vi_hint": [],
+"rank": 8145
+},
+{
+"word": "lateral",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"An object, such as a passage or a protrusion, that is situated on the side of something else.",
+"A sound produced through lateral pronunciation (such as /l/ in lateral).",
+"A lateral pass.",
+"An employee hired for a position at the same organizational level or salary as their previous position.",
+"A lateral canal, a canal built alongside an existing stream."
+],
+"vi_hint": [
+"Phần bên, bộ phận bên, vật bên."
+],
+"rank": 8184
+},
+{
+"word": "lateral",
+"pos": "verb",
+"domains": [
+"business"
+],
+"glosses": [
+"To move (oneself or something) in a lateral direction.",
+"To execute a lateral pass."
+],
+"vi_hint": [],
+"rank": 8184
+},
+{
+"word": "CF",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A CF (CompactFlash) memory card."
+],
+"vi_hint": [],
+"rank": 8282
+},
+{
+"word": "beta",
+"pos": "verb",
+"domains": [
+"finance"
+],
+"glosses": [
+"To preliminarily release computer software for initial testing prior to final release.",
+"To beta-read a text."
+],
+"vi_hint": [],
+"rank": 8354
+},
+{
+"word": "liner",
+"pos": "verb",
+"domains": [
+"marketing"
+],
+"glosses": [
+"To fit a cylinder liner."
+],
+"vi_hint": [],
+"rank": 8392
+},
+{
+"word": "peril",
+"pos": "verb",
+"domains": [
+"insurance"
+],
+"glosses": [
+"To cause to be in danger; to imperil; to risk."
+],
+"vi_hint": [
+"Đẩy vào chỗ nguy hiểm, làm nguy hiểm."
+],
+"rank": 8524
+},
+{
+"word": "refined",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"The refined form of a commodity, as opposed to its raw or generic form."
+],
+"vi_hint": [],
+"rank": 8525
+},
+{
+"word": "dilute",
+"pos": "noun",
+"domains": [
+"stock-market"
+],
+"glosses": [
+"An animal having a lighter-coloured coat than is usual."
+],
+"vi_hint": [],
+"rank": 8574
+},
+{
+"word": "PR",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"A PR interval."
+],
+"vi_hint": [],
+"rank": 8997
+},
+{
+"word": "PR",
+"pos": "verb",
+"domains": [
+"business"
+],
+"glosses": [
+"To perform public relations work, such as promoting or managing publicity for something."
+],
+"vi_hint": [],
+"rank": 8997
+},
+{
+"word": "trough",
+"pos": "verb",
+"domains": [
+"economics"
+],
+"glosses": [
+"To eat in a vulgar style, as if from a trough."
+],
+"vi_hint": [],
+"rank": 9734
+},
+{
+"word": "surrogate",
+"pos": "verb",
+"domains": [
+"economics"
+],
+"glosses": [
+"To replace or substitute something with something else; to appoint a successor."
+],
+"vi_hint": [
+"Thay thế cho (ai)."
+],
+"rank": 9990
+},
+{
+"word": "AA",
+"pos": "noun",
+"domains": [
+"finance",
+"insurance"
+],
+"glosses": [
+"A member of Alcoholics Anonymous.",
+"An AA battery (energy-storage device)."
+],
+"vi_hint": [],
+"rank": 10174
+},
+{
+"word": "underwater",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"Underlying water or body of water, for example in an aquifer or the deep ocean.",
+"A type of lure which lies beneath the water surface."
+],
+"vi_hint": [],
+"rank": 10205
+},
+{
+"word": "strangle",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A trading strategy using options, constructed through taking equal positions in a put and a call with different strike prices, such that there is a payoff if the underlying asset's value moves beyond the range of the two"
+],
+"vi_hint": [],
+"rank": 10398
+},
+{
+"word": "offline",
+"pos": "verb",
+"domains": [
+"business"
+],
+"glosses": [
+"To take (a system, etc.) offline; to demote from an active or online state.",
+"To raid another player's base while that player is not currently playing."
+],
+"vi_hint": [],
+"rank": 10673
+},
+{
+"word": "freshwater",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"A body of fresh water."
+],
+"vi_hint": [],
+"rank": 10742
+},
+{
+"word": "straddle",
+"pos": "adv",
+"domains": [
+"economics",
+"finance"
+],
+"glosses": [
+"Astride."
+],
+"vi_hint": [],
+"rank": 11085
+},
+{
+"word": "stale",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"Something stale; a loaf of bread or the like that is no longer fresh.",
+"A long, thin handle (of rakes, axes, etc.)",
+"One of the rungs on a ladder.",
+"The shaft of an arrow, spear, etc.",
+"A stalemate; a stalemated game."
+],
+"vi_hint": [
+", (tiếng địa phương) nước đái (súc vật)."
+],
+"rank": 11192
+},
+{
+"word": "stale",
+"pos": "verb",
+"domains": [
+"finance"
+],
+"glosses": [
+"To make stale; to cause to go out of fashion or currency; to diminish the novelty or interest of, particularly by excessive exposure or consumption.",
+"To become stale; to grow odious from excessive exposure or consumption.",
+"To become stale; to grow unpleasant from age.",
+"To stalemate."
+],
+"vi_hint": [
+"Làm cho cũ; để ôi, để chớm thối, để chớm hỏng.",
+"Làm cho rũ rích, làm thành nhạt nhẽo.",
+"Làm cho mất hiệu lực."
+],
+"rank": 11192
+},
+{
+"word": "overdraft",
+"pos": "verb",
+"domains": [
+"banking"
+],
+"glosses": [
+"To extract groundwater from (an aquifer) beyond the safe yield or equilibrium yield."
+],
+"vi_hint": [],
+"rank": 11220
+},
+{
+"word": "traction",
+"pos": "verb",
+"domains": [
+"business"
+],
+"glosses": [
+"To apply a sustained pull to (a limb, etc.)."
+],
+"vi_hint": [],
+"rank": 11247
+},
+{
+"word": "stakeholder",
+"pos": "verb",
+"domains": [
+"business"
+],
+"glosses": [
+"To involve stakeholders in (a project, process, decision, etc.)."
+],
+"vi_hint": [],
+"rank": 11289
+},
+{
+"word": "stag",
+"pos": "verb",
+"domains": [
+"finance"
+],
+"glosses": [
+"To act as a \"stag\", an irregular dealer in stocks.",
+"To watch; to dog, or keep track of."
+],
+"vi_hint": [
+", (từ lóng) rình mò, bí mật theo dõi.",
+"Đi dự hội một mình không kèm theo đàn bà."
+],
+"rank": 11648
+},
+{
+"word": "ledger",
+"pos": "verb",
+"domains": [
+"accounting"
+],
+"glosses": [
+"To record (something) in, or as if in, a ledger.",
+"To use (a certain type of bait) in bottom fishing.",
+"To engage in bottom fishing."
+],
+"vi_hint": [],
+"rank": 11779
+},
+{
+"word": "deferred",
+"pos": "noun",
+"domains": [
+"accounting",
+"finance"
+],
+"glosses": [
+"Synonym of promise (“object representing delayed result”).",
+"A deferred bond."
+],
+"vi_hint": [],
+"rank": 11895
+},
+{
+"word": "taxable",
+"pos": "noun",
+"domains": [
+"taxation"
+],
+"glosses": [
+"Something on which tax must be paid."
+],
+"vi_hint": [],
+"rank": 11949
+},
+{
+"word": "micro",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"In the context of microphilia, one who is abnormally very small."
+],
+"vi_hint": [
+"Vi, tiểu, nhỏ (micro film: vi phim)."
+],
+"rank": 12114
+},
+{
+"word": "evergreen",
+"pos": "verb",
+"domains": [
+"banking"
+],
+"glosses": [
+"To extend the term of a patent beyond the normal legal limit, usually through repeated small modifications.",
+"To set the repayment rate of a loan at or below the interest rate, so low that the principal will never be repaid."
+],
+"vi_hint": [],
+"rank": 12149
+},
+{
+"word": "contra",
+"pos": "noun",
+"domains": [
+"accounting",
+"business"
+],
+"glosses": [
+"A deal to swap goods or services.",
+"A conservative; originally tied to Nicaraguan counter-revolutionaries.",
+"An entry (or account) that cancels another entry (or account).",
+"Any of the musical instruments in the contrabass range, e.g. contrabassoon, contrabass clarinet or, especially, double bass.",
+"A contra dance."
+],
+"vi_hint": [],
+"rank": 12333
+},
+{
+"word": "contra",
+"pos": "verb",
+"domains": [
+"accounting",
+"business"
+],
+"glosses": [
+"To undo; to reverse."
+],
+"vi_hint": [],
+"rank": 12333
+},
+{
+"word": "ATM",
+"pos": "noun",
+"domains": [
+"banking",
+"business"
+],
+"glosses": [
+"Any source of a large amount of money."
+],
+"vi_hint": [
+"Máy gửi-rút tiền tự động, máy chuyển tiền tự động."
+],
+"rank": 12361
+},
+{
+"word": "Keynesian",
+"pos": "adj",
+"domains": [
+"economics"
+],
+"glosses": [
+"Of or pertaining to an economic theory based on the ideas of John Maynard Keynes, as put forward in his book The General Theory of Employment, Interest and Money, published in 1936 in response to the Great Depression of "
+],
+"vi_hint": [],
+"rank": 12366
+},
+{
+"word": "Keynesian",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"A proponent of Keynesian economic doctrine."
+],
+"vi_hint": [],
+"rank": 12366
+}
+]

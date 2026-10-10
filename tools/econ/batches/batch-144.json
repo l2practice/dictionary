@@ -1,0 +1,273 @@
+[
+{
+"word": "small caps",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"Capital letters shown in the same form but in small size (typically of the same size as lower-case letters)."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "soft loan",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A loan with a below-market interest rate and sometimes other concessions to the borrower."
+],
+"vi_hint": [
+"Vốn vay ưu đãi."
+],
+"rank": null
+},
+{
+"word": "sovereign wealth fund",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A state-owned investment fund investing in real and financial assets such as stocks, bonds, real estate, precious metals, etc."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "special drawing right",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A monetary unit of account maintained by the International Monetary Fund (IMF), the value of which is based on a basket of major currencies, currently (since 2016) consisting of the US dollar, the euro, the renminbi, the"
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "speculatory",
+"pos": "adj",
+"domains": [
+"finance"
+],
+"glosses": [
+"Exercising speculation or guesswork; speculative.",
+"speculative (involving risk)"
+],
+"vi_hint": [
+"Xem speculative"
+],
+"rank": null
+},
+{
+"word": "speed bump",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A traffic calming measure, consisting of a transverse ridge in the road, to limit the speed of vehicles.",
+"An obstacle or difficulty; roadblock; snag.",
+"Any technical measure taken by an electronic financial exchange to deliberately delay orders by microseconds or milliseconds."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "stock exchange",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"An organisation that facilitates the trade of stocks (of companies) for money and vice versa.",
+"A building where that organisation is headquartered: a place where such activity happens."
+],
+"vi_hint": [
+"Sàn giao dịch chứng khoán"
+],
+"rank": null
+},
+{
+"word": "stock market crash",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A sudden dramatic decline of stock prices across a significant cross-section of a stock market."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "strike a balance",
+"pos": "verb",
+"domains": [
+"finance"
+],
+"glosses": [
+"To find a compromise between two conflicting things; to choose a moderate option between two extremes.",
+"To bring out the relative state of a debtor and creditor account."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "student loan",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A loan granted to a student in higher education to help pay for the tuition."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "subpar",
+"pos": "adj",
+"domains": [
+"finance"
+],
+"glosses": [
+"Of less than a traditional or accepted standard.",
+"Synonym of below par.",
+"Trading at a price below face value."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "surplusage",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"Matter in pleading which is not necessary or relevant to the case, and may be rejected.",
+"A greater disbursement than the charge of the accountant amounts to."
+],
+"vi_hint": [
+"Dự dư thừa.",
+"Vật thừa ra."
+],
+"rank": null
+},
+{
+"word": "swing trade",
+"pos": "verb",
+"domains": [
+"finance"
+],
+"glosses": [
+"To engage in swing trading."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "take out the stops",
+"pos": "verb",
+"domains": [
+"finance"
+],
+"glosses": [
+"To carry out the supposed practice whereby locals (floor traders trading for their own account) buy or sell to push prices towards where they suspect stop loss orders lie, with a view to profiting from the resulting acce"
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "tax evasion",
+"pos": "noun",
+"domains": [
+"finance",
+"taxation"
+],
+"glosses": [
+"The illegal reduction of paying tax, especially by making a false declaration of income etc."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "tax return",
+"pos": "noun",
+"domains": [
+"finance",
+"taxation"
+],
+"glosses": [
+"A declaration of income etc. for tax purposes: a report of income, deductions, contributions, and related financial information filed by a taxpayer with a national or local tax authority, used by the authority to determi"
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "technical analysis",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A stock or commodity market analysis technique which examines only market action such as prices, trading volume and open interest."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "tie up",
+"pos": "verb",
+"domains": [
+"finance"
+],
+"glosses": [
+"To secure with rope, string, etc.",
+"To occupy, detain, keep busy, or delay.",
+"To complete, finish, or resolve.",
+"To immobilize a capital: make a capital investment that makes that capital unavailable."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "tie-up",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A temporary interruption or cessation of a normal activity.",
+"The act of tying up (or immobilizing) a capital.",
+"The connection of a loom's treadles to its shafts, used in combination with the threading and treadling to create a pattern."
+],
+"vi_hint": [
+"Sự thoả thuận.",
+"Sự cấm đường.",
+"Sự ngừng (công việc, giao thông..., do công nhân đình công, do hỏng máy... )."
+],
+"rank": null
+},
+{
+"word": "tontine",
+"pos": "noun",
+"domains": [
+"finance",
+"insurance"
+],
+"glosses": [
+"A form of investment in which, on the death of an investor, his share is divided amongst the other investors."
+],
+"vi_hint": [
+"Lối chơi họ."
+],
+"rank": null
+}
+]

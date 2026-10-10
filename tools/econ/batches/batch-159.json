@@ -1,0 +1,266 @@
+[
+{
+"word": "chief operating officer",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"A corporate officer of a corporation, company, or agency, responsible for executing decisions of the chief executive officer (CEO) according to their decided schedule."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "Christmas season",
+"pos": "noun",
+"domains": [
+"business",
+"marketing"
+],
+"glosses": [
+"Advent, the period from Advent Sunday (inclusive) through the start of Epiphany.",
+"Christmastide, Yuletide; the Twelve Days of Christmas, starting on Christmas Day and ending on Epiphany, January 6.",
+"The winter season starting around Thanksgiving (typically Black Friday) and ending at or about New Year's Eve.",
+"The period at the end of the year when retailers promote Christmas shopping opportunities"
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "clearance sale",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"A sale to quickly reduce inventory; a fire sale."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "code name",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"A name used to clandestinely identify somebody or something, either for military or espionage purposes, or for commercial confidentiality."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "consigner",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"The party that consigns.",
+"The party that provides merchandise for consignment sale."
+],
+"vi_hint": [
+"Người gửi, người gửi hàng gửi để bán."
+],
+"rank": null
+},
+{
+"word": "consumer good",
+"pos": "noun",
+"domains": [
+"business",
+"marketing"
+],
+"glosses": [
+"Goods that are meant to be sold to consumers or end-users."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "cooling-off period",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"A length of time in which the two sides to a purchase agreement or contract can consider and contemplate it and cancel without a penalty."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "core business",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"The main activity of a company, that which a commercial organization primarily concerns itself with."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "crank the handle",
+"pos": "verb",
+"domains": [
+"business"
+],
+"glosses": [
+"To perform a process; to do some work."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "crown jewel",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"A prized possession or asset, originally one making up part of the royal regalia.",
+"A valuable part of a company, especially one that is sought by another in a hostile takeover."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "customer base",
+"pos": "noun",
+"domains": [
+"business",
+"marketing"
+],
+"glosses": [
+"A group of customers and/or consumers that a business serves."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "customer service",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"The act of providing services to customers before, during and after a purchase.",
+"A department that provides services to existing customers."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "custom snowball",
+"pos": "verb",
+"domains": [
+"business"
+],
+"glosses": [
+"To rapidly increase in complexity due to cascading custom requirements."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "CV",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"aircraft carrier (“Cruiser Voler”), a diesel-powered warship launching and landing heavier than air flying vehicles (a nuclear-powered one is a CVN)"
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "daisy chain",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"A garland to be worn on the head, made (usually as a pastime) by sewing or otherwise linking the stems of the flowers of daisies (Bellis perennis) into a ring.",
+"A thing resembling a daisy chain (noun sense 1) in having several elements connected together, often in a circle.",
+"A small strip of webbing with multiple loops, which allows a backpacker to secure several objects to the exterior of a backpack.",
+"A group of dealers who buy and sell a commodity (originally crude oil, especially in a single shipment) among themselves in order to artificially increase its price before it is sold to a party outside the group.",
+"A ladder consisting of loops of nylon tape connected together which are used as footholds.",
+"A large nylon loop sewn together at intervals along the midlength, used to decelerate a falling free climber.",
+"A bus wiring scheme in which a series of devices are connected in sequence: A to B, B to C, C to D, etc.",
+"Several electrical or electronic devices linked in series by their data or power connections, or both."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "daisy-chain",
+"pos": "verb",
+"domains": [
+"business"
+],
+"glosses": [
+"To artificially increase (the price of a commodity; originally crude oil, especially in a single shipment) by a group of dealers buying and selling it among themselves before it is sold to a party outside the group.",
+"To connect (several computer devices or peripherals, or other components) in sequence with each other, usually such that the output of one component forms the input of another; also (followed by to), to connect (a comput",
+"Of people, animals, etc.: to position in a line and move like a chain.",
+"To artificially increase the price of a commodity (originally crude oil, especially in a single shipment) by a group of dealers buying and selling it among themselves before it is sold to a party outside the group.",
+"Especially of a computer device, peripheral, or other component: to be capable of being connected with other components in sequence."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "defective on arrival",
+"pos": "adj",
+"domains": [
+"business"
+],
+"glosses": [
+"Upon receipt, damaged or defective to the point of being unusable."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "deputy director",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"A director who reports to another director."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "direct marketing",
+"pos": "noun",
+"domains": [
+"business",
+"marketing"
+],
+"glosses": [
+"Marketing that reaches potential buyers by communications directly addressed to the consumer or customer."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "direct selling",
+"pos": "noun",
+"domains": [
+"business",
+"marketing"
+],
+"glosses": [
+"The marketing and selling of products directly to consumers away from a fixed retail location."
+],
+"vi_hint": [],
+"rank": null
+}
+]

@@ -1,0 +1,273 @@
+[
+{
+"word": "intangible asset",
+"pos": "noun",
+"domains": [
+"accounting",
+"business"
+],
+"glosses": [
+"Any valuable property, as of a business, that is not physical by nature, including intellectual property, customer lists, goodwill, account balances, bearer bonds, registered bonds, and currency."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "in the black",
+"pos": "prep_phrase",
+"domains": [
+"accounting"
+],
+"glosses": [
+"Having positive net income; having greater income than expenses; making a profit.",
+"Having positive net worth."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "in the red",
+"pos": "prep_phrase",
+"domains": [
+"accounting"
+],
+"glosses": [
+"Having net losses; in debt."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "last in first out",
+"pos": "adj",
+"domains": [
+"accounting",
+"business"
+],
+"glosses": [
+"Of or pertaining to any situation where the last to arrive is the first to go, or a data structure where the most recently added item is the first to be retrieved."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "liabilities",
+"pos": "noun",
+"domains": [
+"accounting",
+"finance"
+],
+"glosses": [
+"An amount of money that is owed and has to be paid in the future, such as tax, debt, interest, and mortgage payments.",
+"The right side of a balance sheet."
+],
+"vi_hint": [
+"Nợ, tiêu sản."
+],
+"rank": null
+},
+{
+"word": "mark to market",
+"pos": "verb",
+"domains": [
+"accounting",
+"finance"
+],
+"glosses": [
+"To value an asset at its current actual or estimated market price."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "mark to model",
+"pos": "verb",
+"domains": [
+"accounting"
+],
+"glosses": [
+"To value an asset at a modeled estimate of its market value or of some other approved valuation."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "net asset value",
+"pos": "noun",
+"domains": [
+"accounting",
+"stock-market"
+],
+"glosses": [
+"A measure for the valuation of a fund or trust by its holdings diminished by obligations divided by the total number of shares."
+],
+"vi_hint": [
+"Giá trị tài sản ròng."
+],
+"rank": null
+},
+{
+"word": "net profit",
+"pos": "noun",
+"domains": [
+"accounting",
+"finance"
+],
+"glosses": [
+"The gross revenue minus all expenses."
+],
+"vi_hint": [
+"Lợi nhuận ròng."
+],
+"rank": null
+},
+{
+"word": "net worth",
+"pos": "noun",
+"domains": [
+"accounting"
+],
+"glosses": [
+"The total assets minus total liabilities of an individual or a company."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "nominal value",
+"pos": "noun",
+"domains": [
+"accounting",
+"finance"
+],
+"glosses": [
+"The value or price of something, with no adjustments for inflation."
+],
+"vi_hint": [
+"Giá trị danh nghĩa."
+],
+"rank": null
+},
+{
+"word": "off the nut",
+"pos": "prep_phrase",
+"domains": [
+"accounting"
+],
+"glosses": [
+"In deficit, not profiting; sustaining a loss."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "on the books",
+"pos": "prep_phrase",
+"domains": [
+"accounting",
+"business"
+],
+"glosses": [
+"Contained in an official list (of members, employees, clients, projects etc.).",
+"Recorded or registered, especially in an official or definitive manner.",
+"Officially recorded in the financial records of a company or organization.",
+"Officially recorded in the lawbooks; having the force of enacted law."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "on the nut",
+"pos": "prep_phrase",
+"domains": [
+"accounting"
+],
+"glosses": [
+"Not in deficit, profiting; making money."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "operating cost",
+"pos": "noun",
+"domains": [
+"accounting",
+"business"
+],
+"glosses": [
+"Expense which is related to the operation of a business."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "operating income",
+"pos": "noun",
+"domains": [
+"accounting",
+"business"
+],
+"glosses": [
+"Income from doing business (as opposed to unearned income such as interest) with operating expenses subtracted, but before taxes have been subtracted."
+],
+"vi_hint": [
+"Thu nhập kinh doanh."
+],
+"rank": null
+},
+{
+"word": "per diem",
+"pos": "adj",
+"domains": [
+"accounting"
+],
+"glosses": [
+"Per day; daily."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "per diem",
+"pos": "noun",
+"domains": [
+"accounting"
+],
+"glosses": [
+"A daily stipend.",
+"A daily allowable limit for expendables."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "proration",
+"pos": "noun",
+"domains": [
+"accounting"
+],
+"glosses": [
+"In budgeting, the proportional distribution or allocation of parameters, such as noise power and transmission losses, among a number of tandem-connected items, such as equipment, cables, links, or trunks, in order to bal",
+"In a telephone switching center, the distribution or allocation of equipment or components proportionally among a number of functions, to provide a requisite grade of service.",
+"In the insurance industry, the act of taking money that is currently due from the insurance company and moving it to the patient, knowing that the dollar amount being moved is due from the patient as a deductible, coinsu"
+],
+"vi_hint": [
+"Sự chia theo tỷ lệ."
+],
+"rank": null
+},
+{
+"word": "purchase price",
+"pos": "noun",
+"domains": [
+"accounting",
+"management"
+],
+"glosses": [
+"The price at which something is actually purchased, especially from the point of view of the purchaser."
+],
+"vi_hint": [],
+"rank": null
+}
+]

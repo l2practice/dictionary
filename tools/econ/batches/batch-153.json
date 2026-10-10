@@ -1,0 +1,259 @@
+[
+{
+"word": "black money",
+"pos": "noun",
+"domains": [
+"money"
+],
+"glosses": [
+"Income that is not reported to a government in order to evade taxes.",
+"Money that is obtained illegally, especially that which circulates outside the formal financial system in the underworld."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "blow one's wad",
+"pos": "verb",
+"domains": [
+"money"
+],
+"glosses": [
+"To spend all of one's money.",
+"To expend all of one's resources or efforts; to express all the arguments or ideas which one has.",
+"To ejaculate, to cum."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "boodle",
+"pos": "noun",
+"domains": [
+"money"
+],
+"glosses": [
+"Money, especially when acquired or spent illegally or improperly; swag.",
+"Candy and snacks."
+],
+"vi_hint": [
+"Bọn, đám, lũ.",
+"Quỹ đen (để vận đông tuyển cử, hối lộ... ).",
+"Bài butđơ."
+],
+"rank": null
+},
+{
+"word": "boodle",
+"pos": "verb",
+"domains": [
+"money"
+],
+"glosses": [
+"To engage in bribery."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "bring home",
+"pos": "verb",
+"domains": [
+"money"
+],
+"glosses": [
+"To earn (money).",
+"To make clearer or better understood.",
+"Used other than figuratively or idiomatically: see bring, home."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "chicken feed",
+"pos": "noun",
+"domains": [
+"money"
+],
+"glosses": [
+"Food (usually grain) given to poultry.",
+"A very small or insignificant quantity, especially of money.",
+"A trivial or easy task; a piece of cake."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "cost the earth",
+"pos": "verb",
+"domains": [
+"money"
+],
+"glosses": [
+"To be a huge expense."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "damages",
+"pos": "noun",
+"domains": [
+"money"
+],
+"glosses": [
+"The money paid or awarded to a claimant (in England), a pursuer (in Scotland) or a plaintiff (in the US) in a civil action as compensation for a loss suffered by the same."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "digital currency",
+"pos": "noun",
+"domains": [
+"money"
+],
+"glosses": [
+"Any currency, money, or money-like asset that is primarily managed, stored or exchanged on computer systems, especially over the internet, and does not have a classical physical form of fiat currency that can be held in "
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "dirt-poor",
+"pos": "adj",
+"domains": [
+"money"
+],
+"glosses": [
+"In a condition of extreme poverty."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "earnest money",
+"pos": "noun",
+"domains": [
+"money"
+],
+"glosses": [
+"Money paid as a deposit to show intent to buy or to reserve an item to be purchased; especially, money accompanying an offer to buy real estate."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "filthy rich",
+"pos": "adj",
+"domains": [
+"money"
+],
+"glosses": [
+"Very rich (wealthy)."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "fortune hunter",
+"pos": "noun",
+"domains": [
+"money"
+],
+"glosses": [
+"A person who pursues wealth without earning it through labor, typically by engaging in ventures that are opportunistic, ethically dubious, or socially exploitative, such as entering into marriage for financial gain."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "go bankrupt",
+"pos": "verb",
+"domains": [
+"business",
+"money"
+],
+"glosses": [
+"To become bankrupt; to go into liquidation."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "grant-in-aid",
+"pos": "noun",
+"domains": [
+"money"
+],
+"glosses": [
+"The giving of national funds to subsidize a local or regional project.",
+"Providing funds to an institution (such as a school) or person to subsidize a specific project or activity, such as a scholarship."
+],
+"vi_hint": [
+"Tiền trợ cấp."
+],
+"rank": null
+},
+{
+"word": "hongbao",
+"pos": "noun",
+"domains": [
+"money"
+],
+"glosses": [
+"Synonym of red envelope."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "I don't want to buy anything",
+"pos": "phrase",
+"domains": [
+"money"
+],
+"glosses": [
+"I don't want to buy anything"
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "king's ransom",
+"pos": "noun",
+"domains": [
+"money"
+],
+"glosses": [
+"A very large sum of money."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "live paycheck to paycheck",
+"pos": "verb",
+"domains": [
+"money"
+],
+"glosses": [
+"To have the entirety of one's earnings consumed by living expenses, thus having nothing left over to save; to make just enough (money, etc.) to survive; to scratch by."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "loose change",
+"pos": "noun",
+"domains": [
+"money"
+],
+"glosses": [
+"Synonym of small change (“coins in the pocket, ready to spend”).",
+"Synonym of small change (“insignificant amount of money”)."
+],
+"vi_hint": [],
+"rank": null
+}
+]

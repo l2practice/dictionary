@@ -70,6 +70,10 @@ def main():
         domains.setdefault(w, [])
         domains[w] = sorted(set(domains[w]) | ds)
 
+    # lớp học thuật Claude/Haiku cho thuật ngữ ngành: data-econ/ai/ok-*.json (do validate.py lọc)
+    econ = []
+    for f in sorted(glob.glob(str(ROOT / "data-econ" / "ai" / "ok-*.json"))):
+        econ += json.loads(Path(f).read_text(encoding="utf-8"))["entries"]
     n_dom = n_pilot = 0
     for w, ds in domains.items():
         p, e = entry(w)
@@ -87,9 +91,22 @@ def main():
         blk["senses"] = [to_sense(s) for s in pe["senses"]]
         blk["model"] = MODEL
         touched.add(p); n_pilot += 1
+    n_econ = 0
+    for pe in econ:
+        if not pe["senses"]:
+            continue
+        p, e = entry(pe["word"])
+        if e is None:
+            continue
+        blk = next((b for b in e["blocks"] if b["pos"] == pe["pos"]), None)
+        if blk is None or blk["senses"]:  # không đè nghĩa Gemini/Claude đã có
+            continue
+        blk["senses"] = [to_sense(s) for s in pe["senses"]]
+        blk["model"] = "claude-haiku-5-5"
+        touched.add(p); n_econ += 1
     for p in touched:
         p.write_text(json.dumps(shards[p], ensure_ascii=False, sort_keys=True, separators=(",", ":")), encoding="utf-8")
-    print(f"domains={n_dom} pilot-blocks={n_pilot} shards-written={len(touched)}")
+    print(f"domains={n_dom} pilot-blocks={n_pilot} econ-blocks={n_econ} shards-written={len(touched)}")
 
 
 main()

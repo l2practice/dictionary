@@ -1,0 +1,268 @@
+[
+{
+"word": "aftersale",
+"pos": "adj",
+"domains": [
+"business"
+],
+"glosses": [
+"After the sale of a product."
+],
+"vi_hint": [
+"Sau khi bán hàng."
+],
+"rank": null
+},
+{
+"word": "angel investor",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"An investor to a start-up, especially one who invests very early or during the company's initial forming, often with a slim chance of a return on investment."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "appro",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"The situation where goods, especially jewellery, must be returned by the retailer if not successfully sold."
+],
+"vi_hint": [
+", (thông tục) (như) approval, approbation."
+],
+"rank": null
+},
+{
+"word": "as far as one is concerned",
+"pos": "prep_phrase",
+"domains": [
+"business"
+],
+"glosses": [
+"In someone's opinion, view, or judgment, indicating the speaker's personal perspective, often to introduce their belief or to define or limit the scope of their involvement or knowledge on a particular topic.",
+"Of a workflow or administration, regarding the delineation of responsibilities, to the extent that the matter concerns one's role; to the extent that one is obligated by one's position, role, or office to be involved (in"
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "asset management",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"The process of managing, monitoring and maintaining the value of a commercial entity."
+],
+"vi_hint": [
+"quản lý tài sản."
+],
+"rank": null
+},
+{
+"word": "asset-stripping",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"The practice of selling off a company's assets in order to improve returns for equity investors."
+],
+"vi_hint": [
+"Thủ đoạn mua rẻ một công ty đang bị trắc trở về vốn liếng, rồi đem bán từng phần công ty ấy để kiếm lời."
+],
+"rank": null
+},
+{
+"word": "at a profit",
+"pos": "prep_phrase",
+"domains": [
+"business"
+],
+"glosses": [
+"So as to generate a profit."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "at cost",
+"pos": "prep_phrase",
+"domains": [
+"business"
+],
+"glosses": [
+"At the purchasing price; without any markup."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "background check",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"A report on a person’s legal and criminal personal history."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "balloon payment",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"An unusually large payment due at the end of the term of a loan agreement."
+],
+"vi_hint": [
+"Một đợt chi trả lớn phải trả vào cuối kỳ hạn vay thế chấp, hay một khoản vay thương mại hay một khoản vay trả dần khác vì toàn bộ số tiền vay không được trả dần hoàn toàn trong suốt thời gian vay, số tiền còn nợ phải trả như một khoản trả nợ cuối cùng cho người vay."
+],
+"rank": null
+},
+{
+"word": "bear hug",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"Any especially large, tight or enthusiastic hug, usually friendly and especially given by a male.",
+"A hostile takeover effort in which one firm offers to buy the other firm at a share price too high to refuse.",
+"A hold with the arms around the opponent."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "best practice",
+"pos": "noun",
+"domains": [
+"business",
+"marketing"
+],
+"glosses": [
+"A well-defined procedure that is known to produce near-optimum results."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "big business",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"Large, for-profit corporations collectively, understood as having significant economic, political, or social influence.",
+"A large and vital economic sector."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "black knight",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"A villain or evil character who masks their identity and that of their liege by not displaying heraldry.",
+"A person or company that makes an unwelcome takeover bid.",
+"A dragonfly of species Camacinia othello."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "board of directors",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"A group of people elected by stockholders to establish corporate policies and make management decisions."
+],
+"vi_hint": [
+"Ban giám đốc/hội đồng quản trị."
+],
+"rank": null
+},
+{
+"word": "body shop",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"A workshop in which damage to the bodywork of cars is repaired.",
+"A consultancy that recruits workers (generally in information technology) in order to contract out their services on a tactical short- to mid-term basis."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "bottom line",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"The final balance; the amount of money or profit left after everything has been tallied.",
+"The summary or result; the most important information.",
+"A minimum acceptable result from a negotiation."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "bottom line",
+"pos": "adv",
+"domains": [
+"business"
+],
+"glosses": [
+"Synonym of all in all."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "brand loyalty",
+"pos": "noun",
+"domains": [
+"business",
+"marketing"
+],
+"glosses": [
+"The positive feelings towards a brand and dedication to purchase the same product or service repeatedly, regardless of deficiencies, a competitor's actions, or changes in the environment."
+],
+"vi_hint": [
+"Sự trung thành với nhãn hiệu."
+],
+"rank": null
+},
+{
+"word": "break-even point",
+"pos": "noun",
+"domains": [
+"business",
+"management"
+],
+"glosses": [
+"The point where total costs equal total revenue and the organization neither makes a profit nor suffers a loss."
+],
+"vi_hint": [],
+"rank": null
+}
+]

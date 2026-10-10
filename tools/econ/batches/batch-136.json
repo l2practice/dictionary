@@ -1,0 +1,286 @@
+[
+{
+"word": "foreign exchange market",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A market for trading one currency for another."
+],
+"vi_hint": [
+"Thị trường ngoại hối."
+],
+"rank": null
+},
+{
+"word": "forward contract",
+"pos": "noun",
+"domains": [
+"commerce",
+"finance"
+],
+"glosses": [
+"A contract between two parties to buy or sell something on a stated future date at a price agreed now; distinguished from a futures contract in not being standardised or exchange-traded."
+],
+"vi_hint": [
+"Hợp đồng định trước; Hợp đồng kỳ hạn."
+],
+"rank": null
+},
+{
+"word": "forward market",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"The informal over-the-counter financial market by which contracts for future delivery are entered into."
+],
+"vi_hint": [
+"Thị trường định trước; thị trường kỳ hạn."
+],
+"rank": null
+},
+{
+"word": "fractional reserve banking",
+"pos": "noun",
+"domains": [
+"banking",
+"finance"
+],
+"glosses": [
+"A widespread banking system in which a bank that accepts deposits from the public puts the majority of those deposits into investments (generating a profit for the bank) as opposed to keeping them all in reserve (i.e., d"
+],
+"vi_hint": [
+"Hoạt động ngân hàng bằng cách dự trữ theo tỷ lệ."
+],
+"rank": null
+},
+{
+"word": "franking",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A device or marking such as postage stamp, printed or stamped impressions, codings, labels, manuscript writings, or any other authorized form of markings affixed or applied to mails to qualify them to be postally service",
+"A corporate tax system in which some or all of the tax paid by a company may be attributed, or imputed, to the shareholders by way of a tax credit to reduce the income tax payable on a distribution."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "free ride",
+"pos": "verb",
+"domains": [
+"finance"
+],
+"glosses": [
+"To take a free ride; to take advantage of a benefit without contributing.",
+"To buy and sell shares or other securities without actually having the capital to cover the trade."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "front-end",
+"pos": "adj",
+"domains": [
+"finance"
+],
+"glosses": [
+"Relating to the front end or user interface of a hardware or software system.",
+"Of a financial transaction, paid or charged first."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "front run",
+"pos": "verb",
+"domains": [
+"business",
+"finance"
+],
+"glosses": [
+"To engage or partake in the practice of front running."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "front runner",
+"pos": "noun",
+"domains": [
+"business",
+"finance"
+],
+"glosses": [
+"One who is the most likely winner in a contest, election, etc.",
+"One who engages in front running."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "futures contract",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A standardized contract, traded on a futures exchange, to buy or sell a standardized quantity of a specified commodity (or financial instrument) of standardized quality at a certain date in the future, at a stated price "
+],
+"vi_hint": [
+"Hợp đồng kỳ hạn."
+],
+"rank": null
+},
+{
+"word": "gaucho",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A cowboy of the South American pampas.",
+"A proposed currency intended to be used by Argentina and Brazil to make interregional payments."
+],
+"vi_hint": [
+"Người chăn bò ở Nam Mỹ."
+],
+"rank": null
+},
+{
+"word": "gilt-edged",
+"pos": "adj",
+"domains": [
+"finance"
+],
+"glosses": [
+"Having gilded edges.",
+"Issued by the Bank of England.",
+"Of the highest quality."
+],
+"vi_hint": [
+"Có gáy mạ vàng.",
+"Nhất hạng."
+],
+"rank": null
+},
+{
+"word": "give credit",
+"pos": "verb",
+"domains": [
+"finance"
+],
+"glosses": [
+"To acknowledge a contribution or accomplishment in someone or something.",
+"To extend or offer credit within a financial institution."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "give up",
+"pos": "verb",
+"domains": [
+"finance"
+],
+"glosses": [
+"To surrender (someone or something); to inform on (someone).",
+"To relinquish (something)",
+"Devote or dedicate (oneself, one's life, etc.) to something.",
+"To have someone obtain (something) to one's disadvantage; to concede.",
+"To stop or quit (an activity, etc.).",
+"To abandon (someone or something)",
+"To lose hope concerning (someone or something)",
+"To admit defeat, capitulate; to desist for that reason."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "gold certificate",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A certificate of ownership of gold metal stored by another entity, used historically as a paper currency of the United States (1863–1933) and in modern times as a form of investment."
+],
+"vi_hint": [
+"Giấy chứng gửi vàng."
+],
+"rank": null
+},
+{
+"word": "gold reserve",
+"pos": "noun",
+"domains": [
+"banking",
+"finance"
+],
+"glosses": [
+"The stock of gold in coin or bullion form, that is held by a government or a country's central bank, intended mainly as a guarantee to redeem promises to pay depositors, or to support the value of the national currency."
+],
+"vi_hint": [
+"Dự trữ vàng."
+],
+"rank": null
+},
+{
+"word": "go long",
+"pos": "verb",
+"domains": [
+"finance"
+],
+"glosses": [
+"To buy a financial product, such as a share, so as to profit from a rise in its value; compare go short.",
+"To run far from the person throwing a ball in order to receive a long pass; (especially American football, Canadian football) to run down the field away from the quarterback to receive a long or Hail Mary pass.",
+"Used other than figuratively or idiomatically: see go, long."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "go public",
+"pos": "verb",
+"domains": [
+"business",
+"finance"
+],
+"glosses": [
+"To make something public; to announce publicly or to the press.",
+"To launch an initial public offering."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "go short",
+"pos": "verb",
+"domains": [
+"finance"
+],
+"glosses": [
+"To have an insufficient amount.",
+"To sell a financial product (such as a share) now, even though one does not presently own it, in the hope of buying it more cheaply for delivery at a later date, so as to profit from a fall in price below the price at wh"
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "government bond",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A bond issued by a national government, generally with a promise to pay periodic interest payments and to repay the face value on the maturity date."
+],
+"vi_hint": [],
+"rank": null
+}
+]

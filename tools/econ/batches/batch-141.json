@@ -1,0 +1,266 @@
+[
+{
+"word": "oversold",
+"pos": "adj",
+"domains": [
+"finance"
+],
+"glosses": [
+"In a stock or commodity market condition where there has been significant trading driving prices down to lower levels, levels which seem overextended or excessive on a short-term basis."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "over the counter",
+"pos": "prep_phrase",
+"domains": [
+"finance"
+],
+"glosses": [
+"Through direct trade; outside a standard stock exchange.",
+"Able to be obtained without a doctor's prescription.",
+"Legitimately."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "over-the-counter",
+"pos": "adj",
+"domains": [
+"finance"
+],
+"glosses": [
+"Of medicine and other treatments, legal for sale or distribution without the requirement of a prescription.",
+"Involving direct interaction between two parties without an intermediary, and denoting any market where items such as stocks or currency are bought and sold by direct arrangement between counterparties, or through a priv"
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "pain point",
+"pos": "noun",
+"domains": [
+"business",
+"finance"
+],
+"glosses": [
+"A difficult or challenging aspect of something."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "paint the tape",
+"pos": "verb",
+"domains": [
+"finance"
+],
+"glosses": [
+"To engage in tape painting; to engage in wash trades.",
+"Used other than figuratively or idiomatically: see paint, tape."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "panic buying",
+"pos": "noun",
+"domains": [
+"business",
+"finance"
+],
+"glosses": [
+"The buying of commodities or other assets earlier than normal, or in quantities greater than normal, because of rumours of coming shortages or price rises."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "panic sell",
+"pos": "verb",
+"domains": [
+"finance"
+],
+"glosses": [
+"To sell an investment out of fear or anxiety with little regard to the price."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "paper trade",
+"pos": "verb",
+"domains": [
+"finance",
+"stock-market"
+],
+"glosses": [
+"To engage in or order in the context of paper trading."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "parent company",
+"pos": "noun",
+"domains": [
+"business",
+"finance"
+],
+"glosses": [
+"A company that owns or controls one or more other companies."
+],
+"vi_hint": [
+"Công ty mẹ."
+],
+"rank": null
+},
+{
+"word": "passive income",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"An income that is made using little to no effort, such as pension income, rent, or interest, as opposed to normal employment."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "payment order",
+"pos": "noun",
+"domains": [
+"banking",
+"finance"
+],
+"glosses": [
+"An instruction from a sender to a receiving bank, transmitted orally, electronically, or in writing, to pay, or to cause another bank to pay a fixed and determinable amount of money to a beneficiary."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "petty cash",
+"pos": "noun",
+"domains": [
+"business",
+"finance",
+"money"
+],
+"glosses": [
+"Cash available for trivial purchases, especially limited funds for employees to use without close supervision.",
+"A small to moderate fund of cash kept ready at home for household expenses."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "political risk",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"Any financial or other risk that stems from the possibility of a nation changing its policies."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "pound the table",
+"pos": "verb",
+"domains": [
+"finance"
+],
+"glosses": [
+"Used other than figuratively or idiomatically: see pound, the, table.",
+"To vehemently assert one's position.",
+"To base an argument on bluster or rhetoric when unsupported by more substantive elements.",
+"To promote one's products."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "poverty is a state of mind",
+"pos": "proverb",
+"domains": [
+"finance",
+"money"
+],
+"glosses": [
+"Someone is only as poor as they perceive themselves to be."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "preferred stock",
+"pos": "noun",
+"domains": [
+"finance",
+"stock-market"
+],
+"glosses": [
+"Stock with a dividend, usually fixed, that is paid out of profits before any dividend can be paid on common stock and that has priority to common stock in liquidation."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "price-earnings ratio",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"The ratio of share price to earnings per share used as an indication of the relative value of the share."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "primary market",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"The part of the financial markets that deals with the issuance of new securities.",
+"Works of art directly bought from the artist."
+],
+"vi_hint": [
+"Thị trường sơ cấp."
+],
+"rank": null
+},
+{
+"word": "procure to pay",
+"pos": "phrase",
+"domains": [
+"business",
+"finance"
+],
+"glosses": [
+"The business events that link the procurement process with the financial functions of a business, including supply management, requisitions, purchase orders, receiving, invoice reconciliation, and accounts payable."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "program trading",
+"pos": "noun",
+"domains": [
+"business",
+"finance"
+],
+"glosses": [
+"High-volume and high-speed buying and selling of investment securities, such as stocks and bonds, which is initiated and executed by brokerage firms' computer programs that continually monitor market conditions."
+],
+"vi_hint": [],
+"rank": null
+}
+]

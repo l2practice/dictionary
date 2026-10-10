@@ -1,0 +1,275 @@
+[
+{
+"word": "carucage",
+"pos": "noun",
+"domains": [
+"taxation"
+],
+"glosses": [
+"A form of land taxation that replaced Danegeld in twelfth-century England."
+],
+"vi_hint": [
+"Loại thuế ruộng đất thay cho Danegeld ở Anh từ thế kỉ XII.",
+"Việc cày."
+],
+"rank": null
+},
+{
+"word": "corporation tax",
+"pos": "noun",
+"domains": [
+"taxation"
+],
+"glosses": [
+"Synonym of corporate tax."
+],
+"vi_hint": [
+"Thuế doanh nghiệp; Thuế Công ty."
+],
+"rank": null
+},
+{
+"word": "custom house",
+"pos": "noun",
+"domains": [
+"taxation"
+],
+"glosses": [
+"An official building, in a port, where customs are collected and shipping is cleared for entry and exit"
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "Danegeld",
+"pos": "noun",
+"domains": [
+"taxation"
+],
+"glosses": [
+"A tax raised originally to pay tribute or protection money to the Viking raiders in the 10th and 11th centuries to save a land from being ravaged, and later continued as a land tax.",
+"Any kind of tribute."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "double tax agreement",
+"pos": "noun",
+"domains": [
+"taxation"
+],
+"glosses": [
+"A bilateral treaty between two countries to resolve issues related to double taxation."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "double taxation",
+"pos": "noun",
+"domains": [
+"taxation"
+],
+"glosses": [
+"The levying of tax by two or more jurisdictions on the same income."
+],
+"vi_hint": [
+"Đánh thuế hai lần."
+],
+"rank": null
+},
+{
+"word": "excisable",
+"pos": "adj",
+"domains": [
+"taxation"
+],
+"glosses": [
+"Liable or subject to excise.",
+"Able to be excised."
+],
+"vi_hint": [
+"Có thể đánh thuế được."
+],
+"rank": null
+},
+{
+"word": "excise tax",
+"pos": "noun",
+"domains": [
+"taxation"
+],
+"glosses": [
+"Any of various taxes levied on the production or sale of certain goods, especially on luxuries, tobacco, alcohol etc."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "flat tax",
+"pos": "noun",
+"domains": [
+"taxation"
+],
+"glosses": [
+"A tax, usually income tax, whose percentage rate or currency value remains constant, regardless of the amount to which the tax is applied."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "goods and services tax",
+"pos": "noun",
+"domains": [
+"taxation"
+],
+"glosses": [
+"A tax very similar to a value added tax, levied, for example, in Australia, Canada, New Zealand, and Singapore."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "gross income",
+"pos": "noun",
+"domains": [
+"business",
+"taxation"
+],
+"glosses": [
+"Income generated before deducting expenses, taxes, insurance, etc.",
+"In United States tax law, income that is subject to taxation under the Internal Revenue Code (see Internal Revenue Code 61)."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "GST",
+"pos": "noun",
+"domains": [
+"taxation"
+],
+"glosses": [
+"One of various compounds of germanium, antimony, and tellurium used as a phase change material, including GeSbTe."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "income tax",
+"pos": "noun",
+"domains": [
+"taxation"
+],
+"glosses": [
+"A tax levied on earned and unearned income, net of allowed deductions."
+],
+"vi_hint": [
+"Thuế thu nhập."
+],
+"rank": null
+},
+{
+"word": "inheritance tax",
+"pos": "noun",
+"domains": [
+"taxation"
+],
+"glosses": [
+"A tax based on the value of the property of a deceased person, and charged on the beneficiaries of the estate."
+],
+"vi_hint": [
+"Thuế thừa kế."
+],
+"rank": null
+},
+{
+"word": "jizya",
+"pos": "noun",
+"domains": [
+"taxation"
+],
+"glosses": [
+"A per capita tax levied on a section of an Islamic state's non-Muslim citizens, who meet certain criteria."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "net income",
+"pos": "noun",
+"domains": [
+"business",
+"taxation"
+],
+"glosses": [
+"Gross profit minus operating expenses and taxes.",
+"Income after tax."
+],
+"vi_hint": [
+"Thu nhập ròng là khoản thu nhập sau khi đã khấu trừ các khoản thuế và đầu tư khác."
+],
+"rank": null
+},
+{
+"word": "pannage",
+"pos": "noun",
+"domains": [
+"taxation"
+],
+"glosses": [
+"Acorns and beech mast used as forage for pigs.",
+"Feeding of pigs on acorns and beech mast in the woods.",
+"The right to feed pigs in this manner.",
+"A tax formerly paid for the privilege of feeding swine in the woods."
+],
+"vi_hint": [
+"Quyền thả lợn vào rừng kiếm ăn.",
+"Tiền thuế thả lợn vào rừng kiếm ăn.",
+"Quả làm thức ăn cho lợn (quả sến, quả dẻ... )."
+],
+"rank": null
+},
+{
+"word": "poll tax",
+"pos": "noun",
+"domains": [
+"taxation"
+],
+"glosses": [
+"A tax determined as a uniform, fixed amount per individual.",
+"A tax that must be paid in order to vote."
+],
+"vi_hint": [
+"Thuế thân."
+],
+"rank": null
+},
+{
+"word": "progressive tax",
+"pos": "noun",
+"domains": [
+"taxation"
+],
+"glosses": [
+"a tax whose percentage increases as a person's wealth increases."
+],
+"vi_hint": [
+"Thuế luỹ tiến."
+],
+"rank": null
+},
+{
+"word": "property tax",
+"pos": "noun",
+"domains": [
+"taxation"
+],
+"glosses": [
+"A tax, usually ad valorem, charged on the value of a property."
+],
+"vi_hint": [],
+"rank": null
+}
+]

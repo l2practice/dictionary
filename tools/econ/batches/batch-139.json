@@ -1,0 +1,265 @@
+[
+{
+"word": "liquidize",
+"pos": "verb",
+"domains": [
+"business",
+"finance"
+],
+"glosses": [
+"to make liquid usually referring to solid food in a food processor; liquefy.",
+"to convert assets into liquid (cash) form; to liquidate"
+],
+"vi_hint": [
+"Cho hoá lỏng."
+],
+"rank": null
+},
+{
+"word": "liquidized",
+"pos": "adj",
+"domains": [
+"business",
+"finance"
+],
+"glosses": [
+"That has been turned into a thick liquid or puree.",
+"Of assets, liquidated."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "live up",
+"pos": "verb",
+"domains": [
+"finance"
+],
+"glosses": [
+"To fulfil the expectations placed upon one."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "Lombard rate",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"An interest rate charged by a central bank for very short-term loans to other banks against an approved collateral."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "look down",
+"pos": "verb",
+"domains": [
+"finance"
+],
+"glosses": [
+"Used other than figuratively or idiomatically: see look, down.",
+"To lower one's eyes; to direct one's look downwards.",
+"To fix one's gaze upon (someone) until they look away; to stare down.",
+"To decrease in value."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "make whole",
+"pos": "verb",
+"domains": [
+"finance"
+],
+"glosses": [
+"To restore (someone) to a sound, healthy, or otherwise favorable condition.",
+"To repair or restore (something).",
+"To provide (someone), especially under the terms of a legal judgment or an agreement, with financial compensation for lost money or other lost assets."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "margin debt",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"Money borrowed to purchase securities, using existing cash or securities as collateral."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "market capitalization",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"The total market value of the equity in a publicly traded entity."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "market maker",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A person or company that undertakes to quote both a buy and a sell price for a financial instrument."
+],
+"vi_hint": [
+"Hãng lập thị."
+],
+"rank": null
+},
+{
+"word": "market risk",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"The risk that the value of an investment will decrease due to moves in market factors.",
+"Systematic risk."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "market share",
+"pos": "noun",
+"domains": [
+"business",
+"finance"
+],
+"glosses": [
+"The percentage of some market held by a company, country, (sub)sector or any other actor or aggregate."
+],
+"vi_hint": [
+"Thị phần."
+],
+"rank": null
+},
+{
+"word": "market value",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"The price which a seller or insurer might reasonably expect to fetch for goods, services or securities on the open market."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "maturity date",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"The date on which a principal amount of a note, draft, acceptance bond, or other debt instrument becomes due or payable."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "melt up",
+"pos": "verb",
+"domains": [
+"finance"
+],
+"glosses": [
+"Of the price of a security, to increase to an unexpected degree."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "mergers and acquisitions",
+"pos": "noun",
+"domains": [
+"business",
+"finance"
+],
+"glosses": [
+"Business transactions in which the ownership of companies are transferred to or consolidated with another company or business organization."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "mischarge",
+"pos": "verb",
+"domains": [
+"finance"
+],
+"glosses": [
+"To charge wrongly."
+],
+"vi_hint": [
+"(luật pháp hoặc tài chính) Tính sai, tính toán sai."
+],
+"rank": null
+},
+{
+"word": "mischarge",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A mistake in charging, as in an account."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "money market",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A market for trading short-term debt instruments, such as treasury bills, commercial paper, bankers' acceptances, and certificates of deposit."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "money order",
+"pos": "noun",
+"domains": [
+"banking",
+"finance"
+],
+"glosses": [
+"A directive to pay a prespecified amount of money from prepaid funds, making it a more trusted method of payment than a check."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "moratory",
+"pos": "adj",
+"domains": [
+"finance"
+],
+"glosses": [
+"Pertaining to delay of payment or fulfilment of an obligation."
+],
+"vi_hint": [
+"Đình trả nợ, hoãn n."
+],
+"rank": null
+}
+]

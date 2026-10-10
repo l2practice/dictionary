@@ -1,0 +1,274 @@
+[
+{
+"word": "insurance agent",
+"pos": "noun",
+"domains": [
+"insurance"
+],
+"glosses": [
+"A person or company that sells insurance."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "insurance policy",
+"pos": "noun",
+"domains": [
+"insurance"
+],
+"glosses": [
+"A legal document outlining a particular insurance cover for an insured entity for a given risk.",
+"Something that protects or safeguards."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "joint life",
+"pos": "adj",
+"domains": [
+"insurance"
+],
+"glosses": [
+"Describing a life insurance policy that insures two individuals' lives, payable either on a first death or last survivor basis."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "last survivor",
+"pos": "adj",
+"domains": [
+"insurance"
+],
+"glosses": [
+"Describing a joint life insurance policy that pays out in the event that both of the lives assured have died (not necessarily at the same time)."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "life insurance",
+"pos": "noun",
+"domains": [
+"insurance"
+],
+"glosses": [
+"A form of insurance on the life of a person, whereby if the person dies then the insurance policy pays out a sum of money to the beneficiary (such as a person's family)."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "on risk",
+"pos": "adj",
+"domains": [
+"insurance"
+],
+"glosses": [
+"Of a policyholder, covered by a particular insurance policy or insurer at a specific point in time."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "paid-up",
+"pos": "adj",
+"domains": [
+"insurance"
+],
+"glosses": [
+"Fully paid (for).",
+"Full-fledged, wholehearted.",
+"Of an insurance policy, still in force but with the policyholder no longer paying any premiums (typically resulting in a reduced sum assured)."
+],
+"vi_hint": [
+"Đã trả tiền thù lao cần thiết (để trở thành thành viên của tổ chức)."
+],
+"rank": null
+},
+{
+"word": "reinsure",
+"pos": "verb",
+"domains": [
+"insurance"
+],
+"glosses": [
+"To insure again (extending or replacing prior insurance).",
+"To place insurance on the contract that insures something (allowing the insurer to offset risk in the same way the insuree did)."
+],
+"vi_hint": [
+"Bảo hiểm lại."
+],
+"rank": null
+},
+{
+"word": "second death",
+"pos": "adj",
+"domains": [
+"insurance"
+],
+"glosses": [
+"Describing a joint life insurance policy that pays out in the event that both of the lives assured have died (not necessarily at the same time)."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "self-insurance",
+"pos": "noun",
+"domains": [
+"insurance"
+],
+"glosses": [
+"The practice of choosing to bear a risk oneself rather than taking out insurance with a third party (an insurance company)."
+],
+"vi_hint": [
+"Sự tự bảo hiểm."
+],
+"rank": null
+},
+{
+"word": "single life",
+"pos": "adj",
+"domains": [
+"insurance"
+],
+"glosses": [
+"Describing a life insurance policy that insures a single individual's life."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "top-up",
+"pos": "adj",
+"domains": [
+"insurance"
+],
+"glosses": [
+"That serves as an addition"
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "top-up",
+"pos": "noun",
+"domains": [
+"insurance"
+],
+"glosses": [
+"An addition.",
+"A serving of drink used to top up an existing glass.",
+"An additional premium paid over the initial premium in order to increase benefit values.",
+"Additional credit purchased for a mobile phone.",
+"A dose of epidural anesthetic added to previously injected spinal anesthetic in combined spinal-epidural anesthesia",
+"The situation where a student who holds a qualification equivalent to part of a degree course is then accepted onto a degree course at an intermediate point, without having to start it from the beginning."
+],
+"vi_hint": [
+"Sự làm đầy lại."
+],
+"rank": null
+},
+{
+"word": "travel insurance",
+"pos": "noun",
+"domains": [
+"insurance"
+],
+"glosses": [
+"An insurance product for covering unforeseen losses incurred while travelling, either internationally or domestically."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "cold chain",
+"pos": "noun",
+"domains": [
+"commerce"
+],
+"glosses": [
+"A supply chain which is temperature-controlled, critical for the supply of certain foods or pharmaceuticals."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "form factor",
+"pos": "noun",
+"domains": [
+"commerce"
+],
+"glosses": [
+"The ratio of the RMS value to the absolute mean of a sinusoidal wave (especially to that of an alternating current).",
+"Any of several functions that describe the unknown internal state of a particle.",
+"The emissivity of a material.",
+"A function that describes the scattering power of an atom as function of the scattering angle.",
+"A factor describing the stress distribution of a body.",
+"The geometry of an object, especially in engineering design; configuration."
+],
+"vi_hint": [
+"Kích cỡ thiết bị."
+],
+"rank": null
+},
+{
+"word": "military-industrial complex",
+"pos": "noun",
+"domains": [
+"commerce"
+],
+"glosses": [
+"Military and industrial facilities situated in the same place.",
+"A nation's armed forces and industries (especially those supplying weapons and other materiel) collectively, regarded as a strong vested interest exerting great influence on the government."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "out of the box",
+"pos": "prep_phrase",
+"domains": [
+"business",
+"commerce"
+],
+"glosses": [
+"Of a product, immediately, without intervention from the customer.",
+"Outside the box; unconventionally: outside the limits of conventional thinking.",
+"Used other than figuratively or idiomatically: See out of, the, box."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "third party",
+"pos": "noun",
+"domains": [
+"business",
+"commerce"
+],
+"glosses": [
+"Someone not directly involved in a transaction; an entity beyond the seller (first party) and customer (second party).",
+"Someone only incidentally or tangentially connected to an incident or dispute; someone other than the principals; a bystander or independent witness.",
+"A political party in opposition to the main parties in a two-party system.",
+"A person or party not directly involved with an arrangement, in contrast to active parties, characteristically the first party (producer) and second party (consumer)."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "advance payment",
+"pos": "noun",
+"domains": [
+"money"
+],
+"glosses": [
+"The part of a contractually due sum that is paid or received in advance for a good, service or social security."
+],
+"vi_hint": [],
+"rank": null
+}
+]

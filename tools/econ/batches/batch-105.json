@@ -1,0 +1,298 @@
+[
+{
+"word": "econometrics",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"The branch of economics that applies statistical methods to the empirical study of economic theories and relationships."
+],
+"vi_hint": [
+"Toán kinh tế."
+],
+"rank": 48571
+},
+{
+"word": "jobber",
+"pos": "noun",
+"domains": [
+"business",
+"finance"
+],
+"glosses": [
+"An actor temporarily employed for a specific role, often in a touring company.",
+"An intermediary who buys and sells merchandise.",
+"A type of intermediary in the apparel industry, as well as others, who buys excess merchandise from brand owners and manufacturers, and sells to retailers at prices that are 20-70% below wholesale.",
+"A market maker on the stock exchange; a stockjobber.",
+"A performer whose primary role is to lose to established talent.",
+"A thing (often used in a vague way to refer to something the name of which one cannot recall).",
+"A job press or platen press."
+],
+"vi_hint": [
+"người làm thuê việc lặt vặt; người làm khoán.",
+"Kẻ đầu cơ.",
+"Người môi giới chạy hàng xách."
+],
+"rank": 48749
+},
+{
+"word": "dollarization",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"The process of a country, officially, or its residents, unofficially, adopting the US dollar or other foreign currency in parallel to or instead of the domestic currency."
+],
+"vi_hint": [],
+"rank": 48948
+},
+{
+"word": "monopsony",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"A market situation in which there is only one buyer for a product.",
+"A buyer with disproportionate power."
+],
+"vi_hint": [
+"Độc quyền mua."
+],
+"rank": 49053
+},
+{
+"word": "holdback",
+"pos": "noun",
+"domains": [
+"accounting"
+],
+"glosses": [
+"A restraint; a device or part of a device that operates to restrain.",
+"The projection or loop, on the thill of a vehicle, to which a strap of the harness is attached, to hold back a carriage when going downhill, or in backing. Also, the strap or part of the harness so used.",
+"A delay in the movement of solute due to the slowing effects of diffusion",
+"Income that is set aside for eventualities such as customer returns, seasonal fluctuations, performance bonuses, unexpected costs, etc.",
+"A portion of the money that is owed to someone which is not paid, but instead held as security, until the entire job or contract has been successfully completed.",
+"Money that a buyer does not pay at the time of purchase, but which is paid afterward (sometimes in installments, sometimes on a specified date).",
+"The difference between a dealer's cost and the manufacturer's suggested retail price.",
+"A time period during which sales of a specific security or commodity cannot occur."
+],
+"vi_hint": [
+"Sự cản trở, sự ngăn trở; điều trở ngại.",
+"Cái chặn cửa (cho khỏi đóng lại)."
+],
+"rank": 49055
+},
+{
+"word": "holdback",
+"pos": "verb",
+"domains": [
+"accounting"
+],
+"glosses": [
+"To set up a holdback."
+],
+"vi_hint": [],
+"rank": 49055
+},
+{
+"word": "nicker",
+"pos": "noun",
+"domains": [
+"money"
+],
+"glosses": [
+"Pound sterling.",
+"A soft neighing sound characteristic of a horse.",
+"A snigger or suppressed laugh.",
+"The cutting lip which projects downward at the edge of a boring bit and cuts a circular groove in the wood to limit the size of the hole that is bored.",
+"Someone who nicks (steals) something, a thief.",
+"A type of mythological sea creature or sea monster; also, a water sprite; a nix or nixie; a mermaid or merman.",
+"Hippopotamus.",
+"nigger."
+],
+"vi_hint": [
+"Đồng bảng Anh."
+],
+"rank": 49217
+},
+{
+"word": "nicker",
+"pos": "verb",
+"domains": [
+"money"
+],
+"glosses": [
+"To make a soft neighing sound characteristic of a horse.",
+"To produce a snigger or suppressed laugh.",
+"To snatch or steal."
+],
+"vi_hint": [],
+"rank": 49217
+},
+{
+"word": "arbitrageur",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"One who engages in arbitrage, such as a financial broker or an investment bank."
+],
+"vi_hint": [],
+"rank": 49381
+},
+{
+"word": "quant",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"Quantitative analysis or research.",
+"A quantitative analyst.",
+"A punting pole with a broad flange near the end to prevent it from sinking into the mud; a setting pole.",
+"A vertical shaft used to drive a millstone."
+],
+"vi_hint": [
+"Sào bịt đầu (sào chống thuyền có đầu bịt sắt)."
+],
+"rank": 49525
+},
+{
+"word": "quant",
+"pos": "verb",
+"domains": [
+"finance"
+],
+"glosses": [
+"To propel using a quant."
+],
+"vi_hint": [
+"Chống (thuyền) bằng sào bịt đầu."
+],
+"rank": 49525
+},
+{
+"word": "Keynesianism",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"A prescriptive or normative economic stance according to which the state should actively stimulate economic growth and improve stability in the private sector through interest rates, taxation and public projects."
+],
+"vi_hint": [],
+"rank": 49655
+},
+{
+"word": "OC",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"Officer of the Order of Canada."
+],
+"vi_hint": [],
+"rank": 49709
+},
+{
+"word": "deflator",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"That which deflates.",
+"A factor applied to economic statistics in order to counter the effect of inflation."
+],
+"vi_hint": [
+"Xem deflate"
+],
+"rank": 50015
+},
+{
+"word": "diseconomy",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"A financial drawback or cost arising from a process"
+],
+"vi_hint": [],
+"rank": 50131
+},
+{
+"word": "zaibatsu",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"A large business conglomerate founded under the Empire of Japan, generally controlled by a single family or individual.",
+"Any large corporation."
+],
+"vi_hint": [],
+"rank": 50140
+},
+{
+"word": "sumptuary",
+"pos": "adj",
+"domains": [
+"money"
+],
+"glosses": [
+"Relating to expenditure or expense, especially on luxury goods.",
+"Chiefly in sumptuary law: of a law, regulation, etc.: intended to limit or restrain the expenditure of citizens in apparel, food, furniture, etc., or to forbid the use of certain articles (especially luxurious ones), to ",
+"Of or relating to sumptuary laws or regulations."
+],
+"vi_hint": [
+"Điều chỉnh việc chi tiêu, chỉ đạo việc chi tiêu, hạn chế việc chi tiêu."
+],
+"rank": 50563
+},
+{
+"word": "cloaking",
+"pos": "noun",
+"domains": [
+"marketing"
+],
+"glosses": [
+"The act of wrapping or covering with a cloak.",
+"The material from which cloaks are made.",
+"The technique of presenting search engine spiders with content that differs from that seen by human users, usually for spamdexing purposes."
+],
+"vi_hint": [],
+"rank": 50770
+},
+{
+"word": "nondiscretionary",
+"pos": "adj",
+"domains": [
+"business"
+],
+"glosses": [
+"Not discretionary; thus, frequently, mandatory",
+"Of or pertaining to non-discretionary spending"
+],
+"vi_hint": [],
+"rank": 50815
+},
+{
+"word": "bureaucratese",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"A style of language, used by bureaucrats, that involves jargon or euphemism to the detriment of broader understanding.",
+"Wordy, ostentatious talk or writing that resembles bureaucratic writing."
+],
+"vi_hint": [],
+"rank": 50832
+}
+]

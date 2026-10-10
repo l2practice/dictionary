@@ -1,0 +1,273 @@
+[
+{
+"word": "first come first served",
+"pos": "noun",
+"domains": [
+"business",
+"management"
+],
+"glosses": [
+"A service policy or distributive rule under which access to a good, service, or decision is allocated according to the chronological order of requests or arrivals, so that earlier claimants receive priority over later on"
+],
+"vi_hint": [
+"Đến trước được phục vụ trước."
+],
+"rank": null
+},
+{
+"word": "flag carrier",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"A person carrying a standard or flag, usually at sporting events and parades, previously on the battlefield.",
+"A strong supporter of a cause, or perhaps the strongest and most visible supporter of said cause.",
+"A transportation company, such as a shipping or airline company, that is registered in a given state.",
+"A national airline (typically having the flag, or other national insignia, on the tail).",
+"An aircraft carrier serving as a flagship."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "flag of convenience",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"Registration of a ship in a country chosen for its low taxes, permissive regulations, etc.",
+"The flag flown by a ship so registered (corresponding to the country of registration).",
+"Use of a particular location or jurisdiction as one's nominal base of operations in order to take advantage of favorable laws and regulations or to avoid restrictions on one's operations."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "fly-by-night",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"A creature which flies at night; a nocturnal flier or traveler.",
+"One who departs or flees at night in order to avoid creditors, law enforcement etc.",
+"A person or business that appears and/or disappears rapidly, appearing untrustworthy, or giving an impression of transience.",
+"A traveling businessman or tradesman."
+],
+"vi_hint": [
+"Người hay đi chơi đêm.",
+"Người dọn nhà đêm (để trốn nợ)."
+],
+"rank": null
+},
+{
+"word": "foreign correspondent",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"A reporter or freelance journalist who is based in a foreign country, and who provides news reports and/or commentary from that place.",
+"A clerical employee responsible for communicating with an organization's stakeholders in other countries and for processing transactions involving them; a firm employed by an organization to assume such responsibilities."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "foreign trade",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"Trade that is conducted between a nation and other nations."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "for-profit",
+"pos": "adj",
+"domains": [
+"business"
+],
+"glosses": [
+"For the purpose of making money, especially in relation to an organization that was not formerly, or is not usually, run to make money."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "front of mind",
+"pos": "adj",
+"domains": [
+"business"
+],
+"glosses": [
+"Synonym of top of mind."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "ganger",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"One who or that which walks or goes; a goer; a walker.",
+"A horse that goes quickly.",
+"One who oversees a gang of workmen.",
+"One who is employed in conveying the coal through the gangways.",
+"A length of chain, one end of which is fastened to an anchor when let go, when the other end is fastened to a hawser."
+],
+"vi_hint": [
+"Trưởng kíp (thợ)."
+],
+"rank": null
+},
+{
+"word": "general manager",
+"pos": "noun",
+"domains": [
+"business",
+"management"
+],
+"glosses": [
+"A manager with overall responsibility for an organisation or a distinct unit of an organisation."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "general partnership",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"A business partnership in which each partner is liable for the firm's debts."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "genericized trademark",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"A successful brand name or trademark that has come to refer to the generic class of objects rather than the specific brand type, sometimes without continued defensibility of the trademark but usually with continued defen"
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "get well",
+"pos": "verb",
+"domains": [
+"business"
+],
+"glosses": [
+"To recover from an illness or injury.",
+"To recover from financial straits."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "go hostile",
+"pos": "verb",
+"domains": [
+"business"
+],
+"glosses": [
+"To engage in a hostile takeover of another company."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "golden parachute",
+"pos": "noun",
+"domains": [
+"business",
+"management"
+],
+"glosses": [
+"An agreement between a company and an employee, usually an executive, specifying that the employee will receive certain significant benefits if employment is terminated."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "grease payment",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"A bribe or extorted money, usually relatively small in amount, provided to a low-level government official or business person, in order to expedite a business decision, shipment, or other transaction, especially in a cou"
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "gross margin",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"The difference between revenue and direct cost, often expressed as the ratio gross margin percent."
+],
+"vi_hint": [
+"Mức chênh giá gộp."
+],
+"rank": null
+},
+{
+"word": "group buying",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"The practice of purchasing products and services at reduced prices on the condition that a minimum number of buyers would make the purchase."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "grubstake",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"Money, materials, tools, food etc. provided to a prospector in return for a share in future profits.",
+"An amount of money advanced to someone starting a business in return for a share of the future profits.",
+"Money, necessities stockpiled to sustain an effort for a period of time."
+],
+"vi_hint": [
+"Tiền hay thiết bị cung cấp cho một doanh nghiệp để bù đắp một cổ phần đã sinh lợi."
+],
+"rank": null
+},
+{
+"word": "grubstake",
+"pos": "verb",
+"domains": [
+"business"
+],
+"glosses": [
+"To supply such funds to."
+],
+"vi_hint": [],
+"rank": null
+}
+]

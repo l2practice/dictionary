@@ -1,0 +1,270 @@
+[
+{
+"word": "investment banking",
+"pos": "noun",
+"domains": [
+"banking",
+"finance"
+],
+"glosses": [
+"The activities of an investment bank."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "investment fund",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A fund consisting of investments made by a group of people and managed by a professional investment manager."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "investment strategy",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"set of rules, behaviors or procedures, designed to guide an investor's selection of an investment portfolio"
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "itemizer",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"That which itemizes.",
+"One who makes itemized deductions on a tax return."
+],
+"vi_hint": [
+"Người ghi thành từng khoản, người ghi thành từng món."
+],
+"rank": null
+},
+{
+"word": "jeonse",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A form of lease in the South Korean real estate market in which the lessee does not pay rent, but instead provides the landlord with a large lump sum deposit which is returned in full once the lease has determined, with "
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "job backwards",
+"pos": "verb",
+"domains": [
+"finance"
+],
+"glosses": [
+"To reassess one's original decisions (e.g. investments) with hindsight, determining how they might have been better chosen."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "joint-stock company",
+"pos": "noun",
+"domains": [
+"business",
+"finance"
+],
+"glosses": [
+"A company with transferable ownership interests and limited shareholder liability.",
+"A company with transferable ownership interests and unlimited shareholder liability."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "jump the gun",
+"pos": "verb",
+"domains": [
+"finance"
+],
+"glosses": [
+"To begin a race too soon, before the starting gun goes off.",
+"To act or begin too soon or without due caution.",
+"To trade securities based on information that is not yet public; to trade on inside information."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "junk bond",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A bond (an instrument of debt) which is considered below \"investment grade\" due to a significant risk of default by the issuer. The interest rate is higher in order to compensate holders for that risk."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "lame duck",
+"pos": "verb",
+"domains": [
+"finance"
+],
+"glosses": [
+"To behave in the manner of a lame duck."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "lazy Susan",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A rotating tray (turntable) used on tables and counters for serving condiments or food.",
+"A rotating set of shelves used to minimize inaccessible space, usually employed in corner kitchen cabinets.",
+"Synonym of round trip (“form of barter involving selling and buying back”)."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "leg out",
+"pos": "verb",
+"domains": [
+"finance"
+],
+"glosses": [
+"To dispose of a debt to avoid integrated treatment under US tax law.",
+"To continue selling after opening weekend; to have legs."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "lender of last resort",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"The institution in a financial system that acts as the provider of liquidity to a financial institution that finds itself unable to obtain sufficient liquidity in the interbank lending market and has exhausted other poss"
+],
+"vi_hint": [
+"Người cho vay cứu cánh cuối cùng."
+],
+"rank": null
+},
+{
+"word": "let something ride",
+"pos": "verb",
+"domains": [
+"finance"
+],
+"glosses": [
+"To opt to have winnings staked as another wager, typically on the same outcome, rather than paid out.",
+"To decline to exit an investment position in expectation of continued (as opposed to new) growth.",
+"To let something go, allow it to continue, or take no immediate action over it."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "letter of credit",
+"pos": "noun",
+"domains": [
+"banking",
+"finance"
+],
+"glosses": [
+"A document, used primarily in trade finance and issued generally by a financial institution, in which the institution promises to pay debts up to a certain limit to be acquired by the beneficiary against delivery of docu"
+],
+"vi_hint": [
+"Thư tín dụng."
+],
+"rank": null
+},
+{
+"word": "life annuity",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"Any annuity for which the purchaser continues to make payments while alive."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "limited company",
+"pos": "noun",
+"domains": [
+"business",
+"finance"
+],
+"glosses": [
+"A company in which the liability of members or subscribers of the company is limited to what they have invested or guaranteed to the company."
+],
+"vi_hint": [
+"Công ty trách nhiệm hữu hạn."
+],
+"rank": null
+},
+{
+"word": "limited liability",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"The liability of an owner or a partner of a company for no more capital than they have invested."
+],
+"vi_hint": [
+"Trách nhiệm hữu hạn."
+],
+"rank": null
+},
+{
+"word": "limited liability company",
+"pos": "noun",
+"domains": [
+"business",
+"finance"
+],
+"glosses": [
+"A type or form of for-profit incorporated company where ownership is divided into shares, and where the governing rules are set forth in a contract entered into by all of the initial shareholders. The name derives from t"
+],
+"vi_hint": [
+"Công ty trách nhiệm hữu hạn."
+],
+"rank": null
+},
+{
+"word": "line of credit",
+"pos": "noun",
+"domains": [
+"banking",
+"finance"
+],
+"glosses": [
+"A credit facility under which a bank or other lender agrees to provide a client with loans of money up to an approved limit during a predefined period. The client may borrow the entire credit amount all at once or in por",
+"The maximum borrowable amount made available by that facility."
+],
+"vi_hint": [],
+"rank": null
+}
+]

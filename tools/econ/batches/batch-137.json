@@ -1,0 +1,270 @@
+[
+{
+"word": "grey market",
+"pos": "noun",
+"domains": [
+"business",
+"finance"
+],
+"glosses": [
+"The buying and selling of goods through distribution channels other than those authorized or intended by the manufacturer or producer.",
+"The trading of shares before they are listed on the stock exchange."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "head and shoulders",
+"pos": "adv",
+"domains": [
+"finance"
+],
+"glosses": [
+"To a considerable degree.",
+"By force; violently."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "hedge fund",
+"pos": "noun",
+"domains": [
+"finance",
+"stock-market"
+],
+"glosses": [
+"A mostly unregulated investment fund that invests large amounts of money using speculative methods."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "highflier",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A person who or a type of aircraft that flies at high elevations.",
+"An ambitious person, especially one who takes risks or has an extravagant lifestyle.",
+"A vertical pole used in commercial fishing to locate the beginning and end of a long fishing line.",
+"A glamorous stock that potentially offers high returns to investors.",
+"A swingboat.",
+"A type of phaeton carriage."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "home equity",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"The monetary value of a home less the value of any encumbrances, such as liens or mortgages."
+],
+"vi_hint": [
+"Giá trị ròng của nhà ở - bằng giá thị trường trừ đi các khoản nợ mà chủ nợ có quyền tịch biên căn nhà để trừ nợ."
+],
+"rank": null
+},
+{
+"word": "home loan",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A loan taken for the purpose of purchasing a house, or other type of residential property."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "imprest",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"An advance of funds, especially to a government service or employee."
+],
+"vi_hint": [
+"Tiền tạm ứng, tiền cho vay trước (để làm việc công)."
+],
+"rank": null
+},
+{
+"word": "imprest",
+"pos": "verb",
+"domains": [
+"finance"
+],
+"glosses": [
+"To advance funds on loan."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "index-linked",
+"pos": "adj",
+"domains": [
+"finance"
+],
+"glosses": [
+"Of financial products such as bonds, savings accounts, pension schemes, etc., yielding returns that are calculated based on the level of a referenced financial index, such as a consumer price index, typically to keep pac"
+],
+"vi_hint": [
+"Tăng lên theo giá sinh hoạt."
+],
+"rank": null
+},
+{
+"word": "initial public offering",
+"pos": "noun",
+"domains": [
+"business",
+"finance"
+],
+"glosses": [
+"The first offering to members of the public of stock in a company, normally followed by a listing of that stock on a stock exchange."
+],
+"vi_hint": [
+"Cuộc phát hành cổ phiếu lần đầu."
+],
+"rank": null
+},
+{
+"word": "in mora",
+"pos": "prep_phrase",
+"domains": [
+"finance"
+],
+"glosses": [
+"In default."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "insider trading",
+"pos": "noun",
+"domains": [
+"business",
+"finance"
+],
+"glosses": [
+"The illegal trading of a public company's stock or other securities based on material, nonpublic information about the company."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "in specie",
+"pos": "adv",
+"domains": [
+"finance"
+],
+"glosses": [
+"In the actual form, especially in the context of a distribution of assets or a loan repayment.",
+"In coin or monetary metal, in contrast to fiat currency or other paper."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "installment loan",
+"pos": "noun",
+"domains": [
+"banking",
+"finance"
+],
+"glosses": [
+"A loan that is repaid over time with a set number of regularly scheduled payments, and may or may not include a balloon payment."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "interest-free",
+"pos": "adj",
+"domains": [
+"finance"
+],
+"glosses": [
+"Not charging interest; not subject to interest payments."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "interest rate",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"The percentage of an amount of money charged for its use per some period of time (often a year)."
+],
+"vi_hint": [
+"Lãi suất."
+],
+"rank": null
+},
+{
+"word": "in the money",
+"pos": "prep_phrase",
+"domains": [
+"finance"
+],
+"glosses": [
+"Possessing money; rich.",
+"For an option, having a strike price which makes it profitable to exercise. For a call this is a strike below the market price, or for a put a strike above the market price.",
+"Achieving a sufficiently high ranking in a contest to earn money (for oneself, or for those who have placed a bet)."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "investable",
+"pos": "adj",
+"domains": [
+"finance"
+],
+"glosses": [
+"Able to be invested; ready for investment; liquid."
+],
+"vi_hint": [
+"Có thể đầu tư được (vốn)."
+],
+"rank": null
+},
+{
+"word": "investment bank",
+"pos": "noun",
+"domains": [
+"banking",
+"finance"
+],
+"glosses": [
+"A financial institution that deals with raising capital, trading in securities and managing corporate mergers and acquisitions."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "investment banker",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A banker who works for an investment bank."
+],
+"vi_hint": [],
+"rank": null
+}
+]

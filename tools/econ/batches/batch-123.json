@@ -1,0 +1,273 @@
+[
+{
+"word": "mathematical economics",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"A sub-field of economics which aims at expressing economic theories with mathematical formulae."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "maximax",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"A strategy or algorithm that seeks to maximize the maximum possible result (that is, that prefers the alternative with the chance of the best possible outcome, even if its expected outcome and its worst possible outcome "
+],
+"vi_hint": [
+"Tối đa hoá cực đại."
+],
+"rank": null
+},
+{
+"word": "means of production",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"The combination of the means of labor, such as machines, tools, and equipment, and the subject of labor used by workers to make products."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "metallist",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"A person who works with metals.",
+"An advocate of metal coinage as the principal or sole currency.",
+"A metaller: a fan of the metal music genre."
+],
+"vi_hint": [
+"Thợ kim loại.",
+"Người chủ trương dùng tiền kim loại."
+],
+"rank": null
+},
+{
+"word": "microfoundations",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"A macroeconomic methodology of basing macroeconomic models and theories on microeconomic processes."
+],
+"vi_hint": [
+"Các cơ sở vi mô."
+],
+"rank": null
+},
+{
+"word": "milkshed",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"A shed in which animals (such as cows, sheep, or goats) are milked."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "minimum wage",
+"pos": "noun",
+"domains": [
+"economics",
+"money"
+],
+"glosses": [
+"The lowest rate at which an employer must legally pay an employee, usually expressed as pay per hour."
+],
+"vi_hint": [
+"Tiền lương tối thiểu."
+],
+"rank": null
+},
+{
+"word": "mixed economic",
+"pos": "adj",
+"domains": [
+"economics"
+],
+"glosses": [
+"Of or pertaining to mixed economy."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "monetary policy",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"The process by which the government, central bank, or monetary authority manages the supply of money, or trading in foreign exchange markets."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "money illusion",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"The cognitive bias that leads people to think of money in nominal rather than real terms, mistaking its face value for its purchasing power at some point in time."
+],
+"vi_hint": [
+"Ảo tưởng về tiền."
+],
+"rank": null
+},
+{
+"word": "money supply",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"The total amount of money (bills, coins, loans, credit, and other liquid instruments) in a particular economy."
+],
+"vi_hint": [
+"Cung tiền."
+],
+"rank": null
+},
+{
+"word": "moral hazard",
+"pos": "noun",
+"domains": [
+"economics",
+"insurance"
+],
+"glosses": [
+"The prospect that a party insulated from risk may behave differently from the way it would behave if it were fully exposed to the risk."
+],
+"vi_hint": [
+"Rủi ro đạo đức, mối nguy đạo đức; sự lạm tín."
+],
+"rank": null
+},
+{
+"word": "municipalization",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"The transfer of corporations or other assets to municipal ownership."
+],
+"vi_hint": [
+"Sự đô thị hoá."
+],
+"rank": null
+},
+{
+"word": "national debt",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"Any money owed by the government of a nation."
+],
+"vi_hint": [
+"Nợ quốc gia."
+],
+"rank": null
+},
+{
+"word": "natural price",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"A price for a good or service that is equal to the cost of production, augmented by the average profit rate."
+],
+"vi_hint": [
+"Giá tự nhiên."
+],
+"rank": null
+},
+{
+"word": "network effect",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"The higher growth rate of businesses with higher market share in those segments of economy in which the value of a product or service depends on the compounding effects of the number of existing users of the product or a"
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "New Keynesian",
+"pos": "adj",
+"domains": [
+"economics"
+],
+"glosses": [
+"Advocating or pertaining to a macroeconomic synthesis between Keynesianism and neoclassical economics; often involving or preferring countercyclical stabilisation through monetary policy but favouring fiscal intervention"
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "non-price competition",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"A competitive strategy in which firms deliberately don't engage in price reductions, but rather compete in advertising, quality, or design etc."
+],
+"vi_hint": [
+"Cạnh tranh phi giá cả."
+],
+"rank": null
+},
+{
+"word": "normal good",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"a good for which demand increases when income increases and falls when income decreases but price remains constant, i.e. with a positive income elasticity of demand."
+],
+"vi_hint": [
+"Hàng hoá thông thường."
+],
+"rank": null
+},
+{
+"word": "normative economics",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"economic thought in which one applies moral beliefs, or judgment, claiming that an outcome is \"good\" or \"bad\". For example: \"this tax on cigarettes will be good because it will reduce smoking.\""
+],
+"vi_hint": [
+"Kinh tế học chuẩn tắc."
+],
+"rank": null
+}
+]

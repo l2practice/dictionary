@@ -1,0 +1,218 @@
+[
+{
+"word": "death march",
+"pos": "noun",
+"domains": [
+"management"
+],
+"glosses": [
+"A forced movement of people, on foot, in such circumstances that many die during the journey.",
+"A project that requires a stretch of unsustainable overwork, or whose participants feel it is destined to fail.",
+"Synonym of dead march (“mournful music for a funeral etc.”)."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "errand boy",
+"pos": "noun",
+"domains": [
+"management"
+],
+"glosses": [
+"A male employed to run errands.",
+"Someone in a responsible position who performs relatively menial tasks for a senior manager."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "executive committee",
+"pos": "noun",
+"domains": [
+"management"
+],
+"glosses": [
+"A subcommittee of a board authorized to make some decisions on behalf of the entire board.",
+"the equivalent of the cabinet of ministers for a city government, serving the mayor."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "human resources",
+"pos": "noun",
+"domains": [
+"management"
+],
+"glosses": [
+"The personnel department of an organization, dealing with the recruitment, administration, management and training of employees.",
+"The personnel employed in an organization."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "key performance indicator",
+"pos": "noun",
+"domains": [
+"management"
+],
+"glosses": [
+"A financial or non-financial metric used to help an organization define and measure progress towards its goals."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "mission statement",
+"pos": "noun",
+"domains": [
+"management"
+],
+"glosses": [
+"A formal declaration of the overall goal or purpose of an organization."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "organigram",
+"pos": "noun",
+"domains": [
+"management"
+],
+"glosses": [
+"A graphical representation of the structure of an organization, showing groups and departments and their interconnections and linked responsibilities."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "organization chart",
+"pos": "noun",
+"domains": [
+"management"
+],
+"glosses": [
+"A graphic display of reporting relationships in an organization, sometimes displaying position titles and position holders."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "post mortem",
+"pos": "adj",
+"domains": [
+"management"
+],
+"glosses": [
+"After death.",
+"Having been inflicted or having occurred after death."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "post mortem",
+"pos": "adv",
+"domains": [
+"management"
+],
+"glosses": [
+"Occurring after death."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "post mortem",
+"pos": "noun",
+"domains": [
+"management"
+],
+"glosses": [
+"An investigation of a corpse to determine the cause of death.",
+"Any investigation after the conclusion of an activity, particularly when said activity produces an unwanted outcome."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "ramp up",
+"pos": "verb",
+"domains": [
+"management"
+],
+"glosses": [
+"To increase rapidly to a new value.",
+"To increase (something) rapidly to a new value; to cause (something) to ramp up.",
+"To start up; to be in an initial phase of rapid increase.",
+"To start (something) up; to cause (something) to ramp up."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "safety stock",
+"pos": "noun",
+"domains": [
+"management"
+],
+"glosses": [
+"Additional inventory intended to buffer against variability in supply and demand plans, that could otherwise result in unmet demand or interruption of production."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "sunlight is the best disinfectant",
+"pos": "proverb",
+"domains": [
+"management"
+],
+"glosses": [
+"Transparency about the workings of an organization prevents corruption."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "team player",
+"pos": "noun",
+"domains": [
+"management"
+],
+"glosses": [
+"A person who can function effectively with others in a group, sharing information and striving towards a common goal.",
+"Used other than figuratively or idiomatically: see team, player."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "terms of reference",
+"pos": "noun",
+"domains": [
+"management"
+],
+"glosses": [
+"A set of terms that define the purpose of a project, its development, and how it can be evaluated."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "virtuous circle",
+"pos": "noun",
+"domains": [
+"management"
+],
+"glosses": [
+"A situation in which the solution to one problem makes each future problem easier to solve than the original one.",
+"A series of positive events where each event leads to the next, creating a self-sustaining cycle of improvement and success."
+],
+"vi_hint": [],
+"rank": null
+}
+]

@@ -1,0 +1,272 @@
+[
+{
+"word": "retail price",
+"pos": "noun",
+"domains": [
+"accounting",
+"management"
+],
+"glosses": [
+"The price that customers pay for goods in stores."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "retained earnings",
+"pos": "noun",
+"domains": [
+"accounting"
+],
+"glosses": [
+"The amount of net income left over for a business after it has paid out dividends to its shareholders."
+],
+"vi_hint": [
+"Thu nhập được giữ lại."
+],
+"rank": null
+},
+{
+"word": "settlement date",
+"pos": "noun",
+"domains": [
+"accounting"
+],
+"glosses": [
+"The date on which a trade (bonds, equities, foreign exchange, commodities, etc.) settles."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "single-entry",
+"pos": "adj",
+"domains": [
+"accounting"
+],
+"glosses": [
+"Describing a method of bookkeeping that relies on a one-sided accounting entry to maintain financial information, with each entry appearing only once on one side or other of the account."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "slush fund",
+"pos": "noun",
+"domains": [
+"accounting",
+"finance"
+],
+"glosses": [
+"Money stored for illegal or dishonest purposes.",
+"Money that has not been hypothecated or dedicated to a particular purpose, or which is used for a different purpose than originally intended."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "source document",
+"pos": "noun",
+"domains": [
+"accounting"
+],
+"glosses": [
+"An original document that is subsequently copied, translated, or transcribed.",
+"An original document or record that provides proof of activity that is summarized elsewhere (e.g. case notes, medical chart, diary entry, minutes of a meeting, etc.).",
+"A document that provides official notification of a credit or debit to an account, such as a bank statement, bill of sale, invoice, receipt, etc."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "spot date",
+"pos": "noun",
+"domains": [
+"accounting"
+],
+"glosses": [
+"The normal settlement day when the transaction is carried out as soon as practical, i.e. \"on the spot\"."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "sundries",
+"pos": "noun",
+"domains": [
+"accounting"
+],
+"glosses": [
+"A category in accounting records for irregular or miscellaneous items not otherwise classified."
+],
+"vi_hint": [
+"Đồ lặt vặt, những thứ lặt vặt."
+],
+"rank": null
+},
+{
+"word": "tangible asset",
+"pos": "noun",
+"domains": [
+"accounting"
+],
+"glosses": [
+"Any asset, such as buildings, land, equipment etc., that has physical form."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "throw-off",
+"pos": "noun",
+"domains": [
+"accounting"
+],
+"glosses": [
+"A start in a hunt or a race.",
+"A race in which a contestant is paid to deliberately lose.",
+"A control that engages or disengages part of the mechanism on a device without having to turn the device off.",
+"A throw taken to resume play, such as after a goal or at the start of a period.",
+"Income minus expenses and depreciation (before tax).",
+"A discount on a debt or invoice due to a problem with the asset being paid for.",
+"The act of flinging or throwing something off.",
+"Something that is flung or thrown off."
+],
+"vi_hint": [
+"Sự bắt đầu sự xuất phát."
+],
+"rank": null
+},
+{
+"word": "tick and tie",
+"pos": "verb",
+"domains": [
+"accounting"
+],
+"glosses": [
+"To make sure that every item in a ledger or in an inventory is accounted for and properly connected to other items to which it relates."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "tie out",
+"pos": "verb",
+"domains": [
+"accounting",
+"finance"
+],
+"glosses": [
+"To validate or check for accuracy; verify the balance of numbers or figures; audit"
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "total loss",
+"pos": "noun",
+"domains": [
+"accounting",
+"insurance"
+],
+"glosses": [
+"An insured item of which the entire value is written off.",
+"An insured item that is written off when it is beyond repair, or when the cost of repair exceeds the insured value."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "total loss",
+"pos": "adj",
+"domains": [
+"accounting",
+"insurance"
+],
+"glosses": [
+"A system in which the working fluid is used once and then dumped, burned up, etc. rather than being recirculated. By extension, an electrical system that runs on battery power without the means to recharge during operati"
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "trade date",
+"pos": "noun",
+"domains": [
+"accounting"
+],
+"glosses": [
+"The date on which a security trade occurs."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "trial balance",
+"pos": "noun",
+"domains": [
+"accounting"
+],
+"glosses": [
+"A statement of the balances of all nominal accounts in a double-entry ledger, made to test their equality. The total value of the debits should equal the total of the credits any difference indicates that an error has be"
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "underrun",
+"pos": "noun",
+"domains": [
+"accounting"
+],
+"glosses": [
+"A condition in which fewer products are delivered or produced than had been ordered.",
+"A condition in which the read/write buffer is fed with data at a slower rate than required; a buffer underrun."
+],
+"vi_hint": [
+"{{#switch:|vi|mul=Mục từ này cần một định nghĩa. Xin hãy giúp đỡ bằng cách thêm định nghĩa cho nó, sau đó xóa văn bản {{rfdef}}.}}"
+],
+"rank": null
+},
+{
+"word": "underrun",
+"pos": "verb",
+"domains": [
+"accounting"
+],
+"glosses": [
+"To run or pass under.",
+"To pass along and under, e.g. a cable, for the purpose of taking it in or examining it.",
+"To separate the parts of (a tackle) and put them in order."
+],
+"vi_hint": [
+"Chạy qua phía dưới.",
+"(giao thông đường thủy) Kiểm tra chuyền tay (kiểm tra dây cáp bằng cách kéo dây lên tàu và chuyền tay)."
+],
+"rank": null
+},
+{
+"word": "value date",
+"pos": "noun",
+"domains": [
+"accounting"
+],
+"glosses": [
+"Date and the action itself on which payments are credited or debited to the customer's imagined but legally real account, as opposed to the date a balance is made visible (posting date, entry date) which is when creditin"
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "value date",
+"pos": "verb",
+"domains": [
+"accounting"
+],
+"glosses": [
+"To perform the above-defined action with an amount."
+],
+"vi_hint": [],
+"rank": null
+}
+]

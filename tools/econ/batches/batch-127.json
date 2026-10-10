@@ -1,0 +1,272 @@
+[
+{
+"word": "reprivatization",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"The process of, or an instance of, returning to private ownership."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "reserve currency",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"A foreign currency that is held in reserve as foreign exchange reserves."
+],
+"vi_hint": [
+"Đồng tiền dự trữ."
+],
+"rank": null
+},
+{
+"word": "restrictionism",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"The advocacy of restrictions on free trade, immigration etc."
+],
+"vi_hint": [
+"Chính sách hạn chế (thương nghiệp)."
+],
+"rank": null
+},
+{
+"word": "retaliatory tariff",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"A tariff imposed by one country in response to a tariff or other trade barrier previously imposed by another country, typically as a form of tit-for-tat trade sanction."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "returns to scale",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"a function describing how returns scale when production increases in the long run"
+],
+"vi_hint": [
+"Lợi tức theo quy mô."
+],
+"rank": null
+},
+{
+"word": "revalorization",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"The fact or process of setting a new value for a given commodity, currency etc.",
+"The establishment of a new value for something; revaluation, especially in a positive sense."
+],
+"vi_hint": [
+"Sự khôi phục giá trị tiền tệ (của một nước)."
+],
+"rank": null
+},
+{
+"word": "revealed preference",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"A consumer preference as inferred from purchasing habits according to a theory invented by American economist Paul A. Samuelson.",
+"Samuelson's theory for inferring consumer preference from purchasing habits."
+],
+"vi_hint": [
+"Sở thích được bộc lộ."
+],
+"rank": null
+},
+{
+"word": "risk-averse",
+"pos": "adj",
+"domains": [
+"economics"
+],
+"glosses": [
+"Unwilling to take risks.",
+"Reluctant to accept a bargain with an uncertain payoff rather than another bargain with a more certain, but possibly lower, expected payoff."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "salariat",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"Salary earners as a class or group, often as opposed to wage earners."
+],
+"vi_hint": [
+"Lớp người làm công ăn lương."
+],
+"rank": null
+},
+{
+"word": "seasonal unemployment",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"A type of unemployment explained by a seasonal variation in the structure of jobs and/or labour offered. Seasonal unemployment typically repeats the same pattern annually."
+],
+"vi_hint": [
+"Thất nghiệp thời vụ."
+],
+"rank": null
+},
+{
+"word": "secondary sector",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"The sector of the economy that principally uses raw materials produced by the primary sector for sale and use by other sectors."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "second best",
+"pos": "adj",
+"domains": [
+"economics"
+],
+"glosses": [
+"Inferior to the best (but better than other alternatives).",
+"Characterized by one or more optimality conditions not being satisfiable."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "service economy",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"An economy based on service sector, such as: financial services, hospitality, retail, health, human services, information technology and education."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "services",
+"pos": "noun",
+"domains": [
+"business",
+"economics"
+],
+"glosses": [
+"That which is produced, then traded, bought or sold, then finally consumed and consists of an action or work.",
+"A service station."
+],
+"vi_hint": [
+"Các dịch vụ."
+],
+"rank": null
+},
+{
+"word": "severable",
+"pos": "adj",
+"domains": [
+"economics"
+],
+"glosses": [
+"Capable of being severed.",
+"Capable of being separated."
+],
+"vi_hint": [
+"Có thể chia rẽ được.",
+"Có thể cắt đứt được."
+],
+"rank": null
+},
+{
+"word": "shadow price",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"A price for a resource, good, or service which is not based on actual market exchanges, but is mathematically derived from indirect data obtained from related markets."
+],
+"vi_hint": [
+"Giá bóng."
+],
+"rank": null
+},
+{
+"word": "shadow price",
+"pos": "verb",
+"domains": [
+"economics"
+],
+"glosses": [
+"To calculate a shadow price for."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "sharing economy",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"A system of economic exchange in which participants interact in a direct and cooperative manner, often with the aid of social media, to produce, market, and consume goods, services, and resources."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "shock therapy",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"The use of a single, very large dose of a medicine.",
+"A government policy of a sudden release of price controls and immediate trade liberalization within a country.",
+"Synonym of electroconvulsive therapy."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "shrinkflation",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"The practice of making products smaller while continuing to market them at the same price."
+],
+"vi_hint": [],
+"rank": null
+}
+]

@@ -1,0 +1,264 @@
+[
+{
+"word": "unit price",
+"pos": "noun",
+"domains": [
+"business",
+"marketing"
+],
+"glosses": [
+"The price of a standard amount of a good, as of weight or volume. (For example, if the price of a package of biscuits is 100 pesos and the package's net weight is 250 grams, then the biscuits' unit price per kilo is 400 "
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "used bookstore",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"A bookstore that principally sells secondhand or used books."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "value chain",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"A progression of activities that businesses or firms perform in order to deliver goods and services of value to an end consumer."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "value proposition",
+"pos": "noun",
+"domains": [
+"business",
+"management"
+],
+"glosses": [
+"The benefit (such as profit or convenience) offered by an organisation's product or service."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "venture capital",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"Money invested in an innovative enterprise in which both the potential for profit and the risk of loss are considerable."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "vertically integrated",
+"pos": "adj",
+"domains": [
+"business"
+],
+"glosses": [
+"Of a company, controlling multiple stages of its supply chain, from raw materials to the final product."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "war profiteer",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"A person or group that gains a significant amount of revenue from selling weapons and military equipment."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "webstore",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"A sales outlet which supplies goods or services over the World Wide Web."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "white knight",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"An individual or corporation that intends to acquire another company in order to avert a hostile takeover.",
+"A hero, savior, or righteous individual.",
+"Someone who unnecessarily defends someone else.",
+"A man who defends a woman in debate etc. in an attempt to gain her favour.",
+"A mushroom of species Tricholoma album.",
+"Used other than figuratively or idiomatically: see white, knight."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "white knight",
+"pos": "verb",
+"domains": [
+"business"
+],
+"glosses": [
+"To unnecessarily defend someone, especially in an attempt to gain favour."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "white space",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"White area between written characters and graphic regions on a produced page or computer display; blanks and the vertical blank lines in between paragraphs, or other organized rows of text lines (poetry).",
+"A contiguous collection of one or more characters that each represents horizontal or vertical space in typography.",
+"Free time seen as an opportunity for gainful activity."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "without cause",
+"pos": "prep_phrase",
+"domains": [
+"business"
+],
+"glosses": [
+"Without any reason or justification."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "astroturfing",
+"pos": "noun",
+"domains": [
+"marketing"
+],
+"glosses": [
+"The disguising of an orchestrated campaign as a \"grass-roots\" event, i.e., a spontaneous upwelling of public opinion."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "beer garden",
+"pos": "noun",
+"domains": [
+"marketing"
+],
+"glosses": [
+"The outdoor section of a public house, where customers can sit in the sun and enjoy their beverages. In Bavaria (Germany) often under horse chestnut trees, where you are allowed to bring your own food if you consume the ",
+"A restobar, a pub restaurant, a restaurant known for serving beer and food."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "below the line",
+"pos": "adv",
+"domains": [
+"marketing"
+],
+"glosses": [
+"Pertaining to points scored for tricks bid and won, which count towards game.",
+"Taking place underneath an online article, video or other item of content, as part of a comments section or related discussion forum.",
+"Targeting specific demographics through trade shows, search engine advertising, etc. rather than the mainstream media.",
+"Who do not guide and influence the creative direction, process, and voice of a given narrative in a film, such as the boom operators, hair stylists, and location managers.",
+"Of expenses: paid for standard ongoing concerns such as insurance and technical equipment and crew."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "best-selling",
+"pos": "adj",
+"domains": [
+"marketing"
+],
+"glosses": [
+"Highly popular with consumers purchasing goods within a specific class."
+],
+"vi_hint": [
+"Bán được nhiều, bán chạy, rất được ưa chuộng."
+],
+"rank": null
+},
+{
+"word": "call to action",
+"pos": "noun",
+"domains": [
+"marketing"
+],
+"glosses": [
+"An appeal for action.",
+"A design (words, picture, or otherwise) to prompt an immediate response or encourage an immediate sale."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "cannibalization",
+"pos": "noun",
+"domains": [
+"marketing"
+],
+"glosses": [
+"the act of consuming another individual of the same species as food",
+"adapting, borrowing or stealing plots, characters, themes or ideas from one story for use in another or from one medium to another",
+"a reduction in sales volume, sales revenue, or market share of one product when the same company introduces a new product",
+"the practice of removing parts or subsystems necessary for repair from another similar device"
+],
+"vi_hint": [
+"Sự ăn thịt người."
+],
+"rank": null
+},
+{
+"word": "classified advertisement",
+"pos": "noun",
+"domains": [
+"marketing"
+],
+"glosses": [
+"Any of a list of newspaper or website advertisements included with others under a heading describing the category of product or service offered or sought."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "clickbait",
+"pos": "noun",
+"domains": [
+"marketing"
+],
+"glosses": [
+"Website content that is aimed at generating advertising revenue, especially at the expense of quality or accuracy, relying on sensationalist headlines to attract click-throughs; such headlines."
+],
+"vi_hint": [],
+"rank": null
+}
+]

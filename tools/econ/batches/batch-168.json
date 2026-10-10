@@ -1,0 +1,285 @@
+[
+{
+"word": "time in",
+"pos": "verb",
+"domains": [
+"business"
+],
+"glosses": [
+"To record the start of one's day or shift at work."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "time off",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"A period of time where one is not required to work."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "time out",
+"pos": "intj",
+"domains": [
+"business"
+],
+"glosses": [
+"To call for a time-out.",
+"To call for a suspension of activity or conversation.",
+"Used to announce the end of time in and the beginning of time out."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "time out",
+"pos": "verb",
+"domains": [
+"business"
+],
+"glosses": [
+"To end (an incomplete task) after a time limit.",
+"Of a task, to be terminated because it was not completed before a time limit.",
+"To record the end of one's day or shift at work.",
+"To declare (the batsman) out for having taken longer than two minutes to appear on the field."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "time-share",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"A property jointly owned or leased by multiple people who are allowed to use (or sublet) it only during specified periods each year."
+],
+"vi_hint": [
+"(kinh doanh, bất động sản) Bất động sản được nhiều người chung nhau sở hữu hoặc thuê, với quyền sử dụng (hoặc cho thuê lại) giới hạn trong các khoảng thời gian cố định mỗi năm."
+],
+"rank": null
+},
+{
+"word": "time-share",
+"pos": "verb",
+"domains": [
+"business"
+],
+"glosses": [
+"To own or lease (a property) by time-sharing.",
+"To use (a computer or communications band) by time-sharing."
+],
+"vi_hint": [
+"(ngoại động từ) Sở hữu hoặc thuê (bất động sản) theo hình thức sở hữu kỳ nghỉ (time-sharing).",
+"(ngoại động từ, máy tính) Sử dụng (máy tính hoặc băng tần truyền thông) theo phương pháp chia sẻ thời gian (time-sharing)."
+],
+"rank": null
+},
+{
+"word": "time-sharing",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"The joint ownership or lease of a property by multiple people who can only use it for specified periods every year, or every other year.",
+"A technique that allows many users to use a central computer simultaneously through remote terminals."
+],
+"vi_hint": [
+"Việc sử dụng đồng thời.",
+"Việc chia phiên sử dụng."
+],
+"rank": null
+},
+{
+"word": "timesheet",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"A document that allows for the recording of hours worked on various tasks that is used as input for payroll, project accounting or client billing processes."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "top of mind",
+"pos": "adj",
+"domains": [
+"business"
+],
+"glosses": [
+"Foremost in one's thoughts; of greatest concern or priority."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "touchpoint",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"A physical point of contact; a surface that is regularly touched by people.",
+"An encounter where customers and business engage to exchange information, provide services, or handle transactions.",
+"A point where things touch."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "trade secret",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"A type of intellectual property comprising confidential business information that provides a company with a competitive edge."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "triple bill",
+"pos": "verb",
+"domains": [
+"business"
+],
+"glosses": [
+"To charge three times for a good or service."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "Trojan horse",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"A subversive person or device placed within the ranks of the enemy.",
+"A malicious program that is disguised as legitimate software.",
+"A seemingly favorable offer designed to trick customers into making exorbitant payments.",
+"A person, organization, social movement, piece of legislation, or ideology with a negative agenda or evil intentions under the guise of positive values or good intentions."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "trunking",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"All the electrical and communications cables bundled together and distributed through a building.",
+"The movement of containers or packages between a terminal and a transporter's inland facilities, or the scheduled transportation service between locations.",
+"A system of ducts for cables, heating or ventilation.",
+"Plastic conduit or duct used to conceal and protect electrical wiring.",
+"A two-way radio technique that uses a control channel to automatically assign frequency channels to groups of user radios."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "trunking",
+"pos": "verb",
+"domains": [
+"business"
+],
+"glosses": [
+"Riding in the trunk of a car."
+],
+"vi_hint": [
+"Dạng phân từ hiện tại và danh động từ (gerund) của trunk."
+],
+"rank": null
+},
+{
+"word": "turn around",
+"pos": "verb",
+"domains": [
+"business",
+"management"
+],
+"glosses": [
+"To physically rotate (usually around a vertical axis) for a half turn (180 degrees), a whole turn (360 degrees), or an indefinite amount.",
+"To change drastically in a fundamental way, often for the better; to change to the opposite (opinion or position).",
+"To reverse an expected outcome (of a game, etc.), usually from a losing outcome to a winning one; to return (a business, department, etc.) to effectiveness, profitability, etc.",
+"To convert (an agent) to work for one's own side.",
+"To suddenly change or reverse one's opinion, point of view, stated position, behaviour, etc.",
+"To consider from a different viewpoint.",
+"(often with a unit of time) To produce; to output; to generate."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "turn over",
+"pos": "verb",
+"domains": [
+"business"
+],
+"glosses": [
+"To flip over; to rotate uppermost to bottom.",
+"To relinquish; give back.",
+"To transfer.",
+"To produce, complete, or cycle through.",
+"To generate (a certain amount of money from sales).",
+"To mull, ponder",
+"To spin the crankshaft of an internal combustion engine using the starter or hand crank in an attempt to make it run.",
+"To give up control (of the ball and thus the ability to score)."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "Uberization",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"The transformation of an existing industry or economy with the help of computing platforms, especially mobile applications, and temporary employment schemes."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "unbilled",
+"pos": "adj",
+"domains": [
+"business"
+],
+"glosses": [
+"Not yet having been billed.",
+"Not on the billing at a festival."
+],
+"vi_hint": [
+"Không được quảng cáo, không đăng quảng cáo; không có tên trong danh."
+],
+"rank": null
+},
+{
+"word": "underpromise and overdeliver",
+"pos": "proverb",
+"domains": [
+"business"
+],
+"glosses": [
+"Improve business interactions and relationships with customers by setting modest expectations and then exceeding those expectations by delivering more than what was initially promised or expected."
+],
+"vi_hint": [],
+"rank": null
+}
+]

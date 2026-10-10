@@ -1,0 +1,272 @@
+[
+{
+"word": "anarcho-communism",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"A form of anarchism advocating the abolition of the state and capitalism in favor of a horizontal network of voluntary associations through which people would satisfy their needs."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "anarcho-communist",
+"pos": "adj",
+"domains": [
+"economics"
+],
+"glosses": [
+"Of, supporting, relating to, or advocating anarcho-communism."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "anarcho-communist",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"A person who advocates anarcho-communism."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "animal spirits",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"The theorized ‘spirits’ or physiological principles which allowed for sensation and voluntary movement.",
+"Liveliness, vivacity, a happy tendency to action.",
+"After Keynes (citation 1936, above), the emotional and intuitive factors that drive business decisions whether to make investment gambles."
+],
+"vi_hint": [
+"Tinh thần bầy đàn; Tâm lý hùa theo."
+],
+"rank": null
+},
+{
+"word": "anticompetitive",
+"pos": "adj",
+"domains": [
+"business",
+"economics"
+],
+"glosses": [
+"Acting to hinder or obstruct competition."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "antidumping",
+"pos": "adj",
+"domains": [
+"economics"
+],
+"glosses": [
+"Intended to combat or prevent dumping (the sale of goods below cost for anticompetitive purposes)."
+],
+"vi_hint": [
+"Chống phá giá hàng hoá."
+],
+"rank": null
+},
+{
+"word": "anti-inflationary",
+"pos": "adj",
+"domains": [
+"economics"
+],
+"glosses": [
+"Intended to counteract or reverse inflation or its effects."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "antimonopolistic",
+"pos": "adj",
+"domains": [
+"economics"
+],
+"glosses": [
+"Opposing monopolies."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "applied economics",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"The application of economic theory and econometrics in specific settings."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "autarky",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"A personal condition or state of self-reliance; independence.",
+"(A policy of) national economic self-sufficiency, aimed at ending reliance on foreign imports to sustain a domestic economy.",
+"A self-sufficient country or region which is not dependent on international trade to function economically."
+],
+"vi_hint": [
+"Chính sách tự cấp tự túc; sự tự cấp tự túc."
+],
+"rank": null
+},
+{
+"word": "balance of trade",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"The difference between the monetary value of exports and imports in an economy over a certain period of time."
+],
+"vi_hint": [
+"Cán cân thương mại."
+],
+"rank": null
+},
+{
+"word": "bank rate",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"The rate of interest that a central bank charges when it lends money to another bank"
+],
+"vi_hint": [
+"Tỷ lệ chiết khấu chính thức của ngân hàng ANH."
+],
+"rank": null
+},
+{
+"word": "base year",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"a year chosen for comparison with other years, in statistical analysis and various indices, such as a price index. It usually has an arbitrary value of 100 to make percentage comparisons easier. A new base year can be ch"
+],
+"vi_hint": [
+"Năm gốc, năm cơ sở."
+],
+"rank": null
+},
+{
+"word": "bimetallism",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"The use of a monetary standard based upon two different metals, traditionally gold and silver usually in a fixed ratio of values."
+],
+"vi_hint": [
+"Chế độ hai bản vị (về tiền tệ)."
+],
+"rank": null
+},
+{
+"word": "bliss point",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"A quantity of consumption where any further increase would make the consumer less satisfied.",
+"The amount of an ingredient (such as salt, sugar, or fat) that optimizes palatability."
+],
+"vi_hint": [
+"Điểm cực mãn; Điểm hoàn toàn thoả mãn."
+],
+"rank": null
+},
+{
+"word": "bloom is off the rose",
+"pos": "phrase",
+"domains": [
+"business",
+"economics"
+],
+"glosses": [
+"The person, object, or situation identified in the context has lost its novelty, freshness, appeal, or acceptability.",
+"Business is not going well for a particular identified firm or industry, or the overall economy has taken a downturn."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "bullionism",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"An economic theory that defines wealth by the amount of precious metals owned; a primitive form of mercantilism."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "business cycle",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"A long-term fluctuation in economic activity between growth and recession."
+],
+"vi_hint": [
+"Chu kỳ kinh doanh."
+],
+"rank": null
+},
+{
+"word": "buy out",
+"pos": "verb",
+"domains": [
+"economics"
+],
+"glosses": [
+"to purchase the entire stock or extent of something",
+"to purchase the ownership of a company",
+"To close someone's contract by paying him or her a sum of money, the terms of which are often stated in the contract itself.",
+"To gain release for (a person) from military service by payment of money.",
+"To avoid a punishment or escape a difficult situation."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "capital flight",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"The rapid flow of money or assets out of a country in response to globalization or some other economic event."
+],
+"vi_hint": [],
+"rank": null
+}
+]

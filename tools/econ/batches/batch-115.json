@@ -1,0 +1,299 @@
+[
+{
+"word": "capital gain",
+"pos": "noun",
+"domains": [
+"business",
+"economics",
+"finance"
+],
+"glosses": [
+"An increase in the value of a capital asset; an amount by which the value or the proceeds of the sale of a capital asset by its owner exceed its cost to the owner."
+],
+"vi_hint": [
+"Khoản lãi vốn."
+],
+"rank": null
+},
+{
+"word": "capital good",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"A durable item that is used in the production of other goods or services."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "capital loss",
+"pos": "noun",
+"domains": [
+"business",
+"economics",
+"finance"
+],
+"glosses": [
+"A decrease in the value of a capital asset; an amount by which the proceeds of the sale of a capital asset by its owner are less than its cost to the owner."
+],
+"vi_hint": [
+"Khoản lỗ vốn."
+],
+"rank": null
+},
+{
+"word": "casualisation",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"The process by which employment shifts from a preponderance of full-time and permanent or contract positions to higher levels of casual positions.",
+"The process of making anything casual."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "circular economy",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"An industrial economy that aims to reduce waste and pollution by means of reuse, recycling, etc."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "clear the market",
+"pos": "verb",
+"domains": [
+"economics"
+],
+"glosses": [
+"To equate the supply of traded goods with the demand, so that there is no excess."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "cliometrics",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"The use of econometrics to study economic history."
+],
+"vi_hint": [
+"Sử lượng."
+],
+"rank": null
+},
+{
+"word": "closed loop",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"A path whose initial point is equal to its terminal point.",
+"A closed-loop transfer function.",
+"An electronic feedback loop.",
+"A PID controller.",
+"A closed ecological system.",
+"Closed-loop communication.",
+"The process of pulling water from one area of a reef aquarium and pumping it immediately elsewhere in the tank to create higher flow and minimize dead spots.",
+"An economy in which materials are consistently reused rather than discharged as waste."
+],
+"vi_hint": [
+"Vòng kín, vòng đóng."
+],
+"rank": null
+},
+{
+"word": "club good",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"A good that is nonrivalrous and excludable."
+],
+"vi_hint": [
+"Hàng hoá club; Hàng hoá bán công cộng."
+],
+"rank": null
+},
+{
+"word": "coemption",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"The buying of the entire supply of a commodity.",
+"A form of civil marriage (in Roman law) in which a fictitious sale of the man and wife took place."
+],
+"vi_hint": [
+"Sự mua vét."
+],
+"rank": null
+},
+{
+"word": "coincident indicator",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"A metric showing the contemporaneous state of economic activity within a particular area."
+],
+"vi_hint": [
+"Chỉ số báo trùng hợp."
+],
+"rank": null
+},
+{
+"word": "collectivist anarchist",
+"pos": "adj",
+"domains": [
+"economics"
+],
+"glosses": [
+"Of, supporting, relating to, or advocating collectivist anarchism."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "command economy",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"A planned economy in which the government (or some other central authority) is solely responsible for resource allocation, distribution and the setting of prices, with little to no market influence.",
+"A planned economy."
+],
+"vi_hint": [
+"Nền kinh tế chỉ huy."
+],
+"rank": null
+},
+{
+"word": "common good",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"The general interest of the population as a whole.",
+"A good that is rivalrous and nonexcludable.",
+"The corporate property of a burgh in Scotland."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "comparative advantage",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"The ability to produce a particular good at a lower relative opportunity cost than another producer."
+],
+"vi_hint": [
+"Lợi thế so sánh."
+],
+"rank": null
+},
+{
+"word": "competitive advantage",
+"pos": "noun",
+"domains": [
+"business",
+"economics"
+],
+"glosses": [
+"An attribute that allows a company or a person to outperform competitors."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "conservative",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"A person who favors maintenance of the status quo.",
+"One who seeks to promote or preserve traditional values or institutions.",
+"One who seeks to promote traditions in a particular domain (e.g. a fiscal conservative or a social conservative)."
+],
+"vi_hint": [
+"Người bảo thủ, người thủ cựu.",
+"Người theo chủ nghĩa bảo thủ, chủ nghĩa bảo tôn",
+"Đảng viên đảng bảo thủ (Anh)."
+],
+"rank": null
+},
+{
+"word": "conservative",
+"pos": "adj",
+"domains": [
+"economics"
+],
+"glosses": [
+"Cautious, moderate.",
+"Tending to resist change or innovation.",
+"Based on pessimistic assumptions, and on the low side.",
+"Supporting some combination of fiscal, political or social conservatism.",
+"Relating to the Conservative Party.",
+"Neither creating nor destroying a given quantity.",
+"Having power to preserve in a safe or entire state, or from loss, waste, or injury; preservative.",
+"Relating to Conservative Judaism."
+],
+"vi_hint": [
+"Để giữ gìn, để duy trì, để bảo tồn, để bảo toàn.",
+"Bảo thủ, thủ cựu.",
+"Thận trọng, dè dặt; vừa phải, phải chăng."
+],
+"rank": null
+},
+{
+"word": "consumer credit",
+"pos": "noun",
+"domains": [
+"banking",
+"economics"
+],
+"glosses": [
+"Credit extended to an individual for the purchase of consumer goods and services."
+],
+"vi_hint": [
+"Tín dụng tiêu dùng."
+],
+"rank": null
+},
+{
+"word": "consumer price index",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"A statistical estimate of the level of prices of goods and services bought for consumption purposes by households."
+],
+"vi_hint": [
+"Chỉ số giá tiêu dùng."
+],
+"rank": null
+}
+]

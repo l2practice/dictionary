@@ -109,7 +109,7 @@
       ui.lang = (st.ui_lang as UiLang) ?? (IS_WEB && navigator.language?.toLowerCase().startsWith("vi") ? "vi" : "en");
       theme = (st.theme as typeof theme) ?? "auto";
       palette = PALETTES.some((x) => x.id === st.palette) ? (st.palette as Palette) : "orange";
-      mode = (st.mode as Mode) ?? "envi";
+      mode = st.mode === "en" ? "en" : "envi"; // chiều tra tự nhận theo chữ gõ; "en" chỉ còn nghĩa là ẩn tiếng Việt (nút VI)
       fontSize = Number(st.font_size ?? 16) || 16;
       accent = (st.accent as Accent) ?? "us";
       if (st.closed !== undefined) closed = new Set(st.closed.split(",").filter(Boolean));
@@ -701,7 +701,7 @@
         oninput={onInput}
         onkeydown={onKey}
         onblur={() => setTimeout(() => (sugOpen = false), 150)}
-        placeholder={mode === "vien" ? t("searchPlaceholderVi") : IS_WEB ? t("searchPlaceholderWeb") : t("searchPlaceholder")}
+        placeholder={t("searchPlaceholderWeb")}
         spellcheck="false"
         autocomplete="off"
         autocapitalize="off"
@@ -734,12 +734,6 @@
           {/each}
         </ul>
       {/if}
-    </div>
-
-    <div class="modes" role="tablist" aria-label={t("modeLabel")}>
-      <button class:on={mode === "en"} onclick={() => setMode("en")}>{t("modeEn")}</button>
-      <button class:on={mode === "envi"} onclick={() => setMode("envi")}>{t("modeEnVi")}</button>
-      <button class:on={mode === "vien"} onclick={() => setMode("vien")}>{t("modeViEn")}</button>
     </div>
 
     <div class="uilang" role="group" aria-label={t("uiLangTitle")} title={t("uiLangTitle")}>

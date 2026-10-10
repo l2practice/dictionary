@@ -1,0 +1,279 @@
+[
+{
+"word": "bankability",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"The state or condition of being bankable."
+],
+"vi_hint": [
+"Xem bankable"
+],
+"rank": null
+},
+{
+"word": "barrier to entry",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"An impediment that prohibits the use, adoption, application, etc. of (something).",
+"A cost that must be incurred by a new entrant into a market, but which does not apply to incumbents.",
+"Used other than figuratively or idiomatically: see barrier, to, entry."
+],
+"vi_hint": [
+"(tài chính) Rào cản gia nhập; rào cản nhập ngành."
+],
+"rank": null
+},
+{
+"word": "base rate",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A benchmark interest rate, from which other interest rates are calculated; a policy rate.",
+"Especially, the interest rate at which the Bank of England lends money to commercial banks.",
+"The background rate of occurrence of any phenomenon, which informs any logical analysis of its rate of occurrence under any subset of circumstances; especially, the proportion of individuals in a population who have a ce"
+],
+"vi_hint": [
+"Lãi suất gốc."
+],
+"rank": null
+},
+{
+"word": "basis point",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"One hundredth of one percentage point."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "bearer bond",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A negotiable loan instrument payable to its holder (bearer) by the issuer according to preset conditions. The owner must safeguard bearer bonds to prevent loss; interest is usually paid by coupon redemptions."
+],
+"vi_hint": [
+"(tài chính) Trái phiếu vô danh."
+],
+"rank": null
+},
+{
+"word": "bear market",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A stock market where a majority of investors are selling (\"bears\"), causing overall stock prices to drop. Often operationally defined as a market value drop of 20% or more on some specific stock market index.",
+"Used other than figuratively or idiomatically: see bear, market."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "bellwether",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"The leading sheep of a flock, having a bell hung round its neck.",
+"Anything that indicates future trends.",
+"A stock whose price performance is treated as an indicator of the likely direction of a broader market, sector, or industry."
+],
+"vi_hint": [
+"Cừu đầu đoàn có đeo chuông.",
+"Vật chỉ ra xu hướng mai mốt.",
+"Cổ phần hay trái phiếu được cho rộng rãi là có thể chỉ ra tình trạng của thị trường."
+],
+"rank": null
+},
+{
+"word": "bid-ask spread",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"The difference between the prices quoted (by a market maker or an order book) for an immediate sale (\"offer\") and an immediate purchase (\"bid\") for stocks, futures contracts, options, or currency pairs."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "bidding price",
+"pos": "noun",
+"domains": [
+"business",
+"finance"
+],
+"glosses": [
+"A price offered by a buyer or bidder when purchasing a good."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "bid down",
+"pos": "verb",
+"domains": [
+"finance"
+],
+"glosses": [
+"To lower the price of (something, such as a financial security or a contract) by bidding lower and lower prices.",
+"To bid by offering low interest rates on a lien, such that the lowest bidder will win."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "bill of sale",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A formal instrument for the conveyance or transfer of goods and chattels."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "bitcoin",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A unit of the bitcoin (proper noun proper noun sense 1) cryptocurrency."
+],
+"vi_hint": [
+"Tiền ảo."
+],
+"rank": null
+},
+{
+"word": "blue chip",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A high-value poker chip.",
+"A stock or other investment that has a high price because of its perceived reliability.",
+"Synonym of blue-chipper."
+],
+"vi_hint": [
+"Cổ phần xanh."
+],
+"rank": null
+},
+{
+"word": "book value",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"The value of an asset as reflected on an entity's accounting books, without accounting for appreciation or depreciation.",
+"The price for which an item or service should be bought or sold, usually as related in a printed collection of prices for similar items or services."
+],
+"vi_hint": [
+"Giá trị sổ sách, giá trị ghi sổ."
+],
+"rank": null
+},
+{
+"word": "bounced cheque",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A cheque returned by the bank due to insufficient funds."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "break the buck",
+"pos": "verb",
+"domains": [
+"finance"
+],
+"glosses": [
+"To fall below the value of one dollar per share."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "bridge loan",
+"pos": "noun",
+"domains": [
+"business",
+"finance"
+],
+"glosses": [
+"A sum of money loaned or borrowed for a short period of time in order to cover expenses until new expected funds become available."
+],
+"vi_hint": [
+"Khoản vay bắc cầu."
+],
+"rank": null
+},
+{
+"word": "budget deficit",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"The amount by which spending exceeds revenue."
+],
+"vi_hint": [
+"Thâm hụt ngân sách."
+],
+"rank": null
+},
+{
+"word": "bull market",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A stock market where a majority of investors are buying (\"bulls\"), causing overall stock prices to rise.",
+"Used other than figuratively or idiomatically: see bull, market."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "bull run",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"An event in which people run with bulls in the streets.",
+"A contiguous period during which a stock market is a bull market."
+],
+"vi_hint": [],
+"rank": null
+}
+]

@@ -1,0 +1,274 @@
+[
+{
+"word": "crowd in",
+"pos": "verb",
+"domains": [
+"finance"
+],
+"glosses": [
+"To squeeze a large number of people in a small space.",
+"To close in and come to surround.",
+"To increase investment in the private sector by investing public sector funds."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "cryptocurrency wallet",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A device, program or a service which stores the public or private keys for cryptocurrency transactions."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "CTO",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A cancelled-to-order postage stamp."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "cum dividend",
+"pos": "adj",
+"domains": [
+"finance"
+],
+"glosses": [
+"Of a declared dividend, belonging to the buyer rather than the seller."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "currency risk",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A form of risk resulting from changes of currency exchange rates."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "day trade",
+"pos": "verb",
+"domains": [
+"business",
+"finance"
+],
+"glosses": [
+"To engage, as a deliberate investment strategy, in the very short-term trading of stocks or other securities, by selling any given security within the same market day during which it was purchased."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "debit card",
+"pos": "noun",
+"domains": [
+"banking",
+"finance"
+],
+"glosses": [
+"A card similar to a credit card, but which withdraws funds directly from the bank account, rather than borrowing the funds from the issuer of the card."
+],
+"vi_hint": [
+"(ngân hàng) Thẻ ghi nợ."
+],
+"rank": null
+},
+{
+"word": "decliner",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"One who declines.",
+"A company's stock which is falling in price.",
+"A species that is undergoing population decline."
+],
+"vi_hint": [
+"Xem decline"
+],
+"rank": null
+},
+{
+"word": "defalcate",
+"pos": "verb",
+"domains": [
+"finance"
+],
+"glosses": [
+"To misappropriate funds; to embezzle."
+],
+"vi_hint": [
+"Tham ô, thụt két, biển thủ."
+],
+"rank": null
+},
+{
+"word": "depositary receipt",
+"pos": "noun",
+"domains": [
+"banking",
+"finance"
+],
+"glosses": [
+"A financial instrument, issued by a bank, that may be traded as if it were a share in a foreign company."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "deposit money",
+"pos": "noun",
+"domains": [
+"banking",
+"finance"
+],
+"glosses": [
+"Demand deposits at a financial institution which can be used as money by drawing checks."
+],
+"vi_hint": [
+"Tiền gửi ngân hàng."
+],
+"rank": null
+},
+{
+"word": "discount house",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A bank or company on the discount market that offers discounted bills of exchange, in particular treasury bills."
+],
+"vi_hint": [
+"Hãng chiết khấu."
+],
+"rank": null
+},
+{
+"word": "discount market",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"Banks, discount houses, and bill brokers that offer discounted bills of exchange by borrowing money at short notice."
+],
+"vi_hint": [
+"Thị trường chiết khấu."
+],
+"rank": null
+},
+{
+"word": "discount rate",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"An interest rate that a central bank charges depository institutions that borrow reserves from it.",
+"The interest rate used to discount future cashflows of a financial instrument; the annual interest rate used to decrease the amounts of future cashflows to yield their present value."
+],
+"vi_hint": [
+"Tỉ lệ chiết khấu; suất chiết khấu."
+],
+"rank": null
+},
+{
+"word": "do a bit of stiff",
+"pos": "verb",
+"domains": [
+"finance"
+],
+"glosses": [
+"To accept or discount a bill."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "don't fight the tape",
+"pos": "proverb",
+"domains": [
+"finance"
+],
+"glosses": [
+"Do not bet or trade against the trend in the financial markets."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "down payment",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A payment representing a fraction of the price of something being purchased, made to secure the right to continue making payments towards that purchase.",
+"Any initial commitment signifying an intention to carry out a larger future commitment, even though no legal rights or obligations are secured."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "due date",
+"pos": "noun",
+"domains": [
+"banking",
+"finance"
+],
+"glosses": [
+"The date on which a pregnant female is expected to give birth, which is determined by the term for the species.",
+"The date of payment in financial arrangements.",
+"The date by which a book (or other item) borrowed from a library must be returned.",
+"The date by which a task is supposed to be completed."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "Elliott wave",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A wave pattern used in some forms of technical analysis of securities prices."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "encashment",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"The act of encashing; the exchange for money of a check, draft, etc."
+],
+"vi_hint": [
+"Sự lĩnh (séc, tiền).",
+"Sự thu (séc, tiền).",
+"Sự đổi lấy tiền mặt (hối phiếu... )."
+],
+"rank": null
+}
+]

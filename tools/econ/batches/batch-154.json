@@ -1,0 +1,270 @@
+[
+{
+"word": "made of money",
+"pos": "adj",
+"domains": [
+"money"
+],
+"glosses": [
+"Very rich."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "make a killing",
+"pos": "verb",
+"domains": [
+"money"
+],
+"glosses": [
+"To win or earn a large amount of money."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "mali",
+"pos": "noun",
+"domains": [
+"money"
+],
+"glosses": [
+"A member of a caste in South Asia whose traditional occupation is gardening; hence, any South Asian gardener."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "manilla",
+"pos": "noun",
+"domains": [
+"money"
+],
+"glosses": [
+"A penannular armlet, sometimes worn on the leg or neck or used as an ornament, mostly in bronze, copper or gold, which served as a form of money or barter coinage amongst certain West African peoples."
+],
+"vi_hint": [
+"Sợi cây chuối sợi (để bện thừng) ((cũng) manila hemp).",
+"Xì gà mani."
+],
+"rank": null
+},
+{
+"word": "mint sauce",
+"pos": "noun",
+"domains": [
+"money"
+],
+"glosses": [
+"A sauce, made with mint and vinegar, that is a popular accompaniment to roast lamb.",
+"Money."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "money bag",
+"pos": "noun",
+"domains": [
+"money"
+],
+"glosses": [
+"A bag, normally with a drawstring, used for holding money.",
+"A wealthy person."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "money can't buy happiness",
+"pos": "proverb",
+"domains": [
+"money"
+],
+"glosses": [
+"Money can purchase external things, but true happiness comes from within oneself."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "money changer",
+"pos": "noun",
+"domains": [
+"money"
+],
+"glosses": [
+"A person who will exchange currency of one type for another for a fee or percentage.",
+"A portable device for dispensing change."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "money doesn't grow on trees",
+"pos": "proverb",
+"domains": [
+"money"
+],
+"glosses": [
+"Wealth cannot be obtained without some effort; hence currency is not always available for a prospective purchase."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "money is the root of all evil",
+"pos": "proverb",
+"domains": [
+"money"
+],
+"glosses": [
+"The desire for money is the root cause of all evil."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "money-spinner",
+"pos": "noun",
+"domains": [
+"money"
+],
+"glosses": [
+"Something that generates a continuous income.",
+"A money spider."
+],
+"vi_hint": [
+"Con nhện đỏ (đem lại may mắn).",
+"Người phát tài to, người vớ bẩm; món làm cho phát tài to."
+],
+"rank": null
+},
+{
+"word": "Monopoly money",
+"pos": "noun",
+"domains": [
+"money"
+],
+"glosses": [
+"Play money.",
+"Banknotes of foreign currency; especially those which are vibrant or flimsy.",
+"Money, especially paper money, that is perceived to have little or no value, or to be distributed freely.",
+"Money that does not exist; referring to fraudulent record keeping."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "moola",
+"pos": "noun",
+"domains": [
+"money"
+],
+"glosses": [
+"Money, cash."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "oncer",
+"pos": "noun",
+"domains": [
+"money"
+],
+"glosses": [
+"A one-pound note.",
+"A person who does something once.",
+"A single sexual encounter between two individuals, a one-night stand.",
+"A person with whom one shares a single sexual encounter, a one-night stand."
+],
+"vi_hint": [
+"Người chỉ đi lễ ngày chủ nhật."
+],
+"rank": null
+},
+{
+"word": "on the breadline",
+"pos": "prep_phrase",
+"domains": [
+"money"
+],
+"glosses": [
+"In a situation of extreme poverty; relying on food donations or having only enough to survive."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "paper money",
+"pos": "noun",
+"domains": [
+"money"
+],
+"glosses": [
+"Cash in the form of banknotes.",
+"A type of joss paper resembling banknotes burnt to venerate the deceased, ancestor spirits, deities, etc."
+],
+"vi_hint": [
+"Tiền giấy."
+],
+"rank": null
+},
+{
+"word": "pay gap",
+"pos": "noun",
+"domains": [
+"money"
+],
+"glosses": [
+"The difference in salaries between one group and another."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "pay through the nose",
+"pos": "verb",
+"domains": [
+"money"
+],
+"glosses": [
+"To pay an exorbitant or excessive amount, either in money or in some other manner."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "pelf",
+"pos": "noun",
+"domains": [
+"money"
+],
+"glosses": [
+"Money, riches; gain, especially when dishonestly acquired; lucre, mammon.",
+"Rubbish, trash; specifically (UK, dialectal) refuse from plants.",
+"Dust; fluff.",
+"A contemptible or useless person."
+],
+"vi_hint": [
+"Luội(đùa cợt) tiền, của."
+],
+"rank": null
+},
+{
+"word": "petrodollar",
+"pos": "noun",
+"domains": [
+"money"
+],
+"glosses": [
+"Money (either notionally or specifically in dollars or other currencies) earned from the sale of oil, often especially as considered among a national economy's principal revenue streams."
+],
+"vi_hint": [
+"Đồng đô la dầu mỏ."
+],
+"rank": null
+}
+]

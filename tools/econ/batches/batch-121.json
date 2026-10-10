@@ -1,0 +1,275 @@
+[
+{
+"word": "inferior good",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"A good that decreases in demand when consumer income rises; having a negative income elasticity of demand."
+],
+"vi_hint": [
+"Hàng hoá hạ đẳng; hàng hoá thứ cấp."
+],
+"rank": null
+},
+{
+"word": "inflater",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"Someone who inflates.",
+"A pump, canister or other source of pressurised gas used to inflate tires.",
+"A cause of inflation."
+],
+"vi_hint": [
+"Xem inflate"
+],
+"rank": null
+},
+{
+"word": "inflationary spiral",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"A pattern of economic inflation in which higher wages lead to higher prices, which lead to higher wages, and so on."
+],
+"vi_hint": [
+"Vòng xoáy ốc của lạm phát."
+],
+"rank": null
+},
+{
+"word": "inflationism",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"A policy or belief that encourages inflation."
+],
+"vi_hint": [
+"Chính sách lạm phát."
+],
+"rank": null
+},
+{
+"word": "inside lag",
+"pos": "noun",
+"domains": [
+"banking",
+"economics"
+],
+"glosses": [
+"The amount of time it takes for the government or the central bank to respond to a shock in the economy."
+],
+"vi_hint": [
+"Độ trễ bên trong."
+],
+"rank": null
+},
+{
+"word": "integrability",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"The quality of being integrable (having an antidifference or antiderivative).",
+"The recoverability of preferences from a Walrasian demand function."
+],
+"vi_hint": [
+"Tính khả tích."
+],
+"rank": null
+},
+{
+"word": "intrinsic value",
+"pos": "noun",
+"domains": [
+"economics",
+"finance"
+],
+"glosses": [
+"The real value of something, calculated with regard to an inherent, objective measure, which may not take into account its market value or face value.",
+"Non-relational or non-instrumental value, or the value something has in itself, for its own sake, or as such."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "invisible hand",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"A metaphor for the principle that in a free market, an individual pursuing his own self-interest also tends to promote the good of his community as a whole."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "isocost",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"A curve that represents a combination of various inputs that cost the same."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "isoquant",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"A line of equal or constant economic production on a graph, chart or map."
+],
+"vi_hint": [
+"Đẳng lượng."
+],
+"rank": null
+},
+{
+"word": "Japanification",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"The process of making or becoming Japanese.",
+"Persistent stagnation and deflation."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "Kaldor-Hicks efficient",
+"pos": "adj",
+"domains": [
+"economics"
+],
+"glosses": [
+"Such that no Kaldor-Hicks improvement is possible."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "Keynes effect",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"The phenomenon in which a decrease in price level leads to a decrease in interest rates, provided there's no liquidity trap or interest-unresponsive expenditure."
+],
+"vi_hint": [
+"Hiệu ứng Keynes."
+],
+"rank": null
+},
+{
+"word": "Keynesian cross",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"A kind of diagram that plots aggregate income against planned total spending or aggregate expenditure."
+],
+"vi_hint": [
+"Điểm cắt Keynes."
+],
+"rank": null
+},
+{
+"word": "labor market",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"The market consisting of the supply of unemployed workers in relation to the demand for them."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "labor theory of value",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"The theory, usually associated with Marxian economics, that freely reproducible goods obtain their value from socially necessary human labor time."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "labour theory of value",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"UK standard spelling of labor theory of value."
+],
+"vi_hint": [
+"Lý thuyết lao động về giá trị."
+],
+"rank": null
+},
+{
+"word": "Laffer curve",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"A theoretical curve that demonstrates the optimum rate of taxation."
+],
+"vi_hint": [
+"Đường Laffer."
+],
+"rank": null
+},
+{
+"word": "laissez faire",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"A policy of governmental non-interference in economic affairs.",
+"A policy of non-interference by authority in any competitive process."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "land tax",
+"pos": "noun",
+"domains": [
+"economics",
+"taxation"
+],
+"glosses": [
+"A levy on the value of land without regard to buildings, personal property and other improvements."
+],
+"vi_hint": [
+"Thuế đất."
+],
+"rank": null
+}
+]

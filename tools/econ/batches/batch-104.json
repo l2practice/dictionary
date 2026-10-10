@@ -1,0 +1,292 @@
+[
+{
+"word": "nonrecognition",
+"pos": "adj",
+"domains": [
+"taxation"
+],
+"glosses": [
+"Not involving recognition of gain or loss."
+],
+"vi_hint": [],
+"rank": 45624
+},
+{
+"word": "nonrecognition",
+"pos": "noun",
+"domains": [
+"taxation"
+],
+"glosses": [
+"Lack of recognition."
+],
+"vi_hint": [],
+"rank": 45624
+},
+{
+"word": "retiral",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"Withdrawal, retreat.",
+"Retirement from employment.",
+"The act of taking up a bill when due."
+],
+"vi_hint": [],
+"rank": 45961
+},
+{
+"word": "geo",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"An inlet, gully or cleft in the face of a cliff."
+],
+"vi_hint": [],
+"rank": 46063
+},
+{
+"word": "dematerialization",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"The act or process of dematerializing, or becoming immaterial.",
+"The substitution of paper-form securities by book-entry securities."
+],
+"vi_hint": [
+"Sự làm mất tính vật chất, sự tinh thần hoá."
+],
+"rank": 46160
+},
+{
+"word": "repackaging",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"The process of packaging something again or anew.",
+"The purchasing of all of the stock in a public company and taking it private in order to resell at a profit."
+],
+"vi_hint": [],
+"rank": 46347
+},
+{
+"word": "fours",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A pair of fours.",
+"The cells located on the third floor."
+],
+"vi_hint": [],
+"rank": 46428
+},
+{
+"word": "mutualism",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"Any interaction between two species that benefits both; typically involves the exchange of substances or services.",
+"An economic theory and anarchist school of thought that advocates a society where each person might possess a means of production, either individually or collectively, with trade representing equivalent amounts of labor ",
+"The psychometric theory that general intelligence emerges from the interaction between specific cognitive abilities."
+],
+"vi_hint": [
+"; (triết học) thuyết hỗ sinh."
+],
+"rank": 46659
+},
+{
+"word": "serviceability",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"The property of being serviceable, of being useful for some function.",
+"The property of being able to be serviced.",
+"The ability of an individual to make repayments on a loan."
+],
+"vi_hint": [],
+"rank": 46994
+},
+{
+"word": "tickler",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"One who tickles.",
+"A person who or thing which amuses or excites.",
+"A reminder.",
+"A latex condom that has additional protrusions, for enhancing the sexual pleasure of the user.",
+"Something puzzling or difficult; a conundrum.",
+"A tickler file, file cabinet, or similar containing memoranda of deadlines arranged in date order.",
+"A prong used by coopers to extract bungs from casks.",
+"A dram of spirits."
+],
+"vi_hint": [
+"Người cù; cái lông để cù.",
+"Vấn đề khó giải quyết, vấn đề hắc búa.",
+"Sổ tay (để giúp trí nhớ); phiếu ghi (để giúp trí nhớ)."
+],
+"rank": 47055
+},
+{
+"word": "walkthrough",
+"pos": "noun",
+"domains": [
+"accounting"
+],
+"glosses": [
+"A tour of a space, such as a property for sale or rent.",
+"The process of inspecting algorithms and source code by following paths through the algorithms or code as determined by input conditions and choices made along the way.",
+"A thorough demonstration that explains or illustrates the steps involved in winning the game.",
+"A financial audit that traces a sample transaction through the system to ensure that it is processed and reported correctly.",
+"A theatrical or film rehearsal in which the actors move around the stage or set but are not in costume."
+],
+"vi_hint": [],
+"rank": 47437
+},
+{
+"word": "forewoman",
+"pos": "noun",
+"domains": [
+"management"
+],
+"glosses": [
+"A female leader of a work crew.",
+"A female foreman of a jury."
+],
+"vi_hint": [
+"Bà quản đốc, bà đốc công.",
+"Bà chủ tịch ban hội thẩm (toà đại hình)."
+],
+"rank": 47463
+},
+{
+"word": "downmarket",
+"pos": "adj",
+"domains": [
+"economics"
+],
+"glosses": [
+"Designed for low-income consumers.",
+"Of, or relating to the less prestigious sector of the market."
+],
+"vi_hint": [],
+"rank": 47654
+},
+{
+"word": "downmarket",
+"pos": "adv",
+"domains": [
+"economics"
+],
+"glosses": [
+"Towards the less prestigious sector of the market."
+],
+"vi_hint": [],
+"rank": 47654
+},
+{
+"word": "downmarket",
+"pos": "verb",
+"domains": [
+"economics"
+],
+"glosses": [
+"To render or become downmarket."
+],
+"vi_hint": [],
+"rank": 47654
+},
+{
+"word": "zakat",
+"pos": "noun",
+"domains": [
+"taxation"
+],
+"glosses": [
+"Almsgiving, usually in the form of an annual tax on certain types of property which is then used for charitable purposes; the third of the five pillars of Islam."
+],
+"vi_hint": [],
+"rank": 47994
+},
+{
+"word": "tare",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"A vetch, or the seed of a vetch (genus Vicia, esp. Vicia sativa).",
+"Any of the tufted grasses of the genus Lolium; darnel.",
+"A damaging weed growing in fields of grain.",
+"The empty weight of a container; unladen weight.",
+"Any of various dipping sauces served with Japanese food, typically based on soy sauce."
+],
+"vi_hint": [
+"Đậu tằm.",
+"Bì (cân)."
+],
+"rank": 48144
+},
+{
+"word": "tare",
+"pos": "verb",
+"domains": [
+"business"
+],
+"glosses": [
+"To take into account the weight of the container, wrapping etc. in weighting merchandise.",
+"To set a zero value on an instrument (usually a balance) that discounts the starting point."
+],
+"vi_hint": [
+"Cân bì."
+],
+"rank": 48144
+},
+{
+"word": "overdraw",
+"pos": "verb",
+"domains": [
+"banking"
+],
+"glosses": [
+"To withdraw more money from an account than there is credit; to make an overdraft",
+"To use a device for shooting arrows shorter than the draw of the bow.",
+"To exaggerate.",
+"To draw over the top of existing content.",
+"To draw the air in through a harmonica while adjusting the mouth so that the note goes up a half tone."
+],
+"vi_hint": [
+"Rút quá số tiền gửi (ngân hàng).",
+"Phóng đại, cường điệu, cường điệu quá hoá hỏng."
+],
+"rank": 48347
+},
+{
+"word": "overdraw",
+"pos": "noun",
+"domains": [
+"banking"
+],
+"glosses": [
+"The process by which, during the rendering of a three-dimensional scene, a pixel is replaced by one that is closer to the viewpoint, as determined by their Z coordinates."
+],
+"vi_hint": [],
+"rank": 48347
+}
+]

@@ -1,0 +1,292 @@
+[
+{
+"word": "promisor",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"One who engages or undertakes; a promiser."
+],
+"vi_hint": [
+"Người hứa, người hứa hẹn."
+],
+"rank": null
+},
+{
+"word": "promissory note",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A document saying that someone owes a specific amount of money to someone else, often with the deadline and interest fees; the primary purposes of a promissory note are to evidence the debt obligation incurred, and to es"
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "pump and dump",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A form of financial fraud where the fraudster purchases stocks at a very low price, generates excitement about those stocks in order to create a temporary price increase, then sells the stocks before the price depreciate",
+"A situation where a woman uses a breast pump and then discards the milk, typically because she has had an infection, or has been drinking alcohol.",
+"A situation where a person has sex with a partner on a single occasion, without immediate intention of further contact or pursuing a serious relationship."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "pump and dump",
+"pos": "verb",
+"domains": [
+"finance"
+],
+"glosses": [
+"To use a breast pump and then discard the milk, typically because one has had an infection, or has been drinking alcohol.",
+"To have sex with a partner on a single occasion, without intention or prospects of further contact, or engaging in a serious relationship."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "put option",
+"pos": "noun",
+"domains": [
+"business",
+"finance"
+],
+"glosses": [
+"An option to sell a stated quantity of an asset or financial product, such as stock, at a stated price (the strike price), on a stated future date (or range of dates)."
+],
+"vi_hint": [
+"Hợp đồng bán trước."
+],
+"rank": null
+},
+{
+"word": "put through",
+"pos": "verb",
+"domains": [
+"finance"
+],
+"glosses": [
+"To connect (a telephone caller) with the callee.",
+"to cause to endure",
+"To smash (e.g. a window) so as to create an opening.",
+"To pass the ball to (someone) giving them a one-on-one scoring opportunity.",
+"Used other than figuratively or idiomatically: see put, through."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "pyramiding",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"The practice of an athlete progressively increasing the dosage of an illicit drug to a maximum, and then progressively lowering it, between competitions so as to reduce the chances of being caught.",
+"A shell deformity in captive turtles, leading to a pyramid shape underlying each scute.",
+"A form of tax evasion in which an employer that withholds payroll taxes from employees intentionally fails to remit those withholdings to the taxing authority, often then filing for bankruptcy to repeat the fraud under a",
+"Synonym of pyramid trading."
+],
+"vi_hint": [
+"Sự tháp hoá; Sự chóp hoá; Việc hình thành hình chóp."
+],
+"rank": null
+},
+{
+"word": "quantitative analysis",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"The determination of the amounts of an element or compound in a sample.",
+"The exploitation of mathematical observations to reach investment decisions.",
+"Used other than figuratively or idiomatically: see quantitative, analysis."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "rate of return",
+"pos": "noun",
+"domains": [
+"business",
+"finance"
+],
+"glosses": [
+"The amount of profit earned in a reporting period, expressed as a percentage of the cost."
+],
+"vi_hint": [
+"Tỷ suất lợi tức."
+],
+"rank": null
+},
+{
+"word": "rat race",
+"pos": "noun",
+"domains": [
+"business",
+"finance"
+],
+"glosses": [
+"An activity or situation which is congested with participants and which is hectic or tedious, especially in the context of a busy, modern urban lifestyle.",
+"The busy, modern urban lifestyle itself, especially when seen as a competition for wealth or power.",
+"Inconsiderate or unfair competition, where the competitors are willing to use any means to win."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "red herring",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A herring that is cured in smoke and brine strong enough to turn the flesh red; a type of kipper.",
+"A clue, information, argument, etc. that is or is intended to be misleading, diverting attention from the real answer or issue.",
+"A red herring prospectus."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "reintermediation",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"The reintroduction of an intermediary between producer and consumer in order to provide a flow of funds."
+],
+"vi_hint": [
+"Tái phí trung gian."
+],
+"rank": null
+},
+{
+"word": "return on investment",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A benefit, usually financial, gained by an investor from an investment."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "rights issue",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A dividend of subscription rights to buy additional securities in a company, made to the existing security holders."
+],
+"vi_hint": [
+"Phát hành quyền mua cổ phiếu."
+],
+"rank": null
+},
+{
+"word": "ring out",
+"pos": "verb",
+"domains": [
+"finance"
+],
+"glosses": [
+"To sound clearly and loudly.",
+"To make a phone call from an internal phone system to a general telephone network number.",
+"To equalize a sound system to eliminate feedback.",
+"To eliminate the middlemen in a circular pattern of transactions.",
+"To throw (an opponent) out of the arena, thereby winning."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "risk premium",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"The return on investment in excess of the (theoretical) risk-free rate of return that an investment is expected to yield: the extra benefit that an investor either gets or hopes to get in exchange for taking a risk. (Oft",
+"An increase in the interest rate of a bond or loan according to the financial risk."
+],
+"vi_hint": [
+"Tiền bù cho rủi ro, phí rủi ro."
+],
+"rank": null
+},
+{
+"word": "roll down",
+"pos": "verb",
+"domains": [
+"finance"
+],
+"glosses": [
+"Synonym of wind down.",
+"To swap out for a lower strike."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "roll out",
+"pos": "verb",
+"domains": [
+"finance"
+],
+"glosses": [
+"To deploy or release (a new film or software, etc.); to launch (a product or service), especially in a gradual fashion across multiple regions.",
+"To leave a place at a leisurely pace.",
+"Used other than figuratively or idiomatically: see roll, out.",
+"To use up too much energy when first bowled and to therefore not finish strongly.",
+"To swap out for a farther expiration date while keeping the same strike."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "roll up",
+"pos": "verb",
+"domains": [
+"finance"
+],
+"glosses": [
+"To dominate by accumulating; to become dominant by accumulating.",
+"To make something into a particular shape, especially cylindrical or fold-like.",
+"To pack up into a bundle or bindle.",
+"To create a cigar or cigarette, or a joint.",
+"To raise (a car window, rolling door, or rolling security barrier).",
+"To roll the dice necessary to create a character for a game, especially a role-playing game.",
+"To arrive by vehicle, usually by car.",
+"To swap out for a higher strike."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "roll up",
+"pos": "intj",
+"domains": [
+"finance"
+],
+"glosses": [
+"Used to call the attention of potential purchasers."
+],
+"vi_hint": [],
+"rank": null
+}
+]

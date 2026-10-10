@@ -1,0 +1,277 @@
+[
+{
+"word": "financial accounting",
+"pos": "noun",
+"domains": [
+"accounting"
+],
+"glosses": [
+"The field of accounting concerned with the summary, analysis and reporting of financial transactions related to a business."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "financial asset",
+"pos": "noun",
+"domains": [
+"accounting"
+],
+"glosses": [
+"A non-physical asset whose value is derived from a contractual claim, such as bank deposits, bonds, and participations in companies' share capital."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "financials",
+"pos": "noun",
+"domains": [
+"accounting",
+"business",
+"finance"
+],
+"glosses": [
+"Financial statements.",
+"Financial institutions, as a group, such as banks and insurance companies.",
+"Shares in financial companies."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "financial statement",
+"pos": "noun",
+"domains": [
+"accounting",
+"finance"
+],
+"glosses": [
+"A formal record of all relevant financial information of a business, person, or other entity, presented in a structured and standardized manner to allow easy understanding.",
+"Any of the four basic elements in above, i.e. balance sheet, income statement, cash flow statement and statement on changes in equity."
+],
+"vi_hint": [
+"Báo cáo tài chính."
+],
+"rank": null
+},
+{
+"word": "financial year",
+"pos": "noun",
+"domains": [
+"accounting"
+],
+"glosses": [
+"Synonym of fiscal year."
+],
+"vi_hint": [
+"Năm tài chính."
+],
+"rank": null
+},
+{
+"word": "first in first out",
+"pos": "noun",
+"domains": [
+"accounting",
+"management"
+],
+"glosses": [
+"A method of inventory accounting that values items withdrawn from inventory at the cost of the oldest item assumed to remain in inventory.",
+"A policy of assigning priority to tasks and assignments that have arrived for service first.",
+"A type of queue data structure in which the oldest added items are retrieved first."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "fiscal year",
+"pos": "noun",
+"domains": [
+"accounting"
+],
+"glosses": [
+"An accounting period of one year, not necessarily coinciding with the calendar year."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "fixed asset",
+"pos": "noun",
+"domains": [
+"accounting",
+"business"
+],
+"glosses": [
+"Asset or property which cannot easily be converted into cash, such as land, buildings and machinery."
+],
+"vi_hint": [
+"Tài sản cố định."
+],
+"rank": null
+},
+{
+"word": "fixed cost",
+"pos": "noun",
+"domains": [
+"accounting"
+],
+"glosses": [
+"A cost of business which does not vary with output or sales; an overhead."
+],
+"vi_hint": [
+"Chi phí cố định; định phí."
+],
+"rank": null
+},
+{
+"word": "flow variable",
+"pos": "noun",
+"domains": [
+"accounting",
+"economics"
+],
+"glosses": [
+"A variable whose value depends on a period of time rather than an instant, example being the gross domestic product."
+],
+"vi_hint": [
+"Biến số mang tính dòng chảy."
+],
+"rank": null
+},
+{
+"word": "forensic accounting",
+"pos": "noun",
+"domains": [
+"accounting"
+],
+"glosses": [
+"A type of specialist accounting for the purpose of engaging in a legal dispute over insurance, fraud, etc."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "funds",
+"pos": "noun",
+"domains": [
+"accounting",
+"finance"
+],
+"glosses": [
+"Financial resources.",
+"Permanent debts due by a government and paying interest."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "general ledger",
+"pos": "noun",
+"domains": [
+"accounting",
+"business"
+],
+"glosses": [
+"The central accounting record of a company or organization consisting of the accounts that support the value items shown in the major financial statements."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "going concern",
+"pos": "noun",
+"domains": [
+"accounting",
+"business",
+"finance"
+],
+"glosses": [
+"A successfully operating enterprise.",
+"A person who is active, thriving, energetic, and highly successful in their endeavors."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "gross profit",
+"pos": "noun",
+"domains": [
+"accounting"
+],
+"glosses": [
+"The difference between net sales and the cost of goods sold."
+],
+"vi_hint": [
+"Tổng lợi nhuận."
+],
+"rank": null
+},
+{
+"word": "gross sales",
+"pos": "noun",
+"domains": [
+"accounting",
+"business"
+],
+"glosses": [
+"The total invoice value of sales, before deducting customers' discounts, returns, or allowances."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "historical cost",
+"pos": "noun",
+"domains": [
+"accounting"
+],
+"glosses": [
+"The original nominal monetary value of an economic item; the value at which an item was acquired by a company and was entered in its books."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "income statement",
+"pos": "noun",
+"domains": [
+"accounting"
+],
+"glosses": [
+"A calculation which shows the profit or loss of an accounting unit (company, municipality, foundation etc.) during a specific period of time, providing a summary of how the profit or loss is calculated from gross revenue"
+],
+"vi_hint": [
+"Báo cáo kết quả (của hoạt động kinh doanh)"
+],
+"rank": null
+},
+{
+"word": "indirect cost",
+"pos": "noun",
+"domains": [
+"accounting",
+"business",
+"finance"
+],
+"glosses": [
+"Any cost that is not directly accountable to a cost object (such as a particular project, facility, function, or product). They include administration, personnel and security costs."
+],
+"vi_hint": [],
+"rank": null
+},
+{
+"word": "industrial output",
+"pos": "noun",
+"domains": [
+"accounting",
+"economics"
+],
+"glosses": [
+"What an industry produces, as a national total."
+],
+"vi_hint": [],
+"rank": null
+}
+]

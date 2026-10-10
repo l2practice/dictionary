@@ -1,0 +1,768 @@
+[
+{
+"word": "underweight",
+"pos": "verb",
+"domains": [
+"finance"
+],
+"glosses": [
+"To underestimate the weight of.",
+"To give insufficient weight to (a consideration); to underestimate the importance of.",
+"To invest in less than conventional wisdom would dictate."
+],
+"vi_hint": [],
+"rank": 27358
+},
+{
+"word": "disbursement",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"The act, instance, or process of disbursing.",
+"Money paid out or spent."
+],
+"vi_hint": [
+"Sự dốc túi, sự dốc hầu bao, sự chi tiêu."
+],
+"rank": 27492
+},
+{
+"word": "tranche",
+"pos": "noun",
+"domains": [
+"finance",
+"insurance"
+],
+"glosses": [
+"A slice, section or portion.",
+"A distinct subdivision of a single policyholder's benefits, typically relating to separate premium increments.",
+"A pension scheme's or scheme member's benefits relating to distinct accrual periods with different rules.",
+"One of a set of classes or risk maturities that compose a multiple-class security, such as a CMO or REMIC; a class of bonds. Collateralized mortgage obligations are structured with several tranches of bonds that have var"
+],
+"vi_hint": [],
+"rank": 27569
+},
+{
+"word": "tranche",
+"pos": "verb",
+"domains": [
+"finance",
+"insurance"
+],
+"glosses": [
+"To divide into tranches."
+],
+"vi_hint": [],
+"rank": 27569
+},
+{
+"word": "neoliberalism",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"A political ideology or ideological trend based on neoclassical economics that espouses economic liberalism, favouring trade liberalisation, financial deregulation, a small government, privatisation and liberalisation of",
+"The ideology associated with the New Democrats and the Democratic Leadership Council."
+],
+"vi_hint": [],
+"rank": 27571
+},
+{
+"word": "repeater",
+"pos": "noun",
+"domains": [
+"marketing"
+],
+"glosses": [
+"One who or that which repeats.",
+"A student repeating a course, class, or grade.",
+"A patient who repeatedly presents with the same symptoms.",
+"A consumer who repeatedly purchases the same goods or services.",
+"One who votes more than once at an election.",
+"A person who regularly sees unexplained sightings of paranormal phenomena.",
+"A gun that has a store of cartridges and does not need reloading after each shot.",
+"A telegraphic instrument for automatically retransmitting a message."
+],
+"vi_hint": [
+"Người nhắc lại (điều gì).",
+"Đồng hồ điểm chuông định kỳ.",
+"Súng (tiểu liên, súng lục) bắn nhiều phát liền (mà không phải nạp đạn)."
+],
+"rank": 27852
+},
+{
+"word": "taxman",
+"pos": "noun",
+"domains": [
+"taxation"
+],
+"glosses": [
+"A tax collector.",
+"A tax-collecting organ, personified."
+],
+"vi_hint": [],
+"rank": 27863
+},
+{
+"word": "equalization",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"The act of equalizing, or state of being equalized.",
+"Maneuvers to balance the pressure in the middle ear with the outside pressure by letting air enter along the Eustachian tubes.",
+"Repayment to an investor in a unit trust or OEIC of an increase in the unit price to cover the seller’s entitlement to income received from the underlying investments but not yet distributed to unit holders, repaid as pa"
+],
+"vi_hint": [
+"Sự làm bằng nhau, sự làm ngang nhau.",
+"Sự gỡ hoà."
+],
+"rank": 27891
+},
+{
+"word": "ergonomics",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"The science of the design of equipment, especially so as to reduce operator fatigue, discomfort and injury.",
+"Political economy."
+],
+"vi_hint": [
+"Môn công thái học."
+],
+"rank": 27934
+},
+{
+"word": "greenfield",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"A site, to be used for housing or commerce, whose previous use (if any) was agricultural."
+],
+"vi_hint": [],
+"rank": 28249
+},
+{
+"word": "greenfield",
+"pos": "adj",
+"domains": [
+"business"
+],
+"glosses": [
+"Of a completely new development, without the need to integrate with legacy systems, etc.",
+"Previously untapped; free for the taking."
+],
+"vi_hint": [],
+"rank": 28249
+},
+{
+"word": "redeemable",
+"pos": "adj",
+"domains": [
+"finance"
+],
+"glosses": [
+"Capable of being redeemed; able to be restored or recovered.",
+"Capable of being paid off; subject to a right on the part of the debtor to discharge or of an issuer to repurchase",
+"Susceptible to correction or reform."
+],
+"vi_hint": [
+"Có thể cứu được."
+],
+"rank": 28353
+},
+{
+"word": "redeemable",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A financial instrument that can be redeemed."
+],
+"vi_hint": [],
+"rank": 28353
+},
+{
+"word": "stickiness",
+"pos": "noun",
+"domains": [
+"economics",
+"marketing"
+],
+"glosses": [
+"The property of sticking or adhering; adhesion.",
+"Warmth and humidity, as on a muggy day.",
+"Of prices or wages: the tendency to stay the same despite changes in the economy.",
+"The presence of unique attributes that make a product indisposable and valuable to its owner.",
+"A research measure that captures the extent to which viewers wish to spend more time looking at or reading a print advertisement.",
+"An overemotional attachment to others; clinging in interpersonal relations; difficulty with ending conversations."
+],
+"vi_hint": [
+"Tính chất dính; sự dính; tính bầy nhầy, tính nhớp nháp.",
+"Sự khó tính, tính khó khăn."
+],
+"rank": 28441
+},
+{
+"word": "aftercare",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"The care given to a patient during recovery from an operation or after hospitalization.",
+"Services and support offered to a customer for the goods or service they have purchased.",
+"Childcare services tending to children after the school day.",
+"Emotional support offered by creators of a television program to a person who has appeared on a stressful television show.",
+"Tender affection and physical care given to a partner after an activity, usually to serve as a transition between the activity and whatever follows it."
+],
+"vi_hint": [
+"Sự chăm sóc sau khi điều trị, sự chăm sóc sau hạn tù."
+],
+"rank": 28480
+},
+{
+"word": "mezzanine",
+"pos": "noun",
+"domains": [
+"banking",
+"business"
+],
+"glosses": [
+"An intermediate floor or storey in between the main floors of a building; specifically, one that is directly above the ground floor which does not extend over the whole floorspace of the building, and so resembles a larg",
+"An apartment, room, etc., on such an intermediate floor.",
+"The lowest balcony in an auditorium, cinema, theatre, etc.; the dress circle."
+],
+"vi_hint": [
+"Gác lửng.",
+"Tầng dưới sân khấu."
+],
+"rank": 28487
+},
+{
+"word": "mezzanine",
+"pos": "adj",
+"domains": [
+"banking",
+"business"
+],
+"glosses": [
+"Characteristic of or relating to high-interest loans which have no collateral, and are regarded as intermediate in nature, ranking above equity but below secured loans.",
+"Fulfilling an intermediate or secondary function."
+],
+"vi_hint": [],
+"rank": 28487
+},
+{
+"word": "mezzanine",
+"pos": "verb",
+"domains": [
+"banking",
+"business"
+],
+"glosses": [
+"To fit (a building or other place) with a mezzanine floor."
+],
+"vi_hint": [],
+"rank": 28487
+},
+{
+"word": "returned",
+"pos": "adj",
+"domains": [
+"finance"
+],
+"glosses": [
+"Bent back; angled.",
+"That has come back.",
+"Yielded as a return on an investment etc.",
+"Back home having been discharged from military service."
+],
+"vi_hint": [],
+"rank": 28571
+},
+{
+"word": "collectivism",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"An economic system in which the means of production and distribution are owned and controlled by the people collectively",
+"The practice or principle of giving a group priority over each individual in it."
+],
+"vi_hint": [
+"Chủ nghĩa tập thể."
+],
+"rank": 28791
+},
+{
+"word": "rho",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"The seventeenth letter of the Modern Greek and Classical alphabets and the nineteenth letter of Old and Ancient.",
+"The sensitivity of the option value to the risk-free interest rate."
+],
+"vi_hint": [
+"Chữ cái thứ 17 của bảng chữ cái Hy lạp."
+],
+"rank": 28797
+},
+{
+"word": "shiner",
+"pos": "noun",
+"domains": [
+"money"
+],
+"glosses": [
+"One who shines; a luminary.",
+"One who causes things to shine; a polisher.",
+"A black eye.",
+"Raccoon eyes.",
+"A bright piece of money, especially a sovereign.",
+"Any of numerous species of small freshwater American cyprinoid fishes of Notropis, Lythrurus, and allied genera, such as the redfin.",
+"Any silvery fish, such as the horsefish, menhaden, or moonfish.",
+"A common silverfish (Lepisma saccharinum, or any member of genus Lepisma."
+],
+"vi_hint": [
+"Đồng tiền vàng Anh xưa (trị giá 1 bảng).",
+"Tiền.",
+"Vật bóng lộn."
+],
+"rank": 28804
+},
+{
+"word": "perp",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A perpetrator.",
+"A perpetual bond.",
+"Perpetual futures."
+],
+"vi_hint": [],
+"rank": 28912
+},
+{
+"word": "overtax",
+"pos": "verb",
+"domains": [
+"taxation"
+],
+"glosses": [
+"To tax to an excessive degree.",
+"To overburden."
+],
+"vi_hint": [
+"Đánh thuế quá nặng.",
+"Bắt (ai) làm việc quá nhiều, đòi hỏi quá nhiều ở (sức lực, của ai... )."
+],
+"rank": 29176
+},
+{
+"word": "deflated",
+"pos": "adj",
+"domains": [
+"economics"
+],
+"glosses": [
+"Empty of all the air or gas that was or could be inside.",
+"Disappointed; depressed, especially after having been hopeful or in high spirits.",
+"Reduced or lowered.",
+"Adjusted downward to compensate for inflation.",
+"Suffering from deflation.",
+"Subsided or compressed downward."
+],
+"vi_hint": [],
+"rank": 29274
+},
+{
+"word": "cardholder",
+"pos": "noun",
+"domains": [
+"banking",
+"finance"
+],
+"glosses": [
+"A case for holding cards, as credit cards, bankcards, or business cards.",
+"An authorized user of a card that is used for financial transactions, etc."
+],
+"vi_hint": [],
+"rank": 29308
+},
+{
+"word": "deferral",
+"pos": "noun",
+"domains": [
+"accounting"
+],
+"glosses": [
+"An act of deferring, a deferment.",
+"A prepayment."
+],
+"vi_hint": [
+"Sự hoãn, sự trì hoãn, sự để chậm lại.",
+"Mỹ sự hoãn quân địch."
+],
+"rank": 29701
+},
+{
+"word": "procurator",
+"pos": "noun",
+"domains": [
+"taxation"
+],
+"glosses": [
+"A tax collector.",
+"An agent or attorney.",
+"A legal officer who both investigates and prosecutes crimes, found in some inquisitorial legal systems, particularly communist or formerly communist states – see public procurator",
+"The governor of a small imperial province."
+],
+"vi_hint": [
+"Kiểm sát trưởng, biện lý.",
+"Người thay quyền, người thay mặt, người đại diện (về luật pháp)."
+],
+"rank": 29722
+},
+{
+"word": "perquisite",
+"pos": "noun",
+"domains": [
+"money"
+],
+"glosses": [
+"Any monetary or other incidental benefit beyond salary.",
+"A gratuity.",
+"A privilege or possession held or claimed exclusively by a certain person, group or class."
+],
+"vi_hint": [
+"Bổng lộc, tiền thù lao thêm.",
+"Vật hưởng thừa."
+],
+"rank": 29725
+},
+{
+"word": "greenback",
+"pos": "noun",
+"domains": [
+"money"
+],
+"glosses": [
+"Any bill that is legal tender in the US (originally printed with green and black ink) issued by the Federal Reserve.",
+"The United States dollar.",
+"A unit of American currency issued during the Civil War by the Treasury Department.",
+"A wave that has not yet begun to break."
+],
+"vi_hint": [
+"Giấy bạc."
+],
+"rank": 29781
+},
+{
+"word": "contrarian",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A person who likes or tends to express a contradicting viewpoint, especially from one held by a majority of people, usually because of nonconformity or spite.",
+"A financial investor who tends to have an opinion of market trends at variance with most others."
+],
+"vi_hint": [],
+"rank": 29805
+},
+{
+"word": "contrarian",
+"pos": "adj",
+"domains": [
+"finance"
+],
+"glosses": [
+"Liking or tending to express a contradicting viewpoint, especially from one held by a majority of people.",
+"Having an opinion of market trends at variance with most others."
+],
+"vi_hint": [],
+"rank": 29805
+},
+{
+"word": "repayable",
+"pos": "adj",
+"domains": [
+"business"
+],
+"glosses": [
+"Able to be repaid.",
+"to be repaid; owing."
+],
+"vi_hint": [
+"Có thể trả lại, có thể hoàn lại.",
+"Có thể báo đáp, có thể đền đáp."
+],
+"rank": 29845
+},
+{
+"word": "repayable",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"An amount, a loan, etc. to be repaid."
+],
+"vi_hint": [],
+"rank": 29845
+},
+{
+"word": "kappa",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"The tenth letter of the Greek alphabet.",
+"A measurement of the sensitivity of the value of an option to changes in the implied volatility of the price of the underlying asset.",
+"A tortoise-like demon or imp."
+],
+"vi_hint": [
+"Chữ cái thứ 10 trong bảng chữ cái Hy Lạp."
+],
+"rank": 29996
+},
+{
+"word": "upfront",
+"pos": "adj",
+"domains": [
+"business",
+"marketing"
+],
+"glosses": [
+"Honest, frank and straightforward.",
+"Open, admitted, out.",
+"In a forward, leading or frontward position.",
+"Of money, paid in advance."
+],
+"vi_hint": [],
+"rank": 30090
+},
+{
+"word": "upfront",
+"pos": "adv",
+"domains": [
+"business",
+"marketing"
+],
+"glosses": [
+"Beforehand.",
+"As an attacker."
+],
+"vi_hint": [],
+"rank": 30090
+},
+{
+"word": "upfront",
+"pos": "noun",
+"domains": [
+"business",
+"marketing"
+],
+"glosses": [
+"A meeting of network executives with the press and major advertisers, signaling the start of advertising sales for a new season."
+],
+"vi_hint": [],
+"rank": 30090
+},
+{
+"word": "upfront",
+"pos": "verb",
+"domains": [
+"business",
+"marketing"
+],
+"glosses": [
+"To bring to the fore; to place up front for consideration."
+],
+"vi_hint": [],
+"rank": 30090
+},
+{
+"word": "profiteering",
+"pos": "noun",
+"domains": [
+"business"
+],
+"glosses": [
+"The act of making an unreasonable profit not justified by the corresponding assumption of risk, or by doing so unethically or opportunistically."
+],
+"vi_hint": [
+"Việc trục lợi, việc đầu cơ trục lợi."
+],
+"rank": 30144
+},
+{
+"word": "reinsurance",
+"pos": "noun",
+"domains": [
+"business",
+"insurance"
+],
+"glosses": [
+"Insurance purchased by insurance companies that spreads the risk associated with selling insurance around so the danger of one large monetary loss is minimized. Such insurance and catastrophe bonds are backstops to insur"
+],
+"vi_hint": [
+"Sự bảo hiểm lại."
+],
+"rank": 30375
+},
+{
+"word": "vega",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"An open tract of ground; a plain, especially one which is moist and fertile, such as those used for growing tobacco.",
+"A measurement of the sensitivity of the value of an option to changes in the implied volatility of the price of the underlying asset."
+],
+"vi_hint": [
+"Sao Vêga, sao Bạch Minh."
+],
+"rank": 30378
+},
+{
+"word": "scalper",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"One who scalps, or removes the scalp of another.",
+"One who scalps tickets to popular entertainment events: buying them in advance and then selling them (e.g. online or just outside the venue of the event), often at inflated prices.",
+"One who scalps any other item with limited availability.",
+"A gambler who scalps.",
+"A person on an open outcry exchange trading floor who buys and sells rapidly for his or her own account, aiming to buy from a seller and a little later sell to a buyer, making a small profit from the difference (roughly ",
+"A machine for removing the ends of grain, such as wheat or rye, or for separating the different grades of broken wheat, semolina, etc.",
+"A surgical instrument for scraping carious bones."
+],
+"vi_hint": [
+"Dao trổ, dao khắc.",
+", (thông tục) kẻ đầu cơ vé rạp hát, kẻ đầu cơ vé xe lửa."
+],
+"rank": 30514
+},
+{
+"word": "aftermarket",
+"pos": "noun",
+"domains": [
+"business",
+"finance"
+],
+"glosses": [
+"The market for further goods and services, such as replacement parts and accessories, subsequent to the sale of a product such as an automobile or computer.",
+"The industry that serves that market.",
+"Trading activity in a security immediately following its initial offering to the public."
+],
+"vi_hint": [
+"Việc bán phụ tùng xe hơi (không chính hãng)"
+],
+"rank": 30524
+},
+{
+"word": "aftermarket",
+"pos": "verb",
+"domains": [
+"business",
+"finance"
+],
+"glosses": [
+"To sell goods or services in the aftermarket."
+],
+"vi_hint": [],
+"rank": 30524
+},
+{
+"word": "duopoly",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"An economic condition in which two sellers exert most control over the market of a commodity.",
+"The domination of a field of endeavour by two entities or people.",
+"A situation in which two or more radio or television stations in the same city or community share common ownership."
+],
+"vi_hint": [
+"Tình trạng thị trường do hai công ty độc quyền lũng đoạn."
+],
+"rank": 30555
+},
+{
+"word": "parsimonious",
+"pos": "adj",
+"domains": [
+"money"
+],
+"glosses": [
+"Exhibiting parsimony; sparing in the expenditure of money; frugal, possibly to excess.",
+"Using a minimal number of assumptions, steps, or conjectures.",
+"Not conceding many goals."
+],
+"vi_hint": [
+"Dè sẻn."
+],
+"rank": 30795
+},
+{
+"word": "chequebook",
+"pos": "noun",
+"domains": [
+"banking"
+],
+"glosses": [
+"A folder or booklet containing preprinted cheques for use by the holder of a bank account."
+],
+"vi_hint": [],
+"rank": 31010
+},
+{
+"word": "monetarism",
+"pos": "noun",
+"domains": [
+"economics"
+],
+"glosses": [
+"The doctrine that economic systems are controlled by variations in the supply of money.",
+"The political doctrine that a nation's economy (in particular inflation) can be controlled by regulating the money supply."
+],
+"vi_hint": [
+"Phương pháp kiểm tra sự lưu thông tiền tệ để ổn định nền kinh tế."
+],
+"rank": 31033
+},
+{
+"word": "ISO",
+"pos": "noun",
+"domains": [
+"finance"
+],
+"glosses": [
+"A disk image of an ISO 9660 file system (such as a CD or DVD).",
+"A measure of film sensitivity or brightness, derived from the ISO standard."
+],
+"vi_hint": [],
+"rank": 31087
+}
+]

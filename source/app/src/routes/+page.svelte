@@ -6,7 +6,7 @@
     money: ["Money", "Tiền tệ"], business: ["Business", "Kinh doanh"], marketing: ["Marketing", "Marketing"], management: ["Management", "Quản trị"],
   };
   let domData = $state<Record<string, [string, string, string, number][]>>({});
-  let domSel = $state("accounting");
+  let domSel = $state("all");
   let domQ = $state("");
   let domAiOnly = $state(false);
   let domLoading = false;
@@ -22,9 +22,16 @@
       domLoading = false;
     }
   }
+  // "All": gộp mọi ngành, bỏ trùng từ (một từ có thể thuộc nhiều ngành)
+  const domList = $derived.by(() => {
+    if (domSel !== "all") return domData[domSel] ?? [];
+    const seen = new Map<string, [string, string, string, number]>();
+    for (const rows of Object.values(domData)) for (const r of rows) if (!seen.has(r[0])) seen.set(r[0], r);
+    return [...seen.values()].sort((a, b) => a[0].toLowerCase().localeCompare(b[0].toLowerCase()));
+  });
   const domRows = $derived.by(() => {
     const q = domQ.trim().toLowerCase();
-    return (domData[domSel] ?? []).filter((r) => (!domAiOnly || r[3]) && (!q || r[0].toLowerCase().includes(q) || r[1].toLowerCase().includes(q))).slice(0, 400);
+    return domList.filter((r) => (!domAiOnly || r[3]) && (!q || r[0].toLowerCase().includes(q) || r[1].toLowerCase().includes(q))).slice(0, 600);
   });
   type Palette = "orange" | "periwinkle" | "terra" | "rose" | "classic";
   const PALETTES: { id: Palette; en: string; vi: string; sw: string }[] = [
@@ -136,7 +143,7 @@
       ui.lang = (st.ui_lang as UiLang) ?? (IS_WEB && navigator.language?.toLowerCase().startsWith("vi") ? "vi" : "en");
       theme = (st.theme as typeof theme) ?? "auto";
       palette = PALETTES.some((x) => x.id === st.palette) ? (st.palette as Palette) : "orange";
-      mode = st.mode === "en" ? "en" : "envi"; // chiều tra tự nhận theo chữ gõ; "en" chỉ còn nghĩa là ẩn tiếng Việt (nút VI)
+      mode = (st.mode as Mode) ?? "envi";
       fontSize = Number(st.font_size ?? 16) || 16;
       accent = (st.accent as Accent) ?? "us";
       if (st.closed !== undefined) closed = new Set(st.closed.split(",").filter(Boolean));
@@ -728,7 +735,7 @@
         oninput={onInput}
         onkeydown={onKey}
         onblur={() => setTimeout(() => (sugOpen = false), 150)}
-        placeholder={t("searchPlaceholderWeb")}
+        placeholder={mode === "vien" ? t("searchPlaceholderVi") : IS_WEB ? t("searchPlaceholderWeb") : t("searchPlaceholder")}
         spellcheck="false"
         autocomplete="off"
         autocapitalize="off"
@@ -763,6 +770,12 @@
       {/if}
     </div>
 
+    <div class="modes" role="tablist" aria-label={t("modeLabel")}>
+      <button class:on={mode === "en"} onclick={() => setMode("en")}>{t("modeEn")}</button>
+      <button class:on={mode === "envi"} onclick={() => setMode("envi")}>{t("modeEnVi")}</button>
+      <button class:on={mode === "vien"} onclick={() => setMode("vien")}>{t("modeViEn")}</button>
+    </div>
+
     <div class="uilang" role="group" aria-label={t("uiLangTitle")} title={t("uiLangTitle")}>
       <button class:on={ui.lang === "en"} onclick={() => setUiLang("en")}>E</button>
       <button class:on={ui.lang === "vi"} onclick={() => setUiLang("vi")}>V</button>
@@ -791,6 +804,7 @@
       {#if tab === "domains"}
         <div class="list-bar dom-bar">
           <select bind:value={domSel} aria-label={ui.lang === "vi" ? "Chọn ngành" : "Choose domain"}>
+            <option value="all">{ui.lang === "vi" ? "Tất cả (All)" : "All"} ({domSel === "all" ? domList.length : Object.keys(domData).length ? new Set(Object.values(domData).flat().map((r) => r[0])).size : 0})</option>
             {#each Object.keys(DOM_LABEL) as d}<option value={d}>{DOM_LABEL[d][ui.lang === "vi" ? 1 : 0]} ({(domData[d] ?? []).length})</option>{/each}
           </select>
           <input class="dom-q" bind:value={domQ} placeholder={ui.lang === "vi" ? "Lọc trong ngành…" : "Filter…"} aria-label={ui.lang === "vi" ? "Lọc" : "Filter"} />

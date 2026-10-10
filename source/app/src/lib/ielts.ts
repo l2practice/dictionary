@@ -17,3 +17,14 @@ export async function ieltsOf(word: string): Promise<IeltsItem | null> {
   const d = await loadIelts();
   return d ? (d[word.toLowerCase()] ?? null) : null;
 }
+
+// Collocation cho từ phổ biến (Muse AI): data/collocations.json = {từ: {c: [cụm], e: ví dụ, v: dịch, n: ghi chú}}
+export interface Colloc { c: string[]; e: string; v: string; n: string }
+let cc: Promise<Record<string, Colloc> | null> | null = null;
+export function collocOf(word: string): Promise<Colloc | null> {
+  if (!cc) {
+    const base = ((import.meta.env.VITE_DATA_BASE as string) || "/data/") + "collocations.json";
+    cc = fetch(new URL(base, location.href)).then((r) => (r.ok ? r.json() : null)).catch(() => null);
+  }
+  return cc.then((d) => (d ? (d[word.toLowerCase()] ?? null) : null));
+}

@@ -10,7 +10,7 @@
   import type { Accent } from "./speech";
   import { t, ui } from "./i18n.svelte";
   import { IS_WEB } from "./platform";
-  import { ieltsOf, type IeltsItem } from "./ielts";
+  import { ieltsOf, collocOf, type IeltsItem, type Colloc } from "./ielts";
 
   let {
     entry,
@@ -41,11 +41,16 @@
 
   // IELTS: collocation + ví dụ Writing/Speaking (nếu từ này có trong danh sách IELTS)
   let ielts = $state<IeltsItem | null>(null);
+  let colloc = $state<Colloc | null>(null);
   $effect(() => {
     const w = entry.word;
     ielts = null;
+    colloc = null;
     ieltsOf(w).then((r) => {
       if (entry.word === w) ielts = r;
+    });
+    collocOf(w).then((r) => {
+      if (entry.word === w) colloc = r;
     });
   });
 
@@ -136,6 +141,7 @@
       label: (ui.lang === "vi" ? TYPE_VI : TYPE_EN)[b.entry_type] ?? b.pos,
       sub: b.senses.map((s) => s.guideword ?? "").filter(Boolean),
     })),
+    ...(colloc ? [{ id: "colloc", label: showVi ? "Kết hợp từ" : "Collocations", sub: [] }] : []),
     ...(ielts ? [{ id: "ielts", label: "IELTS", sub: [] }] : []),
     ...(entry.phrasal_verbs.length ? [{ id: "phrasal", label: t("secPhrasal"), sub: [] }] : []),
     ...(entry.idioms.length ? [{ id: "idioms", label: t("secIdioms"), sub: [] }] : []),
@@ -363,6 +369,19 @@
         {/if}
       </section>
     {/each}
+
+    {#if colloc}
+      <section class="extra" id="colloc">
+        {@render fold("colloc", showVi ? "Kết hợp từ" : "Collocations", "")}
+        {#if isOpen("colloc")}
+          <div class="ielts-box">
+            <p class="ielts-col">{#each colloc.c as c}<span class="chip">{c}</span>{/each} <Badge kind="ai" text="AI" title="Muse AI" /></p>
+            {#if colloc.e}<div class="ielts-ex">{colloc.e}{#if showVi && colloc.v}<div class="ielts-vi">{colloc.v}</div>{/if}</div>{/if}
+            {#if colloc.n}<p class="ielts-tip">💡 {colloc.n}</p>{/if}
+          </div>
+        {/if}
+      </section>
+    {/if}
 
     {#if ielts}
       <section class="extra" id="ielts">

@@ -37,7 +37,7 @@ for f in glob.glob(str(D / "*.json")):
             have = {c[1] for c in codes[w]}
             new = [f"{l}{p}" for p, (l, s) in add.items() if p not in have]
             if new:
-                codes[w] = sorted(codes[w] + new, key=lambda c: c[0])
+                codes[w] = codes[w] + sorted(new, key=lambda c: c[0])  # giữ nguyên thứ tự mã gốc: cấp đầu tiên của từ cũ không đổi
         else:
             codes[w] = sorted([f"{l}{p}" for p, (l, s) in add.items()], key=lambda c: c[0])
             source[w] = "cefrj" if any(s == "cefrj" for l, s in add.values()) else "ai"

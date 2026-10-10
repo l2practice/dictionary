@@ -1,1 +1,0 @@
-import{C as e,H as t,_ as n,it as r,w as i}from"../chunks/CeK056VD.js";import"../chunks/xihTtKlq.js";var a=r({ssr:()=>!1});function o(r,a){var o=i(),s=t(o);n(s,()=>a.children),e(r,o)}export{o as component,a as universal};

@@ -1,4 +1,12 @@
 <script lang="ts">
+  type Palette = "orange" | "periwinkle" | "terra" | "rose" | "classic";
+  const PALETTES: { id: Palette; en: string; vi: string; sw: string }[] = [
+    { id: "orange", en: "Orange", vi: "Cam", sw: "linear-gradient(135deg, #1f1b18 50%, #e8734a 50%)" },
+    { id: "periwinkle", en: "Periwinkle", vi: "Tím xanh", sw: "linear-gradient(135deg, #1e2142 50%, #5661e0 50%)" },
+    { id: "terra", en: "Terracotta", vi: "Đất nung", sw: "linear-gradient(135deg, #15171c 50%, #d4664f 50%)" },
+    { id: "rose", en: "Rose", vi: "Hồng tím", sw: "linear-gradient(135deg, #c2337f 50%, #7b45c9 50%)" },
+    { id: "classic", en: "Blue", vi: "Xanh cổ điển", sw: "linear-gradient(135deg, #0b3db8 50%, #0bbfcf 50%)" },
+  ];
   import { base } from "$app/paths";
   // Màn hình chính: ô tìm + gợi ý, 3 chế độ, mục từ, lịch sử, danh sách từ, cài đặt, nguồn & giấy phép.
   // Lịch sử, danh sách, cài đặt nằm trong user.sqlite (Rust). Chữ giao diện qua t() (English mặc định / Tiếng Việt).
@@ -53,7 +61,7 @@
   let saved = $state(new Set<string>());
   let tab = $state<"history" | "lists">("history");
   let theme = $state<"auto" | "light" | "dark">("auto");
-  let palette = $state<"classic" | "rose">("classic");
+  let palette = $state<Palette>("orange");
   let fontSize = $state(16);
   let accent = $state<Accent>("us");
   let closed = $state(new Set<string>(["wikt"]));
@@ -100,7 +108,7 @@
       const st = await api.settings();
       ui.lang = (st.ui_lang as UiLang) ?? (IS_WEB && navigator.language?.toLowerCase().startsWith("vi") ? "vi" : "en");
       theme = (st.theme as typeof theme) ?? "auto";
-      palette = (st.palette as typeof palette) ?? "classic";
+      palette = PALETTES.some((x) => x.id === st.palette) ? (st.palette as Palette) : "orange";
       mode = (st.mode as Mode) ?? "envi";
       fontSize = Number(st.font_size ?? 16) || 16;
       accent = (st.accent as Accent) ?? "us";
@@ -241,8 +249,8 @@
     const root = document.documentElement;
     if (theme === "auto") root.removeAttribute("data-theme");
     else root.setAttribute("data-theme", theme);
-    if (palette === "rose") root.setAttribute("data-palette", "rose");
-    else root.removeAttribute("data-palette");
+    if (palette === "classic") root.removeAttribute("data-palette");
+    else root.setAttribute("data-palette", palette);
     root.style.setProperty("--base-size", `${fontSize}px`);
     root.lang = ui.lang;
   }
@@ -266,11 +274,15 @@
     saveSetting("theme", theme);
     applyLook();
   }
-  function togglePalette() {
-    palette = palette === "rose" ? "classic" : "rose";
-    saveSetting("palette", palette);
+  function setPalette(p: Palette) {
+    palette = p;
+    saveSetting("palette", p);
     applyLook();
   }
+  function nextPalette() {
+    setPalette(PALETTES[(PALETTES.findIndex((x) => x.id === palette) + 1) % PALETTES.length].id);
+  }
+  const palName = (id: Palette) => { const p = PALETTES.find((x) => x.id === id)!; return ui.lang === "vi" ? p.vi : p.en; };
   function setMode(m: Mode) {
     mode = m;
     saveSetting("mode", m);
@@ -672,7 +684,7 @@
   <header class="topbar">
     <button class="icon-btn menu-btn" onclick={() => (sideOpen = !sideOpen)} title={t("menu")} aria-label={t("menu")} aria-expanded={sideOpen}><Icon name="history" /></button>
     <div class="brand">
-      <img class="logo" src={palette === "rose" ? `${base}/logo-rose.svg` : `${base}/logo-classic.svg`} alt="" width="30" height="30" />
+      <img class="logo" src={`${base}/logo-${palette}.svg`} alt="" width="30" height="30" />
       <span class="name">Dictionary</span>
     </div>
 
@@ -735,31 +747,15 @@
       <button class:on={ui.lang === "vi"} onclick={() => setUiLang("vi")}>V</button>
     </div>
 
-    <button
-      class="icon-btn palette"
-      onclick={togglePalette}
-      title={palette === "rose" ? t("paletteToClassic") : t("paletteToRose")}
-      aria-label={t("paletteLabel")}
-    >
-      <span class="swatch" class:rose={palette === "rose"}></span>
-      <span class="theme-label">{palette === "rose" ? t("paletteRose") : t("paletteClassic")}</span>
+    <button class="icon-btn palette" onclick={nextPalette} title={t("paletteLabel") + ": " + palName(palette)} aria-label={t("paletteLabel")}>
+      <span class="swatch" style="background: {PALETTES.find((x) => x.id === palette)?.sw}"></span>
+      <span class="theme-label">{palName(palette)}</span>
     </button>
 
     <button class="icon-btn theme" onclick={cycleTheme} title={t("themeTitle", { v: themeName })}>
       <Icon name={theme === "dark" ? "moon" : "sun"} />
       <span class="theme-label">{theme === "auto" ? t("themeAuto") : theme === "dark" ? t("themeDark") : t("themeLight")}</span>
     </button>
-    {#if IS_WEB}
-      <!-- bản web (UC-W09): tải bản Windows dùng offline, về trang Edtech Corner — mở tab mới -->
-      {#if !IS_ANDROID}
-        <a class="icon-btn" href={DESKTOP_DOWNLOAD} target="_blank" rel="noopener" title={t("downloadDesktop")} aria-label={t("downloadDesktop")}>
-          <Icon name="download" /><span class="wide-label">{t("offlineShort")}</span>
-        </a>
-      {/if}
-      <a class="icon-btn" href={SITE_HOME} target="_blank" rel="noopener" title={t("goSite")} aria-label={t("goSite")}>
-        <Icon name="home" /><span class="wide-label">EdTech Corner</span>
-      </a>
-    {/if}
     <button class="icon-btn" onclick={() => showSettings()} title={t("settings")} aria-label={t("settings")}><Icon name="gear" /></button>
   </header>
 
@@ -883,9 +879,6 @@
               <button class="big" onclick={() => go(w)}>{w}</button>
             {/each}
           </div>
-          {#if IS_WEB}
-            {#if !IS_ANDROID}<p class="desktop-dl"><a href={DESKTOP_DOWNLOAD} target="_blank" rel="noopener">{t("downloadDesktop")}</a></p>{/if}
-          {/if}
         </section>
       {:else if screen.kind === "entry"}
         {#if screen.via}<div class="notice">{describeVia(screen.via)}.</div>{/if}
@@ -974,8 +967,9 @@
           <div class="row">
             <div class="lab">{t("setPalette")}</div>
             <div class="ctl seg">
-              <button class:on={palette === "classic"} onclick={() => palette !== "classic" && togglePalette()}>{t("paletteClassicLong")}</button>
-              <button class:on={palette === "rose"} onclick={() => palette !== "rose" && togglePalette()}>{t("paletteRoseLong")}</button>
+              {#each PALETTES as p (p.id)}
+                <button class:on={palette === p.id} onclick={() => setPalette(p.id)}><span class="swatch sm" style="background: {p.sw}"></span> {ui.lang === "vi" ? p.vi : p.en}</button>
+              {/each}
             </div>
           </div>
           <div class="row">
@@ -1027,7 +1021,7 @@
           </div>
         </section>
       {:else if screen.kind === "sources"}
-        <About sources={screen.list} {status} logo={palette === "rose" ? `${base}/logo-rose.svg` : `${base}/logo-classic.svg`} />
+        <About sources={screen.list} {status} logo={`${base}/logo-${palette}.svg`} />
       {/if}
       {#if IS_WEB}
         <footer class="site-foot">
@@ -1162,6 +1156,13 @@
     border-radius: 50%;
     border: 2px solid rgba(255, 255, 255, 0.8);
     background: linear-gradient(135deg, #0b3db8 50%, #0bbfcf 50%);
+  }
+  .swatch.sm {
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    vertical-align: -1px;
+    margin-right: 4px;
   }
   .swatch.rose {
     background: linear-gradient(135deg, #c2337f 50%, #7b45c9 50%);

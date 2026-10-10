@@ -375,7 +375,14 @@
         {@render fold("colloc", showVi ? "Kết hợp từ" : "Collocations", "")}
         {#if isOpen("colloc")}
           <div class="ielts-box">
-            <p class="ielts-col">{#each colloc.c as c}<span class="chip">{c}</span>{/each} <Badge kind="ai" text="AI" title="Muse AI" /></p>
+            <ul class="coll-list">
+              {#each colloc.c as c}
+                {@const en = typeof c === "string" ? c : c.e}
+                {@const vi = typeof c === "string" ? "" : c.v}
+                <li><b>{en}</b>{#if showVi && vi}<span class="coll-vi">{vi}</span>{/if}</li>
+              {/each}
+            </ul>
+            <div><Badge kind="ai" text="AI" title="Muse AI" /></div>
             {#if colloc.e}<div class="ielts-ex">{colloc.e}{#if showVi && colloc.v}<div class="ielts-vi">{colloc.v}</div>{/if}</div>{/if}
             {#if colloc.n}<p class="ielts-tip">💡 {colloc.n}</p>{/if}
           </div>
@@ -914,6 +921,11 @@
   .ielts-topic { background: var(--accent-soft); color: var(--accent); border-radius: 999px; padding: 2px 8px; font-weight: 600; }
   .ielts-col { margin: 0; display: flex; flex-wrap: wrap; gap: 4px 6px; align-items: center; }
   .ielts-ex { line-height: 1.5; }
+  .coll-list { list-style: none; margin: 0; padding: 0; columns: 2; column-gap: 20px; }
+  .coll-list li { break-inside: avoid; padding: 2px 0; line-height: 1.4; }
+  .coll-list b { font-weight: 600; }
+  .coll-vi { display: block; color: var(--vi); font-size: 0.85rem; }
+  @media (max-width: 600px) { .coll-list { columns: 1; } }
   .ielts-lab { font-size: 0.68rem; font-weight: 700; color: var(--accent); text-transform: uppercase; letter-spacing: 0.04em; margin-right: 6px; }
   .ielts-lab.sp { color: var(--vi); }
   .ielts-vi { color: var(--ink-2); font-size: 0.9rem; }

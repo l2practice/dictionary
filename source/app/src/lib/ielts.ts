@@ -19,7 +19,7 @@ export async function ieltsOf(word: string): Promise<IeltsItem | null> {
 }
 
 // Collocation cho từ phổ biến (Muse AI): data/collocations.json = {từ: {c: [cụm], e: ví dụ, v: dịch, n: ghi chú}}
-export interface Colloc { c: string[]; e: string; v: string; n: string }
+export interface Colloc { c: ({ e: string; v: string } | string)[]; e: string; v: string; n: string }
 let cc: Promise<Record<string, Colloc> | null> | null = null;
 export function collocOf(word: string): Promise<Colloc | null> {
   if (!cc) {

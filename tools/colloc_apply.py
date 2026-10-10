@@ -13,14 +13,25 @@ H = Path(__file__).resolve().parent
 sel = {x["item"] for x in json.load(open(H / "colloc-selected.json", encoding="utf-8"))}
 out, bad = {}, []
 def stem(w): return w[:-1] if w.endswith(("e", "y")) and len(w) > 4 else w
-for f in sorted(glob.glob(str(Path(a.src) / "colloc-*.json"))):
-    try: d = json.load(open(f, encoding="utf-8"))
-    except Exception as e: bad.append((Path(f).name, "JSON lỗi")); continue
-    for it in d.get("items", []):
+def batches():
+    """colloc-NN.json ({items}) hoặc collocations-all.json (danh sách các {batch, items}); cụm có thể là chuỗi hoặc {en, vi}."""
+    files = sorted(glob.glob(str(Path(a.src) / "colloc-*.json"))) + sorted(glob.glob(str(Path(a.src) / "collocations-all.json")))
+    for f in files:
+        try: d = json.load(open(f, encoding="utf-8"))
+        except Exception: bad.append((Path(f).name, "JSON lỗi")); continue
+        for b in (d if isinstance(d, list) else [d]):
+            yield from b.get("items", [])
+
+for it in batches():
+    if True:
         w = str(it.get("item", "")).strip().lower()
         if w not in sel: bad.append((w, "không có trong danh sách")); continue
-        cs = [c.strip() for c in dict.fromkeys(it.get("collocations", [])) if isinstance(c, str) and c.strip()]
-        cs = [c for c in cs if stem(w)[:max(3, len(stem(w)) - 1)] in c.lower()]
+        raw = [(c, "") if isinstance(c, str) else (c.get("en", ""), c.get("vi", "")) for c in it.get("collocations", []) if c]
+        seen, cs = set(), []
+        for en, vi in raw:
+            en = str(en).strip()
+            if en and en.lower() not in seen and stem(w)[:max(3, len(stem(w)) - 1)] in en.lower():
+                seen.add(en.lower()); cs.append({"e": en, "v": str(vi).strip()})
         if len(cs) < 3: bad.append((w, "dưới 3 cụm hợp lệ")); continue
         ex = str(it.get("example", "")).strip()
         if len(ex.split()) > 24: ex = ""

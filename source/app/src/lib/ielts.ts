@@ -5,11 +5,14 @@ export interface IeltsItem {
   writing_example: string; writing_vi: string; speaking_example: string; speaking_vi: string;
   tip: string; topics: string[];
 }
+// Tải sau khi mục từ đã hiện (không tranh băng thông với dữ liệu chính của mục từ)
+const idle = (): Promise<void> =>
+  new Promise((r) => ("requestIdleCallback" in window ? (window as any).requestIdleCallback(() => r(), { timeout: 2500 }) : setTimeout(r, 1200)));
 let cache: Promise<Record<string, IeltsItem> | null> | null = null;
 export function loadIelts(): Promise<Record<string, IeltsItem> | null> {
   if (!cache) {
     const base = ((import.meta.env.VITE_DATA_BASE as string) || "/data/") + "ielts.json";
-    cache = fetch(new URL(base, location.href)).then((r) => (r.ok ? r.json() : null)).catch(() => null);
+    cache = idle().then(() => fetch(new URL(base, location.href))).then((r) => (r.ok ? r.json() : null)).catch(() => null);
   }
   return cache;
 }
@@ -24,7 +27,7 @@ let cc: Promise<Record<string, Colloc> | null> | null = null;
 export function collocOf(word: string): Promise<Colloc | null> {
   if (!cc) {
     const base = ((import.meta.env.VITE_DATA_BASE as string) || "/data/") + "collocations.json";
-    cc = fetch(new URL(base, location.href)).then((r) => (r.ok ? r.json() : null)).catch(() => null);
+    cc = idle().then(() => fetch(new URL(base, location.href))).then((r) => (r.ok ? r.json() : null)).catch(() => null);
   }
   return cc.then((d) => (d ? (d[word.toLowerCase()] ?? null) : null));
 }

@@ -1,0 +1,14 @@
+{
+  "name": "Dictionary",
+  "short_name": "Dictionary",
+  "description": "English–Vietnamese learner's dictionary with collocations, IELTS and economics/accounting terms",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fffaf5",
+  "theme_color": "#E8734A",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}

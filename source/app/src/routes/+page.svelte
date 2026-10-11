@@ -1222,7 +1222,7 @@
   }
   .app {
     display: grid;
-    grid-template-columns: 220px 1fr;
+    grid-template-columns: clamp(250px, 21vw, 300px) 1fr; /* thanh bên đủ rộng để 4 tab (History / Word lists / IELTS / Domains) không xuống dòng */
     grid-template-rows: auto 1fr;
     height: 100vh;
   }
@@ -1417,6 +1417,7 @@
   }
   .tabs button {
     flex: 1;
+    white-space: nowrap;
     border: 0;
     background: none;
     padding: 9px 4px;

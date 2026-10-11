@@ -9,9 +9,12 @@
 
   let { sources, status, logo }: { sources: Source[]; status: DbStatus; logo: string } = $props();
 
-  const AUTHOR_EN = "Le Nguyen Nhu Anh";
-  const AUTHOR_VI = "Lê Nguyễn Như Anh";
-  const CONTACT = "https://edtechcorner.com/contact";
+  const AUTHOR_EN = "Thanh Tu Duong";
+  const AUTHOR_VI = "Thanh Tu Duong";
+  const ORIG_EN = "Le Nguyen Nhu Anh";
+  const ORIG_VI = "Lê Nguyễn Như Anh";
+  const CONTACT = "https://github.com/l2practice/dictionary";
+  const ORIGINAL = "https://github.com/nguyennhuanhle/ec-advanced-learners-dictionary";
   const YEAR = "2026";
 
   type Card = { id: string; title: string; body: string[]; from: string };
@@ -19,7 +22,7 @@
     en: {
       tagline: "English–English · English–Vietnamese · Vietnamese–English",
       intro:
-        "An offline learner's dictionary for Vietnamese learners and teachers of English. The page layout follows modern advanced learner's dictionaries, but all of the content comes from open data or was newly written for this dictionary and labelled AI.",
+        "An offline learner's dictionary for Vietnamese learners and teachers of English. The page layout follows modern advanced learner's dictionaries, but all of the content comes from open data or was newly written for this dictionary and labelled AI. This edition, by Thanh Tu Duong, adds economics and accounting terms, collocations and IELTS vocabulary.",
       appVer: "App version",
       dataVer: "Data version",
       built: "built",
@@ -27,10 +30,13 @@
       creditsTitle: "Credits",
       createdBy: "Created by",
       author: AUTHOR_EN,
-      contactTitle: "Contact the author (opens in your web browser)",
-      authorRole: "Founder, Edtech Corner · concept, editorial direction and design",
+      contactTitle: "Project page on GitHub (opens in your web browser)",
+      basedTitle: "Based on",
+      based: "The EC Advanced Learners' Dictionary by Le Nguyen Nhu Anh (Edtech Corner), used with the author's permission. Its page design, open-data pipeline and learner layer inspired and underpin this dictionary. The economics and accounting layer, the collocations, the IELTS vocabulary, the new look and the web edition are the work of Thanh Tu Duong.",
+      authorRole: "Developer & editor · built this edition and compiled the economics and accounting layer, collocations and IELTS vocabulary",
       thanksTitle: "With thanks to",
       thanks: [
+        "Le Nguyen Nhu Anh (Edtech Corner), whose EC Advanced Learners' Dictionary inspired this project and gave it its design and method;",
         "the contributors to Wiktionary (English and Vietnamese editions);",
         "Tatu Ylonen and the Wiktextract / kaikki.org project;",
         "the Open English WordNet team;",
@@ -40,7 +46,7 @@
       ],
       toolsTitle: "AI tools",
       tools:
-        "The learner layer was drafted by Google Gemini 3.8 Flash. The software was built with the help of Claude (Anthropic).",
+        "The original learner layer (25,914 entries) was drafted by Google Gemini 3.8 Flash. The economics and accounting meanings, the collocations and the IELTS lists added in this edition were drafted by Claude (Anthropic) and Muse AI, directed by Thanh Tu Duong, with automatic checks and sample review. The software was built with the help of Claude (Anthropic).",
       glance: "At a glance",
       glanceItems: [
         ["headwords", "English headwords"],
@@ -139,14 +145,49 @@
           from: "Wiktionary · built-in",
         },
         {
+          id: "econ",
+          title: "Economics and accounting terms (this edition)",
+          body: [
+            "About 2,300 headwords carry a domain label (accounting, economics, finance, banking, tax, insurance, stock market, commerce, money, business, marketing, management). The labels come from Wiktionary topic categories. Browse them in the Domains tab.",
+            "For more than 1,600 of these entries the meanings were written as simple English definitions with Vietnamese terms and examples, drafted by Claude and Muse AI and marked AI.",
+          ],
+          from: "Wiktionary categories · Claude, Muse AI",
+        },
+        {
+          id: "colloc",
+          title: "Collocations (this edition)",
+          body: [
+            "3,000 frequent content words each have five collocations with a Vietnamese meaning, an example sentence and a usage note: 15,000 collocations in total, shown under Collocations in the entry.",
+            "Drafted by Muse AI from a list of frequent words, checked automatically (the word must appear in each phrase), and marked AI.",
+          ],
+          from: "Muse AI",
+        },
+        {
+          id: "ielts",
+          title: "IELTS vocabulary (this edition)",
+          body: [
+            "1,169 words and phrases across 32 IELTS topics, each with collocations, a formal example for Writing and a spoken example for Speaking (both with a Vietnamese translation), a CEFR level and a band hint. Browse them by topic in the IELTS tab.",
+            "Drafted by Muse AI and marked AI. Treat the band hints as guidance only.",
+          ],
+          from: "Muse AI",
+        },
+        {
+          id: "speed",
+          title: "Speed and offline use (this edition)",
+          body: [
+            "The page saves itself in your browser. After the first visit it opens almost at once, and words you have already looked up still work without a connection. It can be added to your phone's home screen like an app.",
+          ],
+          from: "Service worker",
+        },
+        {
           id: "ai",
           title: "About the AI content",
           body: [
-            "Model: Google Gemini 3.8 Flash. The model received the Wiktionary senses and the Vietnamese Wiktionary glosses as its input.",
+            "Models: Google Gemini 3.8 Flash (original learner layer; it received the Wiktionary senses and the Vietnamese Wiktionary glosses as input), and Claude (Anthropic) and Muse AI for the additions of this edition.",
             "Each answer is checked automatically for structure, and every sense it returns must point back to a real Wiktionary sense. Answers that fail the check are discarded and run again.",
             "Every AI line carries the AI label and is stored separately from the source data. AI content can contain mistakes; compare it with the full Wiktionary layer when in doubt.",
           ],
-          from: "Gemini (AI)",
+          from: "Gemini, Claude, Muse AI (AI)",
         },
       ] as Card[],
       srcTitle: "Data sources",
@@ -155,12 +196,13 @@
       licTitle: "Licence",
       appLicTitle: "The app: free licence",
       appLic: [
-        `© ${YEAR} ${AUTHOR_EN}, Edtech Corner. ${APP_NAME} is free of charge.`,
+        `Original work © ${YEAR} ${ORIG_EN}, Edtech Corner (EC Advanced Learners' Dictionary). Modifications and additions © ${YEAR} ${AUTHOR_EN}. ${APP_NAME} is free of charge.`,
+        "This modified edition is published with the original author's permission.",
         "You may install and use it free of charge for personal study, for teaching and within your organisation.",
         "You may give copies of the unmodified installer to others, free of charge, and you may read and build the source code for your own use.",
         "You may not sell the app or charge for it, remove its credits or notices, or distribute modified versions without the author's written permission.",
         "The app is provided “as is”, without warranty of any kind. The author is not liable for any loss arising from its use or from errors in the content.",
-        "The name and the logo belong to Edtech Corner.",
+        "The name and logo of the original EC Advanced Learners' Dictionary belong to Edtech Corner; this edition uses its own name and icon.",
       ],
       dataLicTitle: "The dictionary data: CC BY-SA 4.0",
       dataLic: [
@@ -178,7 +220,7 @@
       privacy: "Privacy: the app works fully offline and never sends your searches, word lists or settings anywhere.",
       // bản web (UC-W09)
       introWeb:
-        "A learner's dictionary for Vietnamese learners and teachers of English. The page layout follows modern advanced learner's dictionaries, but all of the content comes from open data or was newly written for this dictionary and labelled AI.",
+        "A learner's dictionary for Vietnamese learners and teachers of English. The page layout follows modern advanced learner's dictionaries, but all of the content comes from open data or was newly written for this dictionary and labelled AI. This edition, by Thanh Tu Duong, adds economics and accounting terms, collocations and IELTS vocabulary.",
       ipaWeb: [
         "IPA comes from Wiktionary: UK = Received Pronunciation, US = General American. If Wiktionary has no UK transcription, the one from ECDICT is converted to IPA and shown as UK (ECDICT transcriptions are British-style, so they are never shown as US).",
         "Audio uses the text-to-speech voices on your device; the dictionary has no audio recordings. If your device has no suitable voice, the browser's online voices are used; you can turn them off in Settings.",
@@ -187,14 +229,14 @@
       webPrivacy: [
         "This page only downloads the dictionary's own files from this site: the page itself and small data files for the words you look up.",
         "No account, no advertising. The word you look up stays after the “#” in the address, so it is not sent to the server; the server only sees which data file was downloaded, and each file covers dozens of words.",
-        "The site uses Google Analytics only to count page visits (anonymous statistics such as country, device and browser). The dictionary removes the “#…” part of the address before anything reaches Google and sends no events for lookups, word lists or settings, so Google Analytics does not learn which words you look up. Google Analytics sets its own cookies; you can block it in your browser settings or with an ad blocker, and the dictionary works the same.",
+        "This site does not use analytics, advertising or tracking cookies. Nothing about the words you look up is collected.",
         "Your history, word lists and settings are stored only in this browser on this device. Use Settings › Download backup to keep a copy or to move them to another device.",
         "Read-aloud uses the voices on your device first. Online voices are on by default: when one is used, the text being read is sent to the browser maker's server (for example Google for Chrome, Microsoft for Edge). To use only the voices on your device, turn off Settings › Online voices.",
       ],
       desktopLead: "Want to use the dictionary without internet?",
       // app Android (UC-A07)
       introAndroid:
-        "An offline learner's dictionary for Vietnamese learners and teachers of English. The page layout follows modern advanced learner's dictionaries, but all of the content comes from open data or was newly written for this dictionary and labelled AI.",
+        "An offline learner's dictionary for Vietnamese learners and teachers of English. The page layout follows modern advanced learner's dictionaries, but all of the content comes from open data or was newly written for this dictionary and labelled AI. This edition, by Thanh Tu Duong, adds economics and accounting terms, collocations and IELTS vocabulary.",
       ipaAndroid: [
         "IPA comes from Wiktionary: UK = Received Pronunciation, US = General American. If Wiktionary has no UK transcription, the one from ECDICT is converted to IPA and shown as UK (ECDICT transcriptions are British-style, so they are never shown as US).",
         "Audio uses the text-to-speech voices installed on your phone (for example Speech Services by Google); the dictionary has no audio recordings.",
@@ -216,7 +258,7 @@
     vi: {
       tagline: "Anh–Anh · Anh–Việt · Việt–Anh",
       intro:
-        "Từ điển offline cho người Việt học và dạy tiếng Anh. Bố cục mục từ theo kiểu từ điển người học nâng cao hiện đại. Toàn bộ nội dung lấy từ dữ liệu mở, hoặc được viết mới cho từ điển này và gắn nhãn AI.",
+        "Từ điển offline cho người Việt học và dạy tiếng Anh. Bố cục mục từ theo kiểu từ điển người học nâng cao hiện đại. Toàn bộ nội dung lấy từ dữ liệu mở, hoặc được viết mới cho từ điển này và gắn nhãn AI. Bản này, do Thanh Tu Duong thực hiện, bổ sung thuật ngữ kinh tế – kế toán, collocation và từ vựng IELTS.",
       appVer: "Phiên bản app",
       dataVer: "Phiên bản dữ liệu",
       built: "dựng ngày",
@@ -224,10 +266,13 @@
       creditsTitle: "Ghi công",
       createdBy: "Tác giả",
       author: AUTHOR_VI,
-      contactTitle: "Liên hệ tác giả (mở bằng trình duyệt web)",
-      authorRole: "Nhà sáng lập Edtech Corner · ý tưởng, định hướng biên soạn và thiết kế",
+      contactTitle: "Trang dự án trên GitHub (mở bằng trình duyệt web)",
+      basedTitle: "Dựa trên",
+      based: "Từ điển EC Advanced Learners' Dictionary của Lê Nguyễn Như Anh (Edtech Corner), dùng với sự đồng ý của tác giả. Thiết kế mục từ, quy trình dữ liệu mở và lớp người học của bản gốc là nguồn cảm hứng và nền tảng cho từ điển này. Lớp thuật ngữ kinh tế – kế toán, collocation, từ vựng IELTS, giao diện mới và bản web là công sức của Thanh Tu Duong.",
+      authorRole: "Developer & editor · xây dựng bản này, biên soạn lớp kinh tế – kế toán, collocation và từ vựng IELTS",
       thanksTitle: "Xin cảm ơn",
       thanks: [
+        "Lê Nguyễn Như Anh (Edtech Corner), người đã truyền cảm hứng cho dự án này qua EC Advanced Learners' Dictionary và là nền tảng về thiết kế lẫn phương pháp;",
         "những người đóng góp cho Wiktionary (bản tiếng Anh và tiếng Việt);",
         "Tatu Ylonen và dự án Wiktextract / kaikki.org;",
         "nhóm Open English WordNet;",
@@ -236,7 +281,7 @@
         "skywind3000 (ECDICT).",
       ],
       toolsTitle: "Công cụ AI",
-      tools: "Lớp người học do Google Gemini 3.8 Flash soạn nháp. Phần mềm được xây dựng với sự hỗ trợ của Claude (Anthropic).",
+      tools: "Lớp người học gốc (25.914 mục) do Google Gemini 3.8 Flash soạn nháp. Nghĩa kinh tế – kế toán, collocation và danh sách IELTS thêm vào ở bản này do Claude (Anthropic) và Muse AI soạn nháp, dưới sự định hướng của Thanh Tu Duong, có kiểm tra tự động và duyệt mẫu. Phần mềm được xây dựng với sự hỗ trợ của Claude (Anthropic).",
       glance: "Số liệu",
       glanceItems: [
         ["headwords", "từ đầu mục tiếng Anh"],
@@ -335,14 +380,49 @@
           from: "Wiktionary · tính sẵn trong app",
         },
         {
+          id: "econ",
+          title: "Thuật ngữ kinh tế – kế toán (bản này)",
+          body: [
+            "Khoảng 2.300 từ đầu mục có nhãn ngành (kế toán, kinh tế, tài chính, ngân hàng, thuế, bảo hiểm, chứng khoán, thương mại, tiền tệ, kinh doanh, marketing, quản trị). Nhãn lấy từ các chuyên mục chủ đề của Wiktionary. Xem theo ngành ở tab Domains.",
+            "Với hơn 1.600 mục trong số này, nghĩa được viết lại bằng tiếng Anh đơn giản, kèm thuật ngữ tiếng Việt và ví dụ, do Claude và Muse AI soạn nháp và gắn nhãn AI.",
+          ],
+          from: "Chuyên mục Wiktionary · Claude, Muse AI",
+        },
+        {
+          id: "colloc",
+          title: "Collocation (bản này)",
+          body: [
+            "3.000 từ nội dung thông dụng, mỗi từ có năm collocation kèm nghĩa tiếng Việt, một câu ví dụ và ghi chú cách dùng: tổng cộng 15.000 collocation, hiện ở mục Kết hợp từ trong mục từ.",
+            "Do Muse AI soạn nháp từ danh sách từ thông dụng, kiểm tra tự động (mỗi cụm phải chứa đúng từ) và gắn nhãn AI.",
+          ],
+          from: "Muse AI",
+        },
+        {
+          id: "ielts",
+          title: "Từ vựng IELTS (bản này)",
+          body: [
+            "1.169 từ và cụm từ thuộc 32 chủ đề IELTS, mỗi mục có collocation, một câu ví dụ trang trọng cho Writing và một câu nói cho Speaking (đều kèm bản dịch), mức CEFR và gợi ý band. Xem theo chủ đề ở tab IELTS.",
+            "Do Muse AI soạn nháp và gắn nhãn AI. Gợi ý band chỉ mang tính tham khảo.",
+          ],
+          from: "Muse AI",
+        },
+        {
+          id: "speed",
+          title: "Tốc độ và dùng khi mất mạng (bản này)",
+          body: [
+            "Trang tự lưu vào trình duyệt. Từ lần mở thứ hai trang hiện gần như tức thì, và các từ bạn đã tra vẫn dùng được khi không có mạng. Có thể thêm vào màn hình chính điện thoại như một ứng dụng.",
+          ],
+          from: "Service worker",
+        },
+        {
           id: "ai",
           title: "Về nội dung AI",
           body: [
-            "Mô hình là Google Gemini 3.8 Flash. Đầu vào là các nghĩa Wiktionary và nghĩa gợi ý từ Wiktionary tiếng Việt.",
+            "Mô hình: Google Gemini 3.8 Flash (lớp người học gốc; đầu vào là các nghĩa Wiktionary và nghĩa gợi ý từ Wiktionary tiếng Việt), cùng Claude (Anthropic) và Muse AI cho phần bổ sung của bản này.",
             "Mỗi câu trả lời được kiểm tra tự động về cấu trúc, và mỗi nghĩa trả về phải trỏ đúng một nghĩa Wiktionary có thật. Câu trả lời không đạt bị loại và chạy lại.",
             "Mọi dòng AI đều có nhãn AI và lưu riêng, không ghi đè dữ liệu nguồn. Nội dung AI có thể sai; khi nghi ngờ, hãy so với lớp Wiktionary đầy đủ.",
           ],
-          from: "Gemini (AI)",
+          from: "Gemini, Claude, Muse AI (AI)",
         },
       ] as Card[],
       srcTitle: "Nguồn dữ liệu",
@@ -351,12 +431,13 @@
       licTitle: "Giấy phép",
       appLicTitle: "Ứng dụng: giấy phép miễn phí",
       appLic: [
-        `© ${YEAR} ${AUTHOR_VI}, Edtech Corner. ${APP_NAME} được cung cấp miễn phí.`,
+        `Tác phẩm gốc © ${YEAR} ${ORIG_VI}, Edtech Corner (EC Advanced Learners' Dictionary). Phần sửa đổi và bổ sung © ${YEAR} ${AUTHOR_VI}. ${APP_NAME} được cung cấp miễn phí.`,
+        "Bản chỉnh sửa này được phát hành với sự đồng ý của tác giả bản gốc.",
         "Bạn được cài đặt và sử dụng miễn phí để tự học, giảng dạy và dùng trong tổ chức của mình.",
         "Bạn được chia sẻ miễn phí bản cài đặt nguyên vẹn cho người khác, và được đọc, build mã nguồn để dùng riêng.",
         "Bạn không được bán hay thu phí cho ứng dụng, gỡ bỏ phần ghi công hoặc thông báo bản quyền, hay phát hành bản đã sửa đổi khi chưa có sự đồng ý bằng văn bản của tác giả.",
         "Ứng dụng được cung cấp “nguyên trạng”, không kèm bất kỳ bảo đảm nào. Tác giả không chịu trách nhiệm về thiệt hại phát sinh từ việc sử dụng hay từ sai sót trong nội dung.",
-        "Tên và logo thuộc về Edtech Corner.",
+        "Tên và logo của EC Advanced Learners' Dictionary gốc thuộc về Edtech Corner; bản này dùng tên và biểu tượng riêng.",
       ],
       dataLicTitle: "Dữ liệu từ điển: CC BY-SA 4.0",
       dataLic: [
@@ -373,7 +454,7 @@
       ],
       privacy: "Quyền riêng tư: ứng dụng chạy hoàn toàn offline, không gửi từ đã tra, danh sách từ hay cài đặt của bạn đi đâu cả.",
       introWeb:
-        "Từ điển cho người Việt học và dạy tiếng Anh. Bố cục mục từ theo kiểu từ điển người học nâng cao hiện đại. Toàn bộ nội dung lấy từ dữ liệu mở, hoặc được viết mới cho từ điển này và gắn nhãn AI.",
+        "Từ điển cho người Việt học và dạy tiếng Anh. Bố cục mục từ theo kiểu từ điển người học nâng cao hiện đại. Toàn bộ nội dung lấy từ dữ liệu mở, hoặc được viết mới cho từ điển này và gắn nhãn AI. Bản này, do Thanh Tu Duong thực hiện, bổ sung thuật ngữ kinh tế – kế toán, collocation và từ vựng IELTS.",
       ipaWeb: [
         "Phiên âm IPA lấy từ Wiktionary: UK theo giọng chuẩn Anh (RP), US theo giọng Mỹ phổ thông (GA). Khi Wiktionary không có phiên âm UK thì dùng phiên âm của ECDICT, đổi sang ký hiệu IPA và chỉ ghi là UK (phiên âm ECDICT theo kiểu Anh nên không bao giờ ghi là US).",
         "Âm thanh dùng giọng đọc máy có sẵn trên thiết bị của bạn; từ điển không có file ghi âm. Khi thiết bị không có giọng phù hợp, trang dùng giọng đọc trực tuyến của trình duyệt; bạn có thể tắt trong Cài đặt.",
@@ -382,13 +463,13 @@
       webPrivacy: [
         "Trang chỉ tải các file của chính từ điển từ chính trang này: bản thân trang và các file dữ liệu nhỏ chứa từ bạn tra.",
         "Không tài khoản, không quảng cáo. Từ bạn tra nằm sau dấu “#” trên địa chỉ nên không được gửi lên máy chủ; máy chủ chỉ thấy file dữ liệu nào được tải, mỗi file chứa vài chục từ.",
-        "Trang dùng Google Analytics chỉ để đếm lượt mở trang (thống kê ẩn danh như quốc gia, thiết bị, trình duyệt). Từ điển bỏ phần “#…” của địa chỉ trước khi gửi cho Google và không gửi sự kiện nào khi bạn tra từ, lưu từ hay đổi cài đặt, nên Google Analytics không biết bạn tra từ gì. Google Analytics dùng cookie riêng; bạn có thể chặn bằng cài đặt trình duyệt hoặc trình chặn quảng cáo, từ điển vẫn chạy bình thường.",
+        "Trang này không dùng công cụ phân tích, quảng cáo hay cookie theo dõi. Không có thông tin nào về các từ bạn tra được thu thập.",
         "Lịch sử, danh sách từ và cài đặt chỉ lưu trong trình duyệt này trên thiết bị này. Dùng Cài đặt › Tải file sao lưu để giữ một bản hoặc chuyển sang thiết bị khác.",
         "Đọc to ưu tiên giọng đọc trên thiết bị. Giọng đọc trực tuyến mặc định bật: khi được dùng, chữ cần đọc sẽ gửi tới máy chủ của hãng trình duyệt (ví dụ Google với Chrome, Microsoft với Edge). Muốn chỉ dùng giọng trên thiết bị, tắt Cài đặt › Giọng đọc trực tuyến.",
       ],
       desktopLead: "Muốn dùng từ điển khi không có mạng?",
       introAndroid:
-        "Từ điển offline cho người Việt học và dạy tiếng Anh. Bố cục mục từ theo kiểu từ điển người học nâng cao hiện đại. Toàn bộ nội dung lấy từ dữ liệu mở, hoặc được viết mới cho từ điển này và gắn nhãn AI.",
+        "Từ điển offline cho người Việt học và dạy tiếng Anh. Bố cục mục từ theo kiểu từ điển người học nâng cao hiện đại. Toàn bộ nội dung lấy từ dữ liệu mở, hoặc được viết mới cho từ điển này và gắn nhãn AI. Bản này, do Thanh Tu Duong thực hiện, bổ sung thuật ngữ kinh tế – kế toán, collocation và từ vựng IELTS.",
       ipaAndroid: [
         "Phiên âm IPA lấy từ Wiktionary: UK theo giọng chuẩn Anh (RP), US theo giọng Mỹ phổ thông (GA). Khi Wiktionary không có phiên âm UK thì dùng phiên âm của ECDICT, đổi sang ký hiệu IPA và chỉ ghi là UK (phiên âm ECDICT theo kiểu Anh nên không bao giờ ghi là US).",
         "Âm thanh dùng giọng đọc máy cài trên điện thoại (ví dụ Speech Services by Google); từ điển không có file ghi âm.",
@@ -468,6 +549,9 @@
       <div class="role">{c.authorRole}</div>
       <div class="k sub">{c.toolsTitle}</div>
       <p>{c.tools}</p>
+      <div class="k sub">{c.basedTitle}</div>
+      <p>{c.based}</p>
+      <p><a class="contact" href={ORIGINAL} onclick={(e) => openExternal(e, ORIGINAL)}>{ORIGINAL.replace("https://", "")}</a></p>
     </div>
     <div class="card">
       <div class="k">{c.thanksTitle}</div>

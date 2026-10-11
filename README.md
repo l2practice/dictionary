@@ -3,10 +3,7 @@
 Từ điển học tiếng Anh dạng web tĩnh: Anh–Anh, Anh–Việt, Việt–Anh, chạy offline sau lần tải đầu. Bản cá nhân, thêm lớp
 **thuật ngữ Kinh tế – Kế toán** (nhãn ngành) và phần học thuật thử nghiệm do Claude soạn (luôn gắn nhãn **AI**).
 
-> Giao diện là bản sửa từ [ec-advanced-learners-dictionary](https://github.com/nguyennhuanhle/ec-advanced-learners-dictionary)
-> của Lê Nguyễn Như Anh (Edtech Corner), **được tác giả đồng ý bằng email** cho việc phát hành bản sửa này.
-> Giấy phép gốc: `LICENSE-UPSTREAM-APP.txt`. Bản này đã bỏ Google Analytics của bản gốc, đổi tên và logo;
-> tên và logo "EC Advanced Learners' Dictionary" / Edtech Corner vẫn thuộc về tác giả gốc.
+> Special thanks to Lê Nguyễn Như Anh, whose [EC Advanced Learners' Dictionary](https://dictionary.edtechcorner.com) inspired this project.
 
 ## Chạy thử trên máy
 
@@ -25,7 +22,7 @@ python3 serve.py        # → http://127.0.0.1:4173/dictionary/
 
 ## Dữ liệu và ghi công
 
-Dữ liệu dựng sẵn từ bản web của dictionary.edtechcorner.com (CC BY-SA 4.0): Wiktionary (en, vi; Wiktextract/kaikki.org),
+Dữ liệu từ điển dựng từ các nguồn mở (CC BY-SA 4.0): Wiktionary (en, vi; Wiktextract/kaikki.org),
 Open English WordNet (CC BY 4.0), CEFR-J và Octanove Vocabulary Profile, Tatoeba (CC BY 2.0 FR), ECDICT (MIT).
 Chi tiết nguồn và giấy phép: `data/v/*/LICENSES.md` và trang *About* trong ứng dụng. Phần dữ liệu bổ sung (nhãn ngành từ
 Wiktionary categories; nghĩa do Claude soạn) cùng giấy phép CC BY-SA 4.0.

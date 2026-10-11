@@ -70,7 +70,7 @@
   import About from "$lib/About.svelte";
   import * as api from "$lib/api";
   import { cleanQuery, describeVia } from "$lib/api";
-  import { DESKTOP_DOWNLOAD, IS_ANDROID, IS_WEB, SITE_HOME, downloadText, loadAndroid, openExternalUrl, persistStorage, pickSavePath } from "$lib/platform";
+  import { IS_ANDROID, IS_WEB, downloadText, loadAndroid, openExternalUrl, persistStorage, pickSavePath } from "$lib/platform";
   import { writeClipboard } from "$lib/copy";
   import { initAnalytics } from "$lib/analytics";
   import { setOnlineVoices, speak, speakAndroid, type Accent } from "$lib/speech";
@@ -938,7 +938,6 @@
           <p>{t("webDownHelp")}</p>
           <p>
             <button class="k" onclick={() => location.reload()}>{t("retry")}</button>
-            <a class="k" href={DESKTOP_DOWNLOAD} target="_blank" rel="noopener">{t("downloadDesktop")}</a>
           </p>
         </section>
       {:else if !status.ok}
@@ -1123,8 +1122,7 @@
       {/if}
       {#if IS_WEB}
         <footer class="site-foot">
-          {t("footData")} · <button class="k" onclick={() => showSources()}>{t("footAbout")}</button> ·
-          <a href={SITE_HOME} target="_blank" rel="noopener">EdTech Corner</a>
+          {t("footData")} · <button class="k" onclick={() => showSources()}>{t("footAbout")}</button>
         </footer>
       {/if}
     </div>

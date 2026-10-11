@@ -4,17 +4,15 @@
   import { APP_NAME, t, ui } from "./i18n.svelte";
   import type { DbStatus, Source } from "./types";
   import Badge from "./Badge.svelte";
-  import { DESKTOP_DOWNLOAD, IS_ANDROID, IS_WEB, SITE_HOME, openExternalUrl } from "./platform";
+  import { IS_ANDROID, IS_WEB, openExternalUrl } from "./platform";
   import Icon from "./Icon.svelte";
 
   let { sources, status, logo }: { sources: Source[]; status: DbStatus; logo: string } = $props();
 
   const AUTHOR_EN = "Thanh Tu Duong";
   const AUTHOR_VI = "Thanh Tu Duong";
-  const ORIG_EN = "Le Nguyen Nhu Anh";
-  const ORIG_VI = "Lê Nguyễn Như Anh";
   const CONTACT = "https://github.com/l2practice/dictionary";
-  const ORIGINAL = "https://github.com/nguyennhuanhle/ec-advanced-learners-dictionary";
+  const SPECIAL_THANKS = "https://dictionary.edtechcorner.com";
   const YEAR = "2026";
 
   type Card = { id: string; title: string; body: string[]; from: string };
@@ -31,12 +29,11 @@
       createdBy: "Created by",
       author: AUTHOR_EN,
       contactTitle: "Project page on GitHub (opens in your web browser)",
-      basedTitle: "Based on",
-      based: "The EC Advanced Learners' Dictionary by Le Nguyen Nhu Anh (Edtech Corner), used with the author's permission. Its page design, open-data pipeline and learner layer inspired and underpin this dictionary. The economics and accounting layer, the collocations, the IELTS vocabulary, the new look and the web edition are the work of Thanh Tu Duong.",
       authorRole: "Developer & editor · built this edition and compiled the economics and accounting layer, collocations and IELTS vocabulary",
       thanksTitle: "With thanks to",
+      special: "Special thanks to Le Nguyen Nhu Anh, whose dictionary inspired this project:",
+      specialLink: "EC Advanced Learners' Dictionary",
       thanks: [
-        "Le Nguyen Nhu Anh (Edtech Corner), whose EC Advanced Learners' Dictionary inspired this project and gave it its design and method;",
         "the contributors to Wiktionary (English and Vietnamese editions);",
         "Tatu Ylonen and the Wiktextract / kaikki.org project;",
         "the Open English WordNet team;",
@@ -196,13 +193,11 @@
       licTitle: "Licence",
       appLicTitle: "The app: free licence",
       appLic: [
-        `Original work © ${YEAR} ${ORIG_EN}, Edtech Corner (EC Advanced Learners' Dictionary). Modifications and additions © ${YEAR} ${AUTHOR_EN}. ${APP_NAME} is free of charge.`,
-        "This modified edition is published with the original author's permission.",
+        `© ${YEAR} ${AUTHOR_EN}. ${APP_NAME} is free of charge.`,
         "You may install and use it free of charge for personal study, for teaching and within your organisation.",
         "You may give copies of the unmodified installer to others, free of charge, and you may read and build the source code for your own use.",
         "You may not sell the app or charge for it, remove its credits or notices, or distribute modified versions without the author's written permission.",
         "The app is provided “as is”, without warranty of any kind. The author is not liable for any loss arising from its use or from errors in the content.",
-        "The name and logo of the original EC Advanced Learners' Dictionary belong to Edtech Corner; this edition uses its own name and icon.",
       ],
       dataLicTitle: "The dictionary data: CC BY-SA 4.0",
       dataLic: [
@@ -247,7 +242,7 @@
         "No account, no advertising, no analytics. The app does not collect or share any data.",
         "Your history, word lists and settings are stored only inside the app on this phone. The app does not use Android's automatic backup, so uninstalling the app deletes them — use Settings › Backup to keep a copy.",
         "Read-aloud uses the text-to-speech engine of your phone; that engine (for example Speech Services by Google) follows its own privacy terms.",
-        "Links to websites (edtechcorner.com, data sources, licences) open in your phone's browser.",
+        "Links to websites (data sources, licences) open in your phone's browser.",
       ],
       swAndroid: [
         "Capacitor and its plugins (MIT)",
@@ -267,12 +262,11 @@
       createdBy: "Tác giả",
       author: AUTHOR_VI,
       contactTitle: "Trang dự án trên GitHub (mở bằng trình duyệt web)",
-      basedTitle: "Dựa trên",
-      based: "Từ điển EC Advanced Learners' Dictionary của Lê Nguyễn Như Anh (Edtech Corner), dùng với sự đồng ý của tác giả. Thiết kế mục từ, quy trình dữ liệu mở và lớp người học của bản gốc là nguồn cảm hứng và nền tảng cho từ điển này. Lớp thuật ngữ kinh tế – kế toán, collocation, từ vựng IELTS, giao diện mới và bản web là công sức của Thanh Tu Duong.",
       authorRole: "Developer & editor · xây dựng bản này, biên soạn lớp kinh tế – kế toán, collocation và từ vựng IELTS",
       thanksTitle: "Xin cảm ơn",
+      special: "Đặc biệt cảm ơn Lê Nguyễn Như Anh, người đã truyền cảm hứng cho dự án này qua từ điển:",
+      specialLink: "EC Advanced Learners' Dictionary",
       thanks: [
-        "Lê Nguyễn Như Anh (Edtech Corner), người đã truyền cảm hứng cho dự án này qua EC Advanced Learners' Dictionary và là nền tảng về thiết kế lẫn phương pháp;",
         "những người đóng góp cho Wiktionary (bản tiếng Anh và tiếng Việt);",
         "Tatu Ylonen và dự án Wiktextract / kaikki.org;",
         "nhóm Open English WordNet;",
@@ -431,13 +425,11 @@
       licTitle: "Giấy phép",
       appLicTitle: "Ứng dụng: giấy phép miễn phí",
       appLic: [
-        `Tác phẩm gốc © ${YEAR} ${ORIG_VI}, Edtech Corner (EC Advanced Learners' Dictionary). Phần sửa đổi và bổ sung © ${YEAR} ${AUTHOR_VI}. ${APP_NAME} được cung cấp miễn phí.`,
-        "Bản chỉnh sửa này được phát hành với sự đồng ý của tác giả bản gốc.",
+        `© ${YEAR} ${AUTHOR_VI}. ${APP_NAME} được cung cấp miễn phí.`,
         "Bạn được cài đặt và sử dụng miễn phí để tự học, giảng dạy và dùng trong tổ chức của mình.",
         "Bạn được chia sẻ miễn phí bản cài đặt nguyên vẹn cho người khác, và được đọc, build mã nguồn để dùng riêng.",
         "Bạn không được bán hay thu phí cho ứng dụng, gỡ bỏ phần ghi công hoặc thông báo bản quyền, hay phát hành bản đã sửa đổi khi chưa có sự đồng ý bằng văn bản của tác giả.",
         "Ứng dụng được cung cấp “nguyên trạng”, không kèm bất kỳ bảo đảm nào. Tác giả không chịu trách nhiệm về thiệt hại phát sinh từ việc sử dụng hay từ sai sót trong nội dung.",
-        "Tên và logo của EC Advanced Learners' Dictionary gốc thuộc về Edtech Corner; bản này dùng tên và biểu tượng riêng.",
       ],
       dataLicTitle: "Dữ liệu từ điển: CC BY-SA 4.0",
       dataLic: [
@@ -480,7 +472,7 @@
         "Không tài khoản, không quảng cáo, không thống kê. App không thu thập và không chia sẻ dữ liệu nào.",
         "Lịch sử, danh sách từ và cài đặt chỉ lưu trong app trên điện thoại này. App không dùng sao lưu tự động của Android, nên gỡ app là mất — hãy dùng Cài đặt › Sao lưu để giữ một bản.",
         "Đọc to dùng bộ đọc văn bản của điện thoại; bộ đọc đó (ví dụ Speech Services by Google) theo điều khoản quyền riêng tư của nó.",
-        "Liên kết tới trang web (edtechcorner.com, nguồn dữ liệu, giấy phép) mở bằng trình duyệt của điện thoại.",
+        "Liên kết tới trang web (nguồn dữ liệu, giấy phép) mở bằng trình duyệt của điện thoại.",
       ],
       swAndroid: [
         "Capacitor và các plugin (MIT)",
@@ -528,12 +520,6 @@
       </div>
     </div>
   </header>
-  {#if IS_WEB}
-    <div class="hero-links">
-      {#if !IS_ANDROID}<a class="btn primary" href={DESKTOP_DOWNLOAD} target="_blank" rel="noopener"><Icon name="download" size={16} /> {t("downloadDesktop")}</a>{/if}
-      <a class="btn" href={SITE_HOME} target="_blank" rel="noopener"><Icon name="home" size={16} /> {t("goSite")}</a>
-    </div>
-  {/if}
   <p class="intro">{IS_ANDROID ? c.introAndroid : IS_WEB ? c.introWeb : c.intro}</p>
 
   <nav class="toc">
@@ -549,13 +535,11 @@
       <div class="role">{c.authorRole}</div>
       <div class="k sub">{c.toolsTitle}</div>
       <p>{c.tools}</p>
-      <div class="k sub">{c.basedTitle}</div>
-      <p>{c.based}</p>
-      <p><a class="contact" href={ORIGINAL} onclick={(e) => openExternal(e, ORIGINAL)}>{ORIGINAL.replace("https://", "")}</a></p>
+
     </div>
     <div class="card">
       <div class="k">{c.thanksTitle}</div>
-      <ul>{#each c.thanks as x}<li>{x}</li>{/each}</ul>
+      <ul><li>{c.special} <a href={SPECIAL_THANKS} target="_blank" rel="noopener" onclick={(e) => openExternal(e, SPECIAL_THANKS)}>{c.specialLink}</a></li>{#each c.thanks as x}<li>{x}</li>{/each}</ul>
     </div>
   </div>
   <div class="glance">
@@ -612,13 +596,11 @@
     <div class="card lic">
       <h3>{c.androidPrivacyTitle}</h3>
       <ul>{#each c.androidPrivacy as x}<li>{x}</li>{/each}</ul>
-      <p class="dl"><a href={DESKTOP_DOWNLOAD} target="_blank" rel="noopener">{t("downloadDesktop")}</a></p>
     </div>
   {:else if IS_WEB}
     <div class="card lic">
       <h3>{c.webPrivacyTitle}</h3>
       <ul>{#each c.webPrivacy as x}<li>{x}</li>{/each}</ul>
-      <p class="dl">{c.desktopLead} <a href={DESKTOP_DOWNLOAD} target="_blank" rel="noopener">{t("downloadDesktop")}</a></p>
     </div>
   {:else}
     <p class="muted foot">{c.privacy}</p>

@@ -2,7 +2,7 @@
 // (vite.config.js đặt "web" khi `npm run build:web`, "desktop" khi build thường).
 // Plugin Tauri chỉ được nhập động trong nhánh desktop, nên bản web không mang code @tauri-apps/plugin-*.
 
-/** Bản build này chạy bằng code web (Worker + IndexedDB): bản web (dictionary.edtechcorner.com) VÀ app Android (Capacitor). */
+/** Bản build này chạy bằng code web (Worker + IndexedDB): bản web VÀ app Android (Capacitor). */
 export const IS_WEB = import.meta.env.VITE_TARGET === "web";
 
 /** App Android (Capacitor, PLAN-android). Luôn kèm IS_WEB; dùng cho phần khác bản web (không GA, giọng đọc gốc, nút Back…). */
@@ -100,6 +100,3 @@ export function devicePlatform(): "windows" | "mac" | "android" | "ios" | "other
 }
 
 /** Bộ cài bản desktop (dùng offline) — bản Release mới nhất trên GitHub (UC-M08). */
-export const DESKTOP_DOWNLOAD = "https://github.com/nguyennhuanhle/ec-advanced-learners-dictionary/releases/latest";
-/** Trang chủ Edtech Corner (bản web có liên kết về, UC-W04). */
-export const SITE_HOME = "https://edtechcorner.com";

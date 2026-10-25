@@ -115,7 +115,7 @@
   let saved = $state(new Set<string>());
   let tab = $state<"history" | "lists" | "domains" | "ielts">("history");
   let theme = $state<"auto" | "light" | "dark">("auto");
-  let palette = $state<Palette>("orange");
+  let palette = $state<Palette>("vintage");
   let fontSize = $state(16);
   let accent = $state<Accent>("us");
   let closed = $state(new Set<string>(["wikt"]));
@@ -162,7 +162,7 @@
       const st = await api.settings();
       ui.lang = (st.ui_lang as UiLang) ?? (IS_WEB && navigator.language?.toLowerCase().startsWith("vi") ? "vi" : "en");
       theme = (st.theme as typeof theme) ?? "auto";
-      palette = PALETTES.some((x) => x.id === st.palette) ? (st.palette as Palette) : "orange";
+      palette = PALETTES.some((x) => x.id === st.palette) ? (st.palette as Palette) : "vintage";
       mode = (st.mode as Mode) ?? "envi";
       fontSize = Number(st.font_size ?? 16) || 16;
       accent = (st.accent as Accent) ?? "us";

@@ -677,11 +677,8 @@ a {
   font-size: 2.7rem;
   font-weight: 700;
 }
-:root[data-palette="vintage"] .entry {
-  background: color-mix(in srgb, var(--surface) 92%, transparent);
-  border: 1px solid var(--line);
+:root[data-palette="vintage"] .head {
   border-radius: var(--r);
-  box-shadow: var(--shadow);
 }
 :root[data-palette="vintage"] .block,
 :root[data-palette="vintage"] .ielts-box,

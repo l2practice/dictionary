@@ -51,7 +51,7 @@
     const q = domQ.trim().toLowerCase();
     return domList.filter((r) => (!domAiOnly || r[3]) && (!q || r[0].toLowerCase().includes(q) || r[1].toLowerCase().includes(q))).slice(0, 600);
   });
-  type Palette = "orange" | "green" | "periwinkle" | "terra" | "rose" | "classic";
+  type Palette = "orange" | "green" | "periwinkle" | "terra" | "rose" | "classic" | "vintage";
   const PALETTES: { id: Palette; en: string; vi: string; sw: string }[] = [
     { id: "orange", en: "Orange", vi: "Cam", sw: "linear-gradient(135deg, #1f1b18 50%, #e8734a 50%)" },
     { id: "green", en: "Green", vi: "Xanh lá", sw: "linear-gradient(135deg, #0d3b26 50%, #1f9d63 50%)" },
@@ -59,6 +59,7 @@
     { id: "terra", en: "Terracotta", vi: "Đất nung", sw: "linear-gradient(135deg, #15171c 50%, #d4664f 50%)" },
     { id: "rose", en: "Rose", vi: "Hồng tím", sw: "linear-gradient(135deg, #c2337f 50%, #7b45c9 50%)" },
     { id: "classic", en: "Blue", vi: "Xanh cổ điển", sw: "linear-gradient(135deg, #0b3db8 50%, #0bbfcf 50%)" },
+    { id: "vintage", en: "Vintage", vi: "Giấy cũ", sw: "linear-gradient(135deg, #2f4a3a 50%, #e9d9b6 50%)" },
   ];
   import { base } from "$app/paths";
   // Màn hình chính: ô tìm + gợi ý, 3 chế độ, mục từ, lịch sử, danh sách từ, cài đặt, nguồn & giấy phép.
@@ -114,7 +115,7 @@
   let saved = $state(new Set<string>());
   let tab = $state<"history" | "lists" | "domains" | "ielts">("history");
   let theme = $state<"auto" | "light" | "dark">("auto");
-  let palette = $state<Palette>("orange");
+  let palette = $state<Palette>("vintage");
   let fontSize = $state(16);
   let accent = $state<Accent>("us");
   let closed = $state(new Set<string>(["wikt"]));
@@ -161,7 +162,7 @@
       const st = await api.settings();
       ui.lang = (st.ui_lang as UiLang) ?? (IS_WEB && navigator.language?.toLowerCase().startsWith("vi") ? "vi" : "en");
       theme = (st.theme as typeof theme) ?? "auto";
-      palette = PALETTES.some((x) => x.id === st.palette) ? (st.palette as Palette) : "orange";
+      palette = PALETTES.some((x) => x.id === st.palette) ? (st.palette as Palette) : "vintage";
       mode = (st.mode as Mode) ?? "envi";
       fontSize = Number(st.font_size ?? 16) || 16;
       accent = (st.accent as Accent) ?? "us";
